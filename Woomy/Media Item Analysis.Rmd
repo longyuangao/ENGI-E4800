@@ -68,7 +68,7 @@ Line Graph.
 ```{r}
 ggplot() + geom_line(aes(y=n, x=Year), data = newspapers) + geom_point() + xlab("Year") + ylab("Number of Newspapers") + ggtitle("Number of Black Newspapers per Year") + xlim(1865, 1965) + theme(plot.title = element_text(hjust = 0.5))
 ```
-Let's look at the average number of newspapers produced.
+Let's look at the average and median number of Black newspapers produced. It appears that an average of 15 Black newspapers were published per county. The median number of Black newspapers by county is 5.
 ```{r}
 avg_newspapers = media_abb %>% select(County, State) %>% group_by(County, State) %>% count() 
 
@@ -124,7 +124,6 @@ Now let's make some maps of the data. Here, we will explore how Black owned news
 ```{r}
 left_join(media_abb, county_data, by=c("Full_State" = "STATE", "County"="ALLCOUNTIES"))
 ```
-
 
 
 

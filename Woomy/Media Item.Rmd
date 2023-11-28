@@ -295,7 +295,7 @@ clean_df$County[clean_df$City == "Evansville"] <- "Vanderburgh"
 
 clean_df$County[clean_df$City == "Gainesville"] <- "Alachua"
 
-clean_df$County[clean_df$City == "Miami"] <- "Dade"
+clean_df$County[clean_df$City == "Miami"] <- "Dade, Miami-Dade County"
 ```
 
 ```{r}

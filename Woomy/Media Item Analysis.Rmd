@@ -60,9 +60,12 @@ Let's look at the distribution throughout the years.
 
 To put into perspective, the first Black owned and operated newspaper in the United States was founded in 1827. It was established the same year that slavery was abolished in New York State. 
 
-
 ```{r}
 newspapers = media_abb %>% select(Year) %>% group_by(Year) %>% count()
+
+#saving newspapers to a csv file
+
+write.csv(newspapers, "Black Newspapers (1865-1965)")
 ```
 Line Graph.
 ```{r}

@@ -1,0 +1,15 @@
+---
+title: "Dillon's Dataset"
+author: "Woomy Michel :)"
+date: "2023-11-29"
+output: html_document
+---
+
+```{r}
+library(tidycensus)
+```
+```{r}
+data("fips_codes")
+dillon_data = read.csv
+```
+

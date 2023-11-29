@@ -62,10 +62,6 @@ To put into perspective, the first Black owned and operated newspaper in the Uni
 
 ```{r}
 newspapers = media_abb %>% select(Year) %>% group_by(Year) %>% count()
-
-#saving newspapers to a csv file
-
-write.csv(newspapers, "Black Newspapers (1865-1965)")
 ```
 Line Graph.
 ```{r}
@@ -83,6 +79,11 @@ Let's see which Black newspaper company published the most newspapers.
 The newspapers that were most published were "The Indianapolis Recorder" (Marion County), "New York Age" (New York County) and the "Washington Afro American" (District of Columbia). Each of these Black newspapers, produced 50 or more newspapers between 1865 and 1965.
 ```{r}
 media_abb %>% select(Newspaper, County, Full_State) %>% group_by(Newspaper,County, Full_State) %>% count() %>% arrange(desc(n))
+```
+
+```{r}
+black_newspapers = left_join(media_abb, county_data, by=c("Full_State" = "STATE", "County"="ALLCOUNTIES"))
+write.csv(black_newspapers, "Black Newspapers.csv")
 ```
 
 Now that we've done our EDA, we will determine which counties had limited resources publishing Black newspapers. For the sake of our analysis, we will round the average number of newspapers published to the nearest integer. Counties that produced no newspapers will receive a 1 and counties that produced more a Black newspaper will receive a 0.

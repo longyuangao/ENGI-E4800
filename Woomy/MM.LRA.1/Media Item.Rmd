@@ -44,9 +44,9 @@ Changing the column names.
 df = df %>% select(new_string, city, state, V2)
 names(df) = c("Newspaper", "City", "State", "Year")
 ```
-Working with the MM.LRA1 item, so we only need years between 1865 and 1965.
+Working with the MM.LRA1 item, so we only need years before the Civil Rights Act of 1968.
 ```{r}
-clean_df = df %>% select(everything()) %>% filter(Year>=1865 & Year<=1965) %>% distinct()
+clean_df = df %>% select(everything()) %>% filter(Year< 1968) %>% distinct()
 ```
 Assigning the counties for each of the cities in the dataset.
 ```{r}
@@ -334,6 +334,12 @@ clean_df$County[clean_df$City == "Winston-Salem" ] <- "Forsyth"
 clean_df$County[clean_df$City == "Robbins" ] <- "Cook"
 
 clean_df$County[clean_df$City == "Roanoke" ] <- "Roanoke"
+
+clean_df$County[clean_df$City == "Rochester" ] <- "Monroe"
+
+clean_df$County[clean_df$City == "Abilene" ] <- "Taylor, Jones"
+
+clean_df$County[clean_df$City == "South Bend" ] <- "St Joseph"
 ```
 Since we stored multiple counties in one row, we'll separate them so each county will have its own row.
 ```{r}
@@ -343,7 +349,7 @@ clean_df = clean_df %>% separate_rows(County, sep = ",")
 clean_county = str_squish(clean_df$County)
 
 clean_df = cbind(clean_df, clean_county)
-clean_df = clean_df %>% select(Newspaper, City, State, Year, clean_county)
+clean_df = clean_df %>% select(Newspaper, City, State, Year, clean_county)  %>% filter(Year != "" & Year != ".")
 
 colnames(clean_df)[5] <- "County"
 ```

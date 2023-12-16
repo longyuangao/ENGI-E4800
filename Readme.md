@@ -12,7 +12,7 @@ iom2105@columbia.edu
 lg3230@columbia.edu
 wm2474@columbia.edu
 
-Accenture mentor & co-mentors: Dr. Paris “AJ” Adkins-Jackson
+MLCSR mentor & co-mentors: Dr. Paris “AJ” Adkins-Jackson
 
 Instructor/CA: Prof. Sining Chen
 

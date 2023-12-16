@@ -1,0 +1,3259 @@
+,STATE,GISJOIN,STATEICP,STATEFIPS,COUNTYFIPS,ALLCOUNTIES,EPLRA2
+0,Alabama,G0100010,41,1,10,Autauga,0
+1,Alabama,G0100030,41,1,30,Baldwin,1
+2,Alabama,G0100050,41,1,50,Barbour,0
+3,Alabama,G0100070,41,1,70,Bibb,0
+4,Alabama,G0100090,41,1,90,Blount,0
+5,Alabama,G0100110,41,1,110,Bullock,0
+6,Alabama,G0100130,41,1,130,Butler,1
+7,Alabama,G0100150,41,1,150,Calhoun,1
+8,Alabama,G0100170,41,1,170,Chambers,0
+9,Alabama,G0100190,41,1,190,Cherokee,0
+10,Alabama,G0100210,41,1,210,Chilton,0
+11,Alabama,G0100230,41,1,230,Choctaw,0
+12,Alabama,G0100250,41,1,250,Clarke,0
+13,Alabama,G0100270,41,1,270,Clay,0
+14,Alabama,G0100290,41,1,290,Cleburne,0
+15,Alabama,G0100310,41,1,310,Coffee,0
+16,Alabama,G0100330,41,1,330,Colbert,0
+17,Alabama,G0100350,41,1,350,Conecuh,0
+18,Alabama,G0100370,41,1,370,Coosa,0
+19,Alabama,G0100390,41,1,390,Covington,0
+20,Alabama,G0100410,41,1,410,Crenshaw,0
+21,Alabama,G0100430,41,1,430,Cullman,0
+22,Alabama,G0100450,41,1,450,Dale,0
+23,Alabama,G0100470,41,1,470,Dallas,0
+24,Alabama,G0100490,41,1,490,DeKalb,0
+25,Alabama,G0100510,41,1,510,Elmore,0
+26,Alabama,G0100530,41,1,530,Escambia,0
+27,Alabama,G0100550,41,1,550,Etowah,0
+28,Alabama,G0100570,41,1,570,Fayette,0
+29,Alabama,G0100590,41,1,590,Franklin,0
+30,Alabama,G0100610,41,1,610,Geneva,0
+31,Alabama,G0100630,41,1,630,Greene,0
+32,Alabama,G0100650,41,1,650,Hale,0
+33,Alabama,G0100670,41,1,670,Henry,0
+34,Alabama,G0100690,41,1,690,Houston,0
+35,Alabama,G0100710,41,1,710,Jackson,0
+36,Alabama,G0100730,41,1,730,Jefferson,1
+37,Alabama,G0100750,41,1,750,Lamar,0
+38,Alabama,G0100770,41,1,770,Lauderdale,0
+39,Alabama,G0100790,41,1,790,Lawrence,0
+40,Alabama,G0100810,41,1,810,Lee,0
+41,Alabama,G0100830,41,1,830,Limestone,1
+42,Alabama,G0100850,41,1,850,Lowndes,0
+43,Alabama,G0100870,41,1,870,Macon,0
+44,Alabama,G0100890,41,1,890,Madison,1
+45,Alabama,G0100910,41,1,910,Marengo,0
+46,Alabama,G0100930,41,1,930,Marion,0
+47,Alabama,G0100950,41,1,950,Marshall,0
+48,Alabama,G0100970,41,1,970,Mobile,1
+49,Alabama,G0100990,41,1,990,Monroe,0
+50,Alabama,G0101010,41,1,1010,Montgomery,1
+51,Alabama,G0101030,41,1,1030,Morgan,0
+52,Alabama,G0101050,41,1,1050,Perry,0
+53,Alabama,G0101070,41,1,1070,Pickens,0
+54,Alabama,G0101090,41,1,1090,Pike,0
+55,Alabama,G0101110,41,1,1110,Randolph,0
+56,Alabama,G0101130,41,1,1130,Russell,0
+57,Alabama,G0101170,41,1,1170,Shelby,0
+58,Alabama,G0101150,41,1,1150,St Clair,0
+59,Alabama,G0100010,41,1,1190,Sumter,0
+60,Alabama,G0100030,41,1,1210,Talladega,1
+61,Alabama,G0100050,41,1,1230,Tallapoosa,0
+62,Alabama,G0100070,41,1,1250,Tuscaloosa,0
+63,Alabama,G0100090,41,1,1270,Walker,0
+64,Alabama,G0100110,41,1,1290,Washington,1
+65,Alabama,G0100130,41,1,1310,Wilcox,0
+66,Alabama,G0100150,41,1,1330,Winston,0
+67,Alaska,G0100250,81,2,10,Aleutian Islands,0
+68,Alaska,G0100270,81,2,13,Aleutians East,0
+69,Alaska,G0100290,81,2,16,Aleutians West,0
+70,Alaska,G0100310,81,2,20,Anchorage,0
+71,Alaska,G0100330,81,2,40,Barrow,0
+72,Alaska,G0100350,81,2,50,Bethel,0
+73,Alaska,G0100370,81,2,60,Bristol Bay Borough,0
+74,Alaska,G0100390,81,2,62,Bristol Bay Division,0
+75,Alaska,G0100410,81,2,63,Chugach Census Area,0
+76,Alaska,G0100430,81,2,66,Copper River Census Area,0
+77,Alaska,G0100450,81,2,80,Cordova-McCarthy,0
+78,Alaska,G0100470,81,2,68,Denali,0
+79,Alaska,G0100490,81,2,70,Dillingham,0
+80,Alaska,G0100510,81,2,90,Fairbanks North Star,0
+81,Alaska,G0100530,81,2,100,Haines,0
+82,Alaska,G0100550,81,2,105,Hoonah-Angoon Census Area,0
+83,Alaska,G0100570,81,2,110,Juneau,0
+84,Alaska,G0100590,81,2,122,Kenai Peninsula,0
+85,Alaska,G0100610,81,2,120,Kenai-Cook Inlet,0
+86,Alaska,G0100630,81,2,130,Ketchikan Gateway,0
+87,Alaska,G0100650,81,2,140,Kobuk,0
+88,Alaska,G0100670,81,2,150,Kodiak Island,0
+89,Alaska,G0100690,81,2,158,Kusilvak Census Area,0
+90,Alaska,G0100710,81,2,160,Kuskokwim,0
+91,Alaska,G0100730,81,2,164,Lake And Peninsula,0
+92,Alaska,G0100750,81,2,170,Matanuska-Susitna,0
+93,Alaska,G0100770,81,2,180,Nome,0
+94,Alaska,G0100790,81,2,185,North Slope,0
+95,Alaska,G0100810,81,2,188,Northwest Arctic,0
+96,Alaska,G0100830,81,2,190,Outer Ketchikan,0
+97,Alaska,G0100850,81,2,195,Petersburg Borough,0
+98,Alaska,G0100870,81,2,200,Prince Of Wales,0
+99,Alaska,G0100890,81,2,198,Prince of Wales-Hyder Census Area,0
+100,Alaska,G0100910,81,2,201,Prince Of Wales-Outer Ketchikan,0
+101,Alaska,G0100930,81,2,210,Seward,0
+102,Alaska,G0100950,81,2,220,Sitka,0
+103,Alaska,G0100970,81,2,230,Skagway Municipality,0
+104,Alaska,G0100990,81,2,232,Skagway-Hoonah-Angoon,0
+105,Alaska,G0101010,81,2,231,Skagway-Yakutat-Angoon,0
+106,Alaska,G0101030,81,2,240,Southeast Fairbanks,0
+107,Alaska,G0101050,81,2,250,Upper Yukon,0
+108,Alaska,G0101070,81,2,260,Valdez-Chitina-Whittier,0
+109,Alaska,G0101090,81,2,261,Valdez-Cordova,0
+110,Alaska,G0101110,81,2,270,Wade Hampton,0
+111,Alaska,G0101130,81,2,280,Wrangell City and Borough,0
+112,Alaska,G0101150,81,2,280,Wrangell-Petersburg,0
+113,Alaska,G0101170,81,2,282,Yakutat,0
+114,Alaska,G0101190,81,2,290,Yukon-Koyukuk,0
+115,Alaska Territory,G0100170,81,2,15,First Judicial Dist,0
+116,Alaska Territory,G0100190,81,2,35,Fourth Judicial Dist,0
+117,Alaska Territory,G0100210,81,2,75,Second Judicial Dist,0
+118,Alaska Territory,G0100230,81,2,115,Third Judicial Dist,0
+119,Arizona,G0101210,61,4,10,Apache,0
+120,Arizona,G0101230,61,4,30,Cochise,0
+121,Arizona,G0101250,61,4,50,Coconino,0
+122,Arizona,G0101270,61,4,70,Gila,0
+123,Arizona,G0101290,61,4,90,Graham,0
+124,Arizona,G0101310,61,4,110,Greenlee,0
+125,Arizona,G0101330,,4,120,La Paz,0
+126,Arizona,G0250015,61,4,130,Maricopa,1
+127,Arizona,G0250035,61,4,150,Mohave,0
+128,Arizona,G0250075,61,4,170,Navajo,0
+129,Arizona,G0250115,61,4,190,Pima,0
+130,Arizona,G0200100,61,4,210,Pinal,0
+131,Arizona,G0200130,61,4,230,Santa Cruz,0
+132,Arizona,G0200160,61,4,250,Yavapai,0
+133,Arizona,G0200200,61,4,270,Yuma,0
+134,Arkansas,G0200400,42,5,10,Arkansas,0
+135,Arkansas,G0200500,42,5,30,Ashley,0
+136,Arkansas,G0200600,42,5,50,Baxter,0
+137,Arkansas,G0200620,42,5,70,Benton,0
+138,Arkansas,G0200630,42,5,90,Boone,0
+139,Arkansas,G0200660,42,5,110,Bradley,0
+140,Arkansas,G0200800,42,5,130,Calhoun,0
+141,Arkansas,G0200680,42,5,150,Carroll,0
+142,Arkansas,G0200700,42,5,170,Chicot,0
+143,Arkansas,G0200900,42,5,190,Clark,0
+144,Arkansas,G0201000,42,5,210,Clay,0
+145,Arkansas,G0201050,42,5,230,Cleburne,0
+146,Arkansas,G0201100,42,5,250,Cleveland,0
+147,Arkansas,G0201220,42,5,270,Columbia,0
+148,Arkansas,G0201200,42,5,290,Conway,0
+149,Arkansas,G0201300,42,5,310,Craighead,0
+150,Arkansas,G0201400,42,5,330,Crawford,0
+151,Arkansas,G0201500,42,5,350,Crittenden,1
+152,Arkansas,G0201580,42,5,370,Cross,0
+153,Arkansas,G0201600,42,5,390,Dallas,0
+154,Arkansas,G0201640,42,5,410,Desha,0
+155,Arkansas,G0201700,42,5,430,Drew,0
+156,Arkansas,G0201800,42,5,450,Faulkner,0
+157,Arkansas,G0201850,42,5,470,Franklin,0
+158,Arkansas,G0201880,42,5,490,Fulton,0
+159,Arkansas,G0201900,42,5,510,Garland,0
+160,Arkansas,G0201950,42,5,530,Grant,0
+161,Arkansas,G0202000,42,5,550,Greene,0
+162,Arkansas,G0201980,42,5,570,Hempstead,0
+163,Arkansas,G0202010,42,5,590,Hot Spring,0
+164,Arkansas,G0202100,42,5,610,Howard,0
+165,Arkansas,G0202200,42,5,630,Independence,0
+166,Arkansas,G0202300,42,5,650,Izard,0
+167,Arkansas,G0202320,42,5,670,Jackson,0
+168,Arkansas,G0202310,42,5,690,Jefferson,0
+169,Arkansas,G0202400,42,5,710,Johnson,0
+170,Arkansas,G0202500,42,5,730,Lafayette,0
+171,Arkansas,G0202600,42,5,750,Lawrence,0
+172,Arkansas,G0202610,42,5,770,Lee,0
+173,Arkansas,G0202700,42,5,790,Lincoln,0
+174,Arkansas,G0202800,42,5,810,Little River,0
+175,Arkansas,G0202800,42,5,830,Logan,0
+176,Arkansas,G0202820,42,5,850,Lonoke,0
+177,Arkansas,G0202900,42,5,870,Madison,0
+178,Arkansas,G0400010,42,5,890,Marion,0
+179,Arkansas,G0400030,42,5,910,Miller,0
+180,Arkansas,G0400050,42,5,930,Mississippi,0
+181,Arkansas,G0400070,42,5,950,Monroe,0
+182,Arkansas,G0400090,42,5,970,Montgomery,0
+183,Arkansas,G0400110,42,5,990,Nevada,0
+184,Arkansas,G0400120,42,5,1010,Newton,0
+185,Arkansas,G0400130,42,5,1030,Ouachita,0
+186,Arkansas,G0400150,42,5,1050,Perry,0
+187,Arkansas,G0400170,42,5,1070,Phillips,1
+188,Arkansas,G0400190,42,5,1090,Pike,0
+189,Arkansas,G0400210,42,5,1110,Poinsett,0
+190,Arkansas,G0400230,42,5,1130,Polk,0
+191,Arkansas,G0400250,42,5,1150,Pope,0
+192,Arkansas,G0400270,42,5,1170,Prairie,0
+193,Arkansas,G0500010,42,5,1190,Pulaski,1
+194,Arkansas,G0500030,42,5,1210,Randolph,0
+195,Arkansas,G0500070,42,5,1250,Saline,0
+196,Arkansas,G0500090,42,5,1270,Scott,0
+197,Arkansas,G0500110,42,5,1290,Searcy,0
+198,Arkansas,G0500130,42,5,1310,Sebastian,0
+199,Arkansas,G0500150,42,5,1330,Sevier,0
+200,Arkansas,G0500170,42,5,1350,Sharp,0
+201,Arkansas,G0500050,42,5,1230,St Francis,0
+202,Arkansas,G0500190,42,5,1370,Stone,0
+203,Arkansas,G0500210,42,5,1390,Union,1
+204,Arkansas,G0500230,42,5,1410,Van Buren,0
+205,Arkansas,G0500250,42,5,1430,Washington,0
+206,Arkansas,G0500270,42,5,1450,White,0
+207,Arkansas,G0500290,42,5,1470,Woodruff,0
+208,Arkansas,G0500310,42,5,1490,Yell,0
+209,California,G0500330,71,6,10,Alameda,1
+210,California,G0500350,71,6,30,Alpine,0
+211,California,G0500370,71,6,50,Amador,0
+212,California,G0500390,71,6,70,Butte,0
+213,California,G0500410,71,6,90,Calaveras,0
+214,California,G0500430,71,6,110,Colusa,0
+215,California,G0500450,71,6,130,Contra Costa,1
+216,California,G0500470,71,6,150,Del Norte,0
+217,California,G0500490,71,6,170,El Dorado,0
+218,California,G0500510,71,6,190,Fresno,0
+219,California,G0500530,71,6,210,Glenn,0
+220,California,G0500550,71,6,230,Humboldt,0
+221,California,G0500570,71,6,250,Imperial,0
+222,California,G0500590,71,6,270,Inyo,0
+223,California,G0500610,71,6,290,Kern,0
+224,California,G0500630,71,6,310,Kings,0
+225,California,G0500650,71,6,330,Lake,0
+226,California,G0500670,71,6,350,Lassen,0
+227,California,G0500690,71,6,370,Los Angeles,1
+228,California,G0500710,71,6,390,Madera,0
+229,California,G0500730,71,6,410,Marin,0
+230,California,G0500750,71,6,430,Mariposa,0
+231,California,G0500770,71,6,450,Mendocino,0
+232,California,G0500790,71,6,470,Merced,0
+233,California,G0500810,71,6,490,Modoc,0
+234,California,G0500830,71,6,510,Mono,0
+235,California,G0500850,71,6,530,Monterey,1
+236,California,G0500870,71,6,550,Napa,0
+237,California,G0500890,71,6,570,Nevada,0
+238,California,G0500910,71,6,590,Orange,0
+239,California,G0500930,71,6,610,Placer,0
+240,California,G0500950,71,6,630,Plumas,0
+241,California,G0500970,71,6,650,Riverside,1
+242,California,G0500990,71,6,670,Sacramento,1
+243,California,G0501010,71,6,690,San Benito,0
+244,California,G0501030,71,6,710,San Bernardino,1
+245,California,G0501050,71,6,730,San Diego,1
+246,California,G0501070,71,6,750,San Francisco,1
+247,California,G0501090,71,6,770,San Joaquin,0
+248,California,G0501110,71,6,790,San Luis Obispo,0
+249,California,G0501130,71,6,810,San Mateo,0
+250,California,G0501150,71,6,830,Santa Barbara,0
+251,California,G0501170,71,6,850,Santa Clara,0
+252,California,G0501190,71,6,870,Santa Cruz,0
+253,California,G0501210,71,6,890,Shasta,0
+254,California,G0501230,71,6,910,Sierra,0
+255,California,G0501250,71,6,930,Siskiyou,0
+256,California,G0501270,71,6,950,Solano,1
+257,California,G0501290,71,6,970,Sonoma,0
+258,California,G0501310,71,6,990,Stanislaus,0
+259,California,G0501330,71,6,1010,Sutter,0
+260,California,G0501350,71,6,1030,Tehama,0
+261,California,G0501370,71,6,1050,Trinity,0
+262,California,G0501390,71,6,1070,Tulare,0
+263,California,G0501410,71,6,1090,Tuolumne,0
+264,California,G0501430,71,6,1110,Ventura,0
+265,California,G0501450,71,6,1130,Yolo,0
+266,California,G0501470,71,6,1150,Yuba,0
+267,Colorado,G0501490,62,8,10,Adams,1
+268,Colorado,G0600010,62,8,30,Alamosa,0
+269,Colorado,G0600030,62,8,50,Arapahoe,1
+270,Colorado,G0600050,62,8,70,Archuleta,0
+271,Colorado,G0600070,62,8,90,Baca,0
+272,Colorado,G0600090,62,8,110,Bent,0
+273,Colorado,G0600110,62,8,130,Boulder,0
+274,Colorado,G0600130,,8,14,Broomfield County,0
+275,Colorado,G0600150,62,8,150,Chaffee,0
+276,Colorado,G0600170,62,8,170,Cheyenne,0
+277,Colorado,G0600190,62,8,190,Clear Creek,0
+278,Colorado,G0600210,62,8,210,Conejos,0
+279,Colorado,G0600230,62,8,230,Costilla,0
+280,Colorado,G0600250,62,8,250,Crowley,0
+281,Colorado,G0600270,62,8,270,Custer,0
+282,Colorado,G0600290,62,8,290,Delta,0
+283,Colorado,G0600310,62,8,310,Denver,1
+284,Colorado,G0600330,62,8,330,Dolores,0
+285,Colorado,G0600350,62,8,350,Douglas,0
+286,Colorado,G0600370,62,8,370,Eagle,0
+287,Colorado,G0600410,62,8,410,El Paso,0
+288,Colorado,G0600390,62,8,390,Elbert,0
+289,Colorado,G0600430,62,8,430,Fremont,0
+290,Colorado,G0600450,62,8,450,Garfield,0
+291,Colorado,G0600470,62,8,470,Gilpin,0
+292,Colorado,G0600490,62,8,490,Grand,0
+293,Colorado,G0600510,62,8,510,Gunnison,0
+294,Colorado,G0600530,62,8,530,Hinsdale,0
+295,Colorado,G0600550,62,8,550,Huerfano,0
+296,Colorado,G0600570,62,8,570,Jackson,0
+297,Colorado,G0600590,62,8,590,Jefferson,0
+298,Colorado,G0600610,62,8,610,Kiowa,0
+299,Colorado,G0600630,62,8,630,Kit Carson,0
+300,Colorado,G0600670,62,8,670,La Plata,0
+301,Colorado,G0600650,62,8,650,Lake,0
+302,Colorado,G0600690,62,8,690,Larimer,0
+303,Colorado,G0600710,62,8,710,Las Animas,0
+304,Colorado,G0600730,62,8,730,Lincoln,0
+305,Colorado,G0600750,62,8,750,Logan,0
+306,Colorado,G0600770,62,8,770,Mesa,0
+307,Colorado,G0600790,62,8,790,Mineral,0
+308,Colorado,G0600810,62,8,810,Moffat,0
+309,Colorado,G0600830,62,8,830,Montezuma,0
+310,Colorado,G0600850,62,8,850,Montrose,0
+311,Colorado,G0600870,62,8,870,Morgan,0
+312,Colorado,G0600890,62,8,890,Otero,0
+313,Colorado,G0600910,62,8,910,Ouray,0
+314,Colorado,G0600930,62,8,930,Park,0
+315,Colorado,G0600950,62,8,950,Phillips,0
+316,Colorado,G0600970,62,8,970,Pitkin,0
+317,Colorado,G0600990,62,8,990,Prowers,0
+318,Colorado,G0601010,62,8,1010,Pueblo,0
+319,Colorado,G0601050,62,8,1030,Rio Blanco,0
+320,Colorado,G0601070,62,8,1050,Rio Grande,0
+321,Colorado,G0601030,,8,1070,Routt County,0
+322,Colorado,G0601110,62,8,1090,Saguache,0
+323,Colorado,G0601130,62,8,1110,San Juan,0
+324,Colorado,G0601150,62,8,1130,San Miguel,0
+325,Colorado,G0800010,62,8,1150,Sedgwick,0
+326,Colorado,G0800030,62,8,1170,Summit,0
+327,Colorado,G0800050,62,8,1190,Teller,0
+328,Colorado,G0800070,62,8,1210,Washington,0
+329,Colorado,G0800090,62,8,1230,Weld,0
+330,Colorado,G0800110,62,8,1250,Yuma,0
+331,Connecticut,G0800130,1,9,10,Fairfield,1
+332,Connecticut,G0800140,1,9,30,Hartford,1
+333,Connecticut,G0800150,1,9,50,Litchfield,0
+334,Connecticut,G0800170,1,9,70,Middlesex,0
+335,Connecticut,G0800190,1,9,90,New Haven,1
+336,Connecticut,G0800210,1,9,110,New London,0
+337,Connecticut,G0800230,1,9,130,Tolland,0
+338,Connecticut,G0800250,1,9,150,Windham,0
+339,Delaware,G0800270,11,10,10,Kent,1
+340,Delaware,G0800290,11,10,30,New Castle,1
+341,Delaware,G0800310,11,10,50,Sussex,1
+342,District Of Columbia,G0800330,98,11,10,District Of Columbia,1
+343,Florida,G0800350,43,12,10,Alachua,1
+344,Florida,G0800370,43,12,30,Baker,0
+345,Florida,G0800390,43,12,50,Bay,0
+346,Florida,G0800410,43,12,70,Bradford,0
+347,Florida,G0800430,43,12,90,Brevard,1
+348,Florida,G0800450,43,12,110,Broward,1
+349,Florida,G0800470,43,12,130,Calhoun,0
+350,Florida,G0800490,43,12,150,Charlotte,0
+351,Florida,G0800510,43,12,170,Citrus,0
+352,Florida,G0800530,43,12,190,Clay,0
+353,Florida,G0800550,43,12,210,Collier,0
+354,Florida,G0800570,43,12,230,Columbia,0
+355,Florida,G0800590,43,12,250,Dade,1
+356,Florida,G0800610,43,12,270,DeSoto,0
+357,Florida,G0800630,43,12,290,Dixie,0
+358,Florida,G0800650,43,12,310,Duval,1
+359,Florida,G0800670,43,12,330,Escambia,1
+360,Florida,G0800690,43,12,350,Flagler,0
+361,Florida,G0800710,43,12,370,Franklin,0
+362,Florida,G0800730,43,12,390,Gadsden,1
+363,Florida,G0800750,43,12,410,Gilchrist,0
+364,Florida,G0800770,43,12,430,Glades,0
+365,Florida,G0800790,43,12,450,Gulf,0
+366,Florida,G0800810,43,12,470,Hamilton,0
+367,Florida,G0800830,43,12,490,Hardee,0
+368,Florida,G0800850,43,12,510,Hendry,0
+369,Florida,G0800870,43,12,530,Hernando,0
+370,Florida,G0800890,43,12,550,Highlands,0
+371,Florida,G0800910,43,12,570,Hillsborough,1
+372,Florida,G0800930,43,12,590,Holmes,0
+373,Florida,G0800950,43,12,610,Indian River,0
+374,Florida,G0800970,43,12,630,Jackson,1
+375,Florida,G0800990,43,12,650,Jefferson,0
+376,Florida,G0801010,43,12,670,Lafayette,0
+377,Florida,G0801070,43,12,690,Lake,0
+378,Florida,G0801030,43,12,710,Lee,0
+379,Florida,G0801050,43,12,730,Leon,0
+380,Florida,G0801070,43,12,750,Levy,0
+381,Florida,G0801090,43,12,770,Liberty,0
+382,Florida,G0801110,43,12,790,Madison,1
+383,Florida,G0801130,43,12,810,Manatee,0
+384,Florida,G0801150,43,12,830,Marion,0
+385,Florida,G0801170,43,12,850,Martin,0
+386,Florida,G0801190,,12,86,Miami-Dade County,1
+387,Florida,G0801210,43,12,870,Monroe,0
+388,Florida,G0801230,43,12,890,Nassau,0
+389,Florida,G0801250,43,12,910,Okaloosa,0
+390,Florida,G0900010,43,12,930,Okeechobee,0
+391,Florida,G0900030,43,12,950,Orange,1
+392,Florida,G0900050,43,12,970,Osceola,0
+393,Florida,G0900070,43,12,990,Palm Beach,1
+394,Florida,G0900090,43,12,1010,Pasco,0
+395,Florida,G0900110,43,12,1030,Pinellas,0
+396,Florida,G0900130,43,12,1050,Polk,1
+397,Florida,G0900150,43,12,1070,Putnam,0
+398,Florida,G1000050,43,12,1130,Santa Rosa,1
+399,Florida,G1100010,43,12,1150,Sarasota,0
+400,Florida,G1200010,43,12,1170,Seminole,0
+401,Florida,G1000010,43,12,1090,St Johns,0
+402,Florida,G1000030,43,12,1110,St Lucie,0
+403,Florida,G1200030,43,12,1190,Sumter,0
+404,Florida,G1200050,43,12,1210,Suwannee,1
+405,Florida,G1200070,43,12,1230,Taylor,0
+406,Florida,G1200090,43,12,1250,Union,0
+407,Florida,G1200110,43,12,1270,Volusia,0
+408,Florida,G1200130,43,12,1290,Wakulla,0
+409,Florida,G1200150,43,12,1310,Walton,0
+410,Florida,G1200170,43,12,1330,Washington,0
+411,Georgia,G1200190,44,13,10,Appling,0
+412,Georgia,G1200210,44,13,30,Atkinson,0
+413,Georgia,G1200230,44,13,50,Bacon,0
+414,Georgia,G1200250,44,13,70,Baker,0
+415,Georgia,G1200270,44,13,90,Baldwin,0
+416,Georgia,G1200290,44,13,110,Banks,0
+417,Georgia,G1200310,44,13,130,Barrow,0
+418,Georgia,G1200330,44,13,150,Bartow,0
+419,Georgia,G1200350,44,13,170,Ben Hill,0
+420,Georgia,G1200370,44,13,190,Berrien,0
+421,Georgia,G1200390,44,13,210,Bibb,1
+422,Georgia,G1200410,44,13,230,Bleckley,0
+423,Georgia,G1200430,44,13,250,Brantley,0
+424,Georgia,G1200450,44,13,270,Brooks,0
+425,Georgia,G1200470,44,13,290,Bryan,0
+426,Georgia,G1200490,44,13,310,Bulloch,0
+427,Georgia,G1200510,44,13,330,Burke,0
+428,Georgia,G1200530,44,13,350,Butts,0
+429,Georgia,G1200550,44,13,370,Calhoun,0
+430,Georgia,G1200570,44,13,390,Camden,0
+431,Georgia,G1200610,44,13,430,Candler,0
+432,Georgia,G1200630,44,13,450,Carroll,0
+433,Georgia,G1200650,44,13,470,Catoosa,0
+434,Georgia,G1200670,44,13,490,Charlton,0
+435,Georgia,G1200690,44,13,510,Chatham,0
+436,Georgia,G1200710,44,13,530,Chattahoochee,0
+437,Georgia,G1200730,44,13,550,Chattooga,0
+438,Georgia,G1200750,44,13,570,Cherokee,0
+439,Georgia,G1200770,44,13,590,Clarke,1
+440,Georgia,G1200790,44,13,610,Clay,0
+441,Georgia,G1200810,44,13,630,Clayton,0
+442,Georgia,G1200830,44,13,650,Clinch,0
+443,Georgia,G1200850,44,13,670,Cobb,0
+444,Georgia,G1200860,44,13,690,Coffee,0
+445,Georgia,G1200870,44,13,710,Colquitt,0
+446,Georgia,G1200890,44,13,730,Columbia,0
+447,Georgia,G1200910,44,13,750,Cook,0
+448,Georgia,G1200930,44,13,770,Coweta,0
+449,Georgia,G1200950,44,13,790,Crawford,0
+450,Georgia,G1200970,44,13,810,Crisp,0
+451,Georgia,G1200990,44,13,830,Dade,0
+452,Georgia,G1201010,44,13,850,Dawson,0
+453,Georgia,G1201030,44,13,870,Decatur,0
+454,Georgia,G1201050,44,13,890,DeKalb,0
+455,Georgia,G1201070,44,13,910,Dodge,0
+456,Georgia,G1201090,44,13,930,Dooly,0
+457,Georgia,G1201110,44,13,950,Dougherty,1
+458,Georgia,G1201130,44,13,970,Douglas,0
+459,Georgia,G1201150,44,13,990,Early,0
+460,Georgia,G1201170,44,13,1010,Echols,0
+461,Georgia,G1201190,44,13,1030,Effingham,0
+462,Georgia,G1201210,44,13,1050,Elbert,0
+463,Georgia,G1201230,44,13,1070,Emanuel,0
+464,Georgia,G1201250,44,13,1090,Evans,0
+465,Georgia,G1201270,44,13,1110,Fannin,0
+466,Georgia,G1201290,44,13,1130,Fayette,0
+467,Georgia,G1201310,44,13,1150,Floyd,0
+468,Georgia,G1201330,44,13,1170,Forsyth,0
+469,Georgia,G1300010,44,13,1190,Franklin,0
+470,Georgia,G1300030,44,13,1210,Fulton,0
+471,Georgia,G1300050,44,13,1230,Gilmer,0
+472,Georgia,G1300070,44,13,1250,Glascock,0
+473,Georgia,G1300090,44,13,1270,Glynn,1
+474,Georgia,G1300110,44,13,1290,Gordon,0
+475,Georgia,G1300130,44,13,1310,Grady,0
+476,Georgia,G1300150,44,13,1330,Greene,0
+477,Georgia,G1300170,44,13,1350,Gwinnett,0
+478,Georgia,G1300190,44,13,1370,Habersham,0
+479,Georgia,G1300210,44,13,1390,Hall,0
+480,Georgia,G1300230,44,13,1410,Hancock,0
+481,Georgia,G1300250,44,13,1430,Haralson,0
+482,Georgia,G1300270,44,13,1450,Harris,0
+483,Georgia,G1300290,44,13,1470,Hart,0
+484,Georgia,G1300310,44,13,1490,Heard,0
+485,Georgia,G1300330,44,13,1510,Henry,0
+486,Georgia,G1300350,44,13,1530,Houston,1
+487,Georgia,G1300370,44,13,1550,Irwin,0
+488,Georgia,G1300390,44,13,1570,Jackson,0
+489,Georgia,G1300395,44,13,1590,Jasper,0
+490,Georgia,G1300430,44,13,1610,Jeff Davis,0
+491,Georgia,G1300450,44,13,1630,Jefferson,0
+492,Georgia,G1300470,44,13,1650,Jenkins,0
+493,Georgia,G1300490,44,13,1670,Johnson,0
+494,Georgia,G1300510,44,13,1690,Jones,0
+495,Georgia,G1300530,44,13,1710,Lamar,0
+496,Georgia,G1300550,44,13,1730,Lanier,0
+497,Georgia,G1300570,44,13,1750,Laurens,0
+498,Georgia,G1300590,44,13,1770,Lee,0
+499,Georgia,G1300610,44,13,1790,Liberty,0
+500,Georgia,G1300630,44,13,1810,Lincoln,0
+501,Georgia,G1300650,44,13,1830,Long,0
+502,Georgia,G1300670,44,13,1850,Lowndes,0
+503,Georgia,G1300690,44,13,1870,Lumpkin,0
+504,Georgia,G1300750,44,13,1930,Macon,0
+505,Georgia,G1300770,44,13,1950,Madison,0
+506,Georgia,G1300790,44,13,1970,Marion,0
+507,Georgia,G1300710,44,13,1890,McDuffie,0
+508,Georgia,G1300730,44,13,1910,McIntosh,0
+509,Georgia,G1300810,44,13,1990,Meriwether,0
+510,Georgia,G1300830,44,13,2010,Miller,0
+511,Georgia,G1300850,44,13,2015,Milton,0
+512,Georgia,G1300870,44,13,2050,Mitchell,1
+513,Georgia,G1300890,44,13,2070,Monroe,0
+514,Georgia,G1300910,44,13,2090,Montgomery,0
+515,Georgia,G1300930,44,13,2110,Morgan,0
+516,Georgia,G1300950,44,13,2130,Murray,0
+517,Georgia,G1300970,44,13,2150,Muscogee,0
+518,Georgia,G1300990,44,13,2170,Newton,0
+519,Georgia,G1301010,44,13,2190,Oconee,0
+520,Georgia,G1301030,44,13,2210,Oglethorpe,0
+521,Georgia,G1301050,44,13,2230,Paulding,0
+522,Georgia,G1301070,44,13,2250,Peach,1
+523,Georgia,G1301090,44,13,2270,Pickens,0
+524,Georgia,G1301110,44,13,2290,Pierce,0
+525,Georgia,G1301130,44,13,2310,Pike,0
+526,Georgia,G1301150,44,13,2330,Polk,1
+527,Georgia,G1301170,44,13,2350,Pulaski,0
+528,Georgia,G1301190,44,13,2370,Putnam,0
+529,Georgia,G1301210,44,13,2390,Quitman,0
+530,Georgia,G1301230,44,13,2410,Rabun,0
+531,Georgia,G1301250,44,13,2430,Randolph,0
+532,Georgia,G1301270,44,13,2450,Richmond,1
+533,Georgia,G1301290,44,13,2470,Rockdale,0
+534,Georgia,G1301310,44,13,2490,Schley,0
+535,Georgia,G1301330,44,13,2510,Screven,0
+536,Georgia,G1301350,44,13,2530,Seminole,0
+537,Georgia,G1301370,44,13,2550,Spalding,0
+538,Georgia,G1301390,44,13,2570,Stephens,0
+539,Georgia,G1301410,44,13,2590,Stewart,0
+540,Georgia,G1301430,44,13,2610,Sumter,0
+541,Georgia,G1301450,44,13,2630,Talbot,0
+542,Georgia,G1301470,44,13,2650,Taliaferro,0
+543,Georgia,G1301490,44,13,2670,Tattnall,0
+544,Georgia,G1301510,44,13,2690,Taylor,0
+545,Georgia,G1301530,44,13,2710,Telfair,0
+546,Georgia,G1301550,44,13,2730,Terrell,0
+547,Georgia,G1301570,44,13,2750,Thomas,0
+548,Georgia,G1301590,44,13,2770,Tift,1
+549,Georgia,G1301610,44,13,2790,Toombs,0
+550,Georgia,G1301630,44,13,2810,Towns,0
+551,Georgia,G1301650,44,13,2830,Treutlen,0
+552,Georgia,G1301670,44,13,2850,Troup,0
+553,Georgia,G1301690,44,13,2870,Turner,0
+554,Georgia,G1301710,44,13,2890,Twiggs,0
+555,Georgia,G1301730,44,13,2910,Union,0
+556,Georgia,G1301750,44,13,2930,Upson,0
+557,Georgia,G1301770,44,13,2950,Walker,0
+558,Georgia,G1301790,44,13,2970,Walton,0
+559,Georgia,G1301810,44,13,2990,Ware,0
+560,Georgia,G1301830,44,13,3010,Warren,0
+561,Georgia,G1301850,44,13,3030,Washington,0
+562,Georgia,G1301870,44,13,3050,Wayne,0
+563,Georgia,G1301890,44,13,3070,Webster,0
+564,Georgia,G1301910,44,13,3090,Wheeler,0
+565,Georgia,G1301930,44,13,3110,White,0
+566,Georgia,G1301950,44,13,3130,Whitfield,0
+567,Georgia,G1301970,44,13,3150,Wilcox,0
+568,Georgia,G1301990,44,13,3170,Wilkes,0
+569,Georgia,G1302010,44,13,3190,Wilkinson,0
+570,Georgia,G1302015,44,13,3210,Worth,0
+571,Hawaii,G1302050,82,15,15,Hawaii,0
+572,Hawaii,G1302070,82,15,35,Honolulu,0
+573,Hawaii,G1302090,,15,5,Kalawao,0
+574,Hawaii,G1302110,82,15,75,Kauai,0
+575,Hawaii,G1302130,82,15,95,Maui,0
+576,Idaho,G1302150,63,16,10,Ada,0
+577,Idaho,G1302170,63,16,30,Adams,0
+578,Idaho,G1302190,63,16,50,Bannock,0
+579,Idaho,G1302210,63,16,70,Bear Lake,0
+580,Idaho,G1302230,63,16,90,Benewah,0
+581,Idaho,G1302250,63,16,110,Bingham,0
+582,Idaho,G1302270,63,16,130,Blaine,0
+583,Idaho,G1302290,63,16,150,Boise,0
+584,Idaho,G1302310,63,16,170,Bonner,0
+585,Idaho,G1302330,63,16,190,Bonneville,0
+586,Idaho,G1302350,63,16,210,Boundary,0
+587,Idaho,G1302370,63,16,230,Butte,0
+588,Idaho,G1302390,63,16,250,Camas,0
+589,Idaho,G1302410,63,16,270,Canyon,0
+590,Idaho,G1302430,63,16,290,Caribou,0
+591,Idaho,G1302450,63,16,310,Cassia,0
+592,Idaho,G1302470,63,16,330,Clark,0
+593,Idaho,G1302490,63,16,350,Clearwater,0
+594,Idaho,G1302510,63,16,370,Custer,0
+595,Idaho,G1302530,63,16,390,Elmore,0
+596,Idaho,G1302550,63,16,410,Franklin,0
+597,Idaho,G1302570,63,16,430,Fremont,0
+598,Idaho,G1302590,63,16,450,Gem,0
+599,Idaho,G1302610,63,16,470,Gooding,0
+600,Idaho,G1302630,63,16,490,Idaho,0
+601,Idaho,G1302650,63,16,510,Jefferson,0
+602,Idaho,G1302670,63,16,530,Jerome,0
+603,Idaho,G1302690,63,16,550,Kootenai,0
+604,Idaho,G1302710,63,16,570,Latah,0
+605,Idaho,G1302730,63,16,590,Lemhi,0
+606,Idaho,G1302750,63,16,610,Lewis,0
+607,Idaho,G1302770,63,16,630,Lincoln,0
+608,Idaho,G1302790,63,16,650,Madison,0
+609,Idaho,G1302810,63,16,670,Minidoka,0
+610,Idaho,G1302830,63,16,690,Nez Perce,0
+611,Idaho,G1302850,63,16,710,Oneida,0
+612,Idaho,G1302870,63,16,730,Owyhee,0
+613,Idaho,G1302890,63,16,750,Payette,0
+614,Idaho,G1302910,63,16,770,Power,0
+615,Idaho,G1302930,63,16,790,Shoshone,0
+616,Idaho,G1302950,63,16,810,Teton,0
+617,Idaho,G1302970,63,16,830,Twin Falls,0
+618,Idaho,G1302990,63,16,850,Valley,0
+619,Idaho,G1303010,63,16,870,Washington,0
+620,Idaho,G1303030,63,16,875,Yellowstone National Park,0
+621,Illinois,G1303050,21,17,10,Adams,0
+622,Illinois,G1303070,21,17,30,Alexander,0
+623,Illinois,G1303090,21,17,50,Bond,0
+624,Illinois,G1303110,21,17,70,Boone,0
+625,Illinois,G1303130,21,17,90,Brown,0
+626,Illinois,G1303150,21,17,110,Bureau,0
+627,Illinois,G1303170,21,17,130,Calhoun,0
+628,Illinois,G1303190,21,17,150,Carroll,0
+629,Illinois,G1303210,21,17,170,Cass,0
+630,Illinois,G1550015,21,17,190,Champaign,0
+631,Illinois,G1550035,21,17,210,Christian,0
+632,Illinois,G1500050,21,17,230,Clark,0
+633,Illinois,G1550075,21,17,250,Clay,0
+634,Illinois,G1550095,21,17,270,Clinton,0
+635,Illinois,G1600010,21,17,290,Coles,0
+636,Illinois,G1600030,21,17,310,Cook,1
+637,Illinois,G1600050,21,17,330,Crawford,0
+638,Illinois,G1600070,21,17,350,Cumberland,0
+639,Illinois,G1600110,21,17,390,De Witt,0
+640,Illinois,G1600090,21,17,370,DeKalb,0
+641,Illinois,G1600130,21,17,410,Douglas,0
+642,Illinois,G1600150,21,17,430,Dupage,0
+643,Illinois,G1600170,21,17,450,Edgar,0
+644,Illinois,G1600190,21,17,470,Edwards,0
+645,Illinois,G1600210,21,17,490,Effingham,0
+646,Illinois,G1600230,21,17,510,Fayette,0
+647,Illinois,G1600250,21,17,530,Ford,0
+648,Illinois,G1600270,21,17,550,Franklin,0
+649,Illinois,G1600290,21,17,570,Fulton,0
+650,Illinois,G1600310,21,17,590,Gallatin,0
+651,Illinois,G1600330,21,17,610,Greene,0
+652,Illinois,G1600350,21,17,630,Grundy,0
+653,Illinois,G1600370,21,17,650,Hamilton,0
+654,Illinois,G1600390,21,17,670,Hancock,0
+655,Illinois,G1600410,21,17,690,Hardin,0
+656,Illinois,G1600430,21,17,710,Henderson,0
+657,Illinois,G1600450,21,17,730,Henry,0
+658,Illinois,G1600470,21,17,750,Iroquois,0
+659,Illinois,G1600490,21,17,770,Jackson,0
+660,Illinois,G1600510,21,17,790,Jasper,0
+661,Illinois,G1600530,21,17,810,Jefferson,0
+662,Illinois,G1600550,21,17,830,Jersey,0
+663,Illinois,G1600570,21,17,850,Jo Daviess,0
+664,Illinois,G1600590,21,17,870,Johnson,0
+665,Illinois,G1600610,21,17,890,Kane,0
+666,Illinois,G1600630,21,17,910,Kankakee,0
+667,Illinois,G1600650,21,17,930,Kendall,0
+668,Illinois,G1600670,21,17,950,Knox,0
+669,Illinois,G1600710,21,17,990,La Salle,0
+670,Illinois,G1600690,21,17,970,Lake,1
+671,Illinois,G1600730,21,17,1010,Lawrence,0
+672,Illinois,G1600750,21,17,1030,Lee,0
+673,Illinois,G1600770,21,17,1050,Livingston,0
+674,Illinois,G1600790,21,17,1070,Logan,0
+675,Illinois,G1600870,21,17,1150,Macon,0
+676,Illinois,G1600875,21,17,1170,Macoupin,0
+677,Illinois,G1700010,21,17,1190,Madison,0
+678,Illinois,G1700030,21,17,1210,Marion,0
+679,Illinois,G1700050,21,17,1230,Marshall,0
+680,Illinois,G1700070,21,17,1250,Mason,0
+681,Illinois,G1700090,21,17,1270,Massac,0
+682,Illinois,G1600810,21,17,1090,McDonough,0
+683,Illinois,G1600830,21,17,1110,McHenry,0
+684,Illinois,G1600850,21,17,1130,McLean,0
+685,Illinois,G1700110,21,17,1290,Menard,0
+686,Illinois,G1700130,21,17,1310,Mercer,0
+687,Illinois,G1700150,21,17,1330,Monroe,0
+688,Illinois,G1700170,21,17,1350,Montgomery,0
+689,Illinois,G1700190,21,17,1370,Morgan,0
+690,Illinois,G1700210,21,17,1390,Moultrie,0
+691,Illinois,G1700230,21,17,1410,Ogle,0
+692,Illinois,G1700250,21,17,1430,Peoria,0
+693,Illinois,G1700270,21,17,1450,Perry,0
+694,Illinois,G1700290,21,17,1470,Piatt,0
+695,Illinois,G1700310,21,17,1490,Pike,0
+696,Illinois,G1700330,21,17,1510,Pope,0
+697,Illinois,G1700350,21,17,1530,Pulaski,0
+698,Illinois,G1700370,21,17,1550,Putnam,0
+699,Illinois,G1700390,21,17,1570,Randolph,0
+700,Illinois,G1700410,21,17,1590,Richland,0
+701,Illinois,G1700430,21,17,1610,Rock Island,0
+702,Illinois,G1700470,21,17,1650,Saline,0
+703,Illinois,G1700490,21,17,1670,Sangamon,0
+704,Illinois,G1700510,21,17,1690,Schuyler,0
+705,Illinois,G1700530,21,17,1710,Scott,0
+706,Illinois,G1700550,21,17,1730,Shelby,0
+707,Illinois,G1700450,21,17,1630,St Clair,1
+708,Illinois,G1700570,21,17,1750,Stark,0
+709,Illinois,G1700590,21,17,1770,Stephenson,0
+710,Illinois,G1700610,21,17,1790,Tazewell,0
+711,Illinois,G1700630,21,17,1810,Union,0
+712,Illinois,G1700650,21,17,1830,Vermilion,0
+713,Illinois,G1700670,21,17,1850,Wabash,0
+714,Illinois,G1700690,21,17,1870,Warren,0
+715,Illinois,G1700710,21,17,1890,Washington,0
+716,Illinois,G1700730,21,17,1910,Wayne,0
+717,Illinois,G1700750,21,17,1930,White,0
+718,Illinois,G1700770,21,17,1950,Whiteside,0
+719,Illinois,G1700790,21,17,1970,Will,1
+720,Illinois,G1700810,21,17,1990,Williamson,0
+721,Illinois,G1700830,21,17,2010,Winnebago,1
+722,Illinois,G1700850,21,17,2030,Woodford,0
+723,Indiana,G1700870,22,18,10,Adams,0
+724,Indiana,G1700890,22,18,30,Allen,1
+725,Indiana,G1700910,22,18,50,Bartholomew,0
+726,Indiana,G1700930,22,18,70,Benton,0
+727,Indiana,G1700950,22,18,90,Blackford,0
+728,Indiana,G1700970,22,18,110,Boone,0
+729,Indiana,G1700990,22,18,130,Brown,0
+730,Indiana,G1701010,22,18,150,Carroll,0
+731,Indiana,G1701030,22,18,170,Cass,0
+732,Indiana,G1701050,22,18,190,Clark,0
+733,Indiana,G1701070,22,18,210,Clay,0
+734,Indiana,G1701090,22,18,230,Clinton,0
+735,Indiana,G1701110,22,18,250,Crawford,0
+736,Indiana,G1701130,22,18,270,Daviess,0
+737,Indiana,G1701150,22,18,290,Dearborn,0
+738,Indiana,G1701170,22,18,310,Decatur,0
+739,Indiana,G1701190,22,18,330,DeKalb,0
+740,Indiana,G1701210,22,18,350,Delaware,0
+741,Indiana,G1701230,22,18,370,Dubois,0
+742,Indiana,G1701250,22,18,390,Elkhart,0
+743,Indiana,G1701270,22,18,410,Fayette,0
+744,Indiana,G1701290,22,18,430,Floyd,0
+745,Indiana,G1701310,22,18,450,Fountain,0
+746,Indiana,G1701330,22,18,470,Franklin,0
+747,Indiana,G1701350,22,18,490,Fulton,0
+748,Indiana,G1701370,22,18,510,Gibson,0
+749,Indiana,G1701390,22,18,530,Grant,0
+750,Indiana,G1701410,22,18,550,Greene,0
+751,Indiana,G1701430,22,18,570,Hamilton,0
+752,Indiana,G1701450,22,18,590,Hancock,0
+753,Indiana,G1701470,22,18,610,Harrison,0
+754,Indiana,G1701490,22,18,630,Hendricks,0
+755,Indiana,G1701510,22,18,650,Henry,0
+756,Indiana,G1701530,22,18,670,Howard,0
+757,Indiana,G1701550,22,18,690,Huntington,0
+758,Indiana,G1701570,22,18,710,Jackson,0
+759,Indiana,G1701590,22,18,730,Jasper,0
+760,Indiana,G1701610,22,18,750,Jay,0
+761,Indiana,G1701630,22,18,770,Jefferson,0
+762,Indiana,G1701650,22,18,790,Jennings,0
+763,Indiana,G1701670,22,18,810,Johnson,0
+764,Indiana,G1701690,22,18,830,Knox,0
+765,Indiana,G1701710,22,18,850,Kosciusko,0
+766,Indiana,G1701730,22,18,870,Lagrange,0
+767,Indiana,G1701750,22,18,890,Lake,1
+768,Indiana,G1701770,22,18,910,LaPorte,0
+769,Indiana,G1701790,22,18,930,Lawrence,0
+770,Indiana,G1701810,22,18,950,Madison,0
+771,Indiana,G1701830,22,18,970,Marion,1
+772,Indiana,G1701850,22,18,990,Marshall,0
+773,Indiana,G1701870,22,18,1010,Martin,0
+774,Indiana,G1701890,22,18,1030,Miami,0
+775,Indiana,G1701910,22,18,1050,Monroe,0
+776,Indiana,G1701930,22,18,1070,Montgomery,0
+777,Indiana,G1701950,22,18,1090,Morgan,0
+778,Indiana,G1701970,22,18,1110,Newton,0
+779,Indiana,G1701990,22,18,1130,Noble,0
+780,Indiana,G1702010,22,18,1150,Ohio,0
+781,Indiana,G1702030,22,18,1170,Orange,0
+782,Indiana,G1800010,22,18,1190,Owen,0
+783,Indiana,G1800030,22,18,1210,Parke,0
+784,Indiana,G1800050,22,18,1230,Perry,0
+785,Indiana,G1800070,22,18,1250,Pike,0
+786,Indiana,G1800090,22,18,1270,Porter,0
+787,Indiana,G1800110,22,18,1290,Posey,0
+788,Indiana,G1800130,22,18,1310,Pulaski,0
+789,Indiana,G1800150,22,18,1330,Putnam,0
+790,Indiana,G1800170,22,18,1350,Randolph,0
+791,Indiana,G1800190,22,18,1370,Ripley,0
+792,Indiana,G1800210,22,18,1390,Rush,0
+793,Indiana,G1800250,22,18,1430,Scott,0
+794,Indiana,G1800270,22,18,1450,Shelby,0
+795,Indiana,G1800290,22,18,1470,Spencer,0
+796,Indiana,G1800230,22,18,1410,St Joseph,1
+797,Indiana,G1800310,22,18,1490,Starke,0
+798,Indiana,G1800330,22,18,1510,Steuben,0
+799,Indiana,G1800350,22,18,1530,Sullivan,0
+800,Indiana,G1800370,22,18,1550,Switzerland,0
+801,Indiana,G1800390,22,18,1570,Tippecanoe,0
+802,Indiana,G1800410,22,18,1590,Tipton,0
+803,Indiana,G1800430,22,18,1610,Union,0
+804,Indiana,G1800450,22,18,1630,Vanderburgh,0
+805,Indiana,G1800470,22,18,1650,Vermillion,0
+806,Indiana,G1800490,22,18,1670,Vigo,0
+807,Indiana,G1800510,22,18,1690,Wabash,0
+808,Indiana,G1800530,22,18,1710,Warren,0
+809,Indiana,G1800550,22,18,1730,Warrick,0
+810,Indiana,G1800570,22,18,1750,Washington,0
+811,Indiana,G1800590,22,18,1770,Wayne,0
+812,Indiana,G1800610,22,18,1790,Wells,0
+813,Indiana,G1800630,22,18,1810,White,0
+814,Indiana,G1800650,22,18,1830,Whitley,0
+815,Iowa,G1800670,31,19,10,Adair,0
+816,Iowa,G1800690,31,19,30,Adams,0
+817,Iowa,G1800710,31,19,50,Allamakee,0
+818,Iowa,G1800730,31,19,70,Appanoose,0
+819,Iowa,G1800750,31,19,90,Audubon,0
+820,Iowa,G1800770,31,19,110,Benton,0
+821,Iowa,G1800790,31,19,130,Black Hawk,0
+822,Iowa,G1800810,31,19,150,Boone,0
+823,Iowa,G1800830,31,19,170,Bremer,0
+824,Iowa,G1800850,31,19,190,Buchanan,0
+825,Iowa,G1800870,31,19,210,Buena Vista,0
+826,Iowa,G1800890,31,19,230,Butler,0
+827,Iowa,G1800910,31,19,250,Calhoun,0
+828,Iowa,G1800930,31,19,270,Carroll,0
+829,Iowa,G1800950,31,19,290,Cass,0
+830,Iowa,G1800970,31,19,310,Cedar,0
+831,Iowa,G1800990,31,19,330,Cerro Gordo,0
+832,Iowa,G1801010,31,19,350,Cherokee,0
+833,Iowa,G1801030,31,19,370,Chickasaw,0
+834,Iowa,G1801050,31,19,390,Clarke,0
+835,Iowa,G1801070,31,19,410,Clay,0
+836,Iowa,G1801090,31,19,430,Clayton,0
+837,Iowa,G1801110,31,19,450,Clinton,0
+838,Iowa,G1801130,31,19,470,Crawford,0
+839,Iowa,G1801150,31,19,490,Dallas,0
+840,Iowa,G1801170,31,19,510,Davis,0
+841,Iowa,G1801190,31,19,530,Decatur,0
+842,Iowa,G1801210,31,19,550,Delaware,0
+843,Iowa,G1801230,31,19,570,Des Moines,0
+844,Iowa,G1801250,31,19,590,Dickinson,0
+845,Iowa,G1801270,31,19,610,Dubuque,0
+846,Iowa,G1801290,31,19,630,Emmet,0
+847,Iowa,G1801310,31,19,650,Fayette,0
+848,Iowa,G1801330,31,19,670,Floyd,0
+849,Iowa,G1801350,31,19,690,Franklin,0
+850,Iowa,G1801370,31,19,710,Fremont,0
+851,Iowa,G1801390,31,19,730,Greene,0
+852,Iowa,G1801410,31,19,750,Grundy,0
+853,Iowa,G1801430,31,19,770,Guthrie,0
+854,Iowa,G1801450,31,19,790,Hamilton,0
+855,Iowa,G1801470,31,19,810,Hancock,0
+856,Iowa,G1801490,31,19,830,Hardin,0
+857,Iowa,G1801510,31,19,850,Harrison,0
+858,Iowa,G1801530,31,19,870,Henry,0
+859,Iowa,G1801550,31,19,890,Howard,0
+860,Iowa,G1801570,31,19,910,Humboldt,0
+861,Iowa,G1801590,31,19,930,Ida,0
+862,Iowa,G1801610,31,19,950,Iowa,0
+863,Iowa,G1801630,31,19,970,Jackson,0
+864,Iowa,G1801650,31,19,990,Jasper,0
+865,Iowa,G1801670,31,19,1010,Jefferson,0
+866,Iowa,G1801690,31,19,1030,Johnson,0
+867,Iowa,G1801710,31,19,1050,Jones,0
+868,Iowa,G1801730,31,19,1070,Keokuk,0
+869,Iowa,G1801750,31,19,1090,Kossuth,0
+870,Iowa,G1801770,31,19,1110,Lee,0
+871,Iowa,G1801790,31,19,1130,Linn,0
+872,Iowa,G1801810,31,19,1150,Louisa,0
+873,Iowa,G1801830,31,19,1170,Lucas,0
+874,Iowa,G1900010,31,19,1190,Lyon,0
+875,Iowa,G1900030,31,19,1210,Madison,0
+876,Iowa,G1900050,31,19,1230,Mahaska,0
+877,Iowa,G1900070,31,19,1250,Marion,0
+878,Iowa,G1900090,31,19,1270,Marshall,0
+879,Iowa,G1900110,31,19,1290,Mills,0
+880,Iowa,G1900130,31,19,1310,Mitchell,0
+881,Iowa,G1900150,31,19,1330,Monona,0
+882,Iowa,G1900170,31,19,1350,Monroe,0
+883,Iowa,G1900190,31,19,1370,Montgomery,0
+884,Iowa,G1900210,31,19,1390,Muscatine,0
+885,Iowa,G1900230,31,19,1410,O Brien,0
+886,Iowa,G1900250,31,19,1430,Osceola,0
+887,Iowa,G1900270,31,19,1450,Page,0
+888,Iowa,G1900290,31,19,1470,Palo Alto,0
+889,Iowa,G1900310,31,19,1490,Plymouth,0
+890,Iowa,G1900330,31,19,1510,Pocahontas,0
+891,Iowa,G1900350,31,19,1530,Polk,0
+892,Iowa,G1900370,31,19,1550,Pottawattamie,0
+893,Iowa,G1900390,31,19,1570,Poweshiek,0
+894,Iowa,G1900410,31,19,1590,Ringgold,0
+895,Iowa,G1900430,31,19,1610,Sac,0
+896,Iowa,G1900450,31,19,1630,Scott,0
+897,Iowa,G1900470,31,19,1650,Shelby,0
+898,Iowa,G1900490,31,19,1670,Sioux,0
+899,Iowa,G1900510,31,19,1690,Story,0
+900,Iowa,G1900530,31,19,1710,Tama,0
+901,Iowa,G1900550,31,19,1730,Taylor,0
+902,Iowa,G1900570,31,19,1750,Union,0
+903,Iowa,G1900590,31,19,1770,Van Buren,0
+904,Iowa,G1900610,31,19,1790,Wapello,0
+905,Iowa,G1900630,31,19,1810,Warren,0
+906,Iowa,G1900650,31,19,1830,Washington,0
+907,Iowa,G1900670,31,19,1850,Wayne,0
+908,Iowa,G1900690,31,19,1870,Webster,0
+909,Iowa,G1900710,31,19,1890,Winnebago,0
+910,Iowa,G1900730,31,19,1910,Winneshiek,0
+911,Iowa,G1900750,31,19,1930,Woodbury,0
+912,Iowa,G1900770,31,19,1950,Worth,0
+913,Iowa,G1900790,31,19,1970,Wright,0
+914,Kansas,G1900810,32,20,10,Allen,0
+915,Kansas,G1900830,32,20,30,Anderson,0
+916,Kansas,G1900850,32,20,50,Atchison,0
+917,Kansas,G1900870,32,20,70,Barber,0
+918,Kansas,G1900890,32,20,90,Barton,0
+919,Kansas,G1900910,32,20,110,Bourbon,0
+920,Kansas,G1900930,32,20,130,Brown,0
+921,Kansas,G1900950,32,20,150,Butler,0
+922,Kansas,G1900970,32,20,170,Chase,0
+923,Kansas,G1900990,32,20,190,Chautauqua,0
+924,Kansas,G1901010,32,20,210,Cherokee,0
+925,Kansas,G1901030,32,20,230,Cheyenne,0
+926,Kansas,G1901050,32,20,250,Clark,0
+927,Kansas,G1901070,32,20,270,Clay,0
+928,Kansas,G1901090,32,20,290,Cloud,0
+929,Kansas,G1901110,32,20,310,Coffey,0
+930,Kansas,G1901130,32,20,330,Comanche,0
+931,Kansas,G1901150,32,20,350,Cowley,0
+932,Kansas,G1901170,32,20,370,Crawford,0
+933,Kansas,G1901190,32,20,390,Decatur,0
+934,Kansas,G1901210,32,20,410,Dickinson,0
+935,Kansas,G1901230,32,20,430,Doniphan,0
+936,Kansas,G1901250,32,20,450,Douglas,0
+937,Kansas,G1901270,32,20,470,Edwards,0
+938,Kansas,G1901290,32,20,490,Elk,0
+939,Kansas,G1901310,32,20,510,Ellis,0
+940,Kansas,G1901330,32,20,530,Ellsworth,0
+941,Kansas,G1901350,32,20,550,Finney,0
+942,Kansas,G1901370,32,20,570,Ford,0
+943,Kansas,G1901390,32,20,590,Franklin,0
+944,Kansas,G1901410,32,20,610,Geary,0
+945,Kansas,G1901430,32,20,630,Gove,0
+946,Kansas,G1901450,32,20,650,Graham,0
+947,Kansas,G1901470,32,20,670,Grant,0
+948,Kansas,G1901490,32,20,690,Gray,0
+949,Kansas,G1901510,32,20,710,Greeley,0
+950,Kansas,G1901530,32,20,730,Greenwood,0
+951,Kansas,G1901550,32,20,750,Hamilton,0
+952,Kansas,G1901570,32,20,770,Harper,0
+953,Kansas,G1901590,32,20,790,Harvey,0
+954,Kansas,G1901610,32,20,810,Haskell,0
+955,Kansas,G1901630,32,20,830,Hodgeman,0
+956,Kansas,G1901650,32,20,850,Jackson,0
+957,Kansas,G1901670,32,20,870,Jefferson,0
+958,Kansas,G1901690,32,20,890,Jewell,0
+959,Kansas,G1901710,32,20,910,Johnson,0
+960,Kansas,G1901730,32,20,930,Kearny,0
+961,Kansas,G1901750,32,20,950,Kingman,0
+962,Kansas,G1901770,32,20,970,Kiowa,0
+963,Kansas,G1901790,32,20,990,Labette,0
+964,Kansas,G1901810,32,20,1010,Lane,0
+965,Kansas,G1901830,32,20,1030,Leavenworth,0
+966,Kansas,G1901850,32,20,1050,Lincoln,0
+967,Kansas,G1901870,32,20,1070,Linn,0
+968,Kansas,G1901890,32,20,1090,Logan,0
+969,Kansas,G1901910,32,20,1110,Lyon,0
+970,Kansas,G1901950,32,20,1150,Marion,0
+971,Kansas,G1901970,32,20,1170,Marshall,0
+972,Kansas,G1901930,32,20,1130,McPherson,0
+973,Kansas,G2000010,32,20,1190,Meade,0
+974,Kansas,G2000030,32,20,1210,Miami,0
+975,Kansas,G2000050,32,20,1230,Mitchell,0
+976,Kansas,G2000070,32,20,1250,Montgomery,0
+977,Kansas,G2000090,32,20,1270,Morris,0
+978,Kansas,G2000110,32,20,1290,Morton,0
+979,Kansas,G2000130,32,20,1310,Nemaha,0
+980,Kansas,G2000150,32,20,1330,Neosho,0
+981,Kansas,G2000170,32,20,1350,Ness,0
+982,Kansas,G2000190,32,20,1370,Norton,0
+983,Kansas,G2000210,32,20,1390,Osage,0
+984,Kansas,G2000230,32,20,1410,Osborne,0
+985,Kansas,G2000250,32,20,1430,Ottawa,0
+986,Kansas,G2000270,32,20,1450,Pawnee,0
+987,Kansas,G2000290,32,20,1470,Phillips,0
+988,Kansas,G2000310,32,20,1490,Pottawatomie,0
+989,Kansas,G2000330,32,20,1510,Pratt,0
+990,Kansas,G2000350,32,20,1530,Rawlins,0
+991,Kansas,G2000370,32,20,1550,Reno,0
+992,Kansas,G2000390,32,20,1570,Republic,0
+993,Kansas,G2000410,32,20,1590,Rice,0
+994,Kansas,G2000430,32,20,1610,Riley,0
+995,Kansas,G2000450,32,20,1630,Rooks,0
+996,Kansas,G2000470,32,20,1650,Rush,0
+997,Kansas,G2000490,32,20,1670,Russell,0
+998,Kansas,G2000510,32,20,1690,Saline,0
+999,Kansas,G2000530,32,20,1710,Scott,0
+1000,Kansas,G2000550,32,20,1730,Sedgwick,0
+1001,Kansas,G2000570,32,20,1750,Seward,0
+1002,Kansas,G2000590,32,20,1770,Shawnee,0
+1003,Kansas,G2000610,32,20,1790,Sheridan,0
+1004,Kansas,G2000630,32,20,1810,Sherman,0
+1005,Kansas,G2000650,32,20,1830,Smith,0
+1006,Kansas,G2000670,32,20,1850,Stafford,0
+1007,Kansas,G2000690,32,20,1870,Stanton,0
+1008,Kansas,G2000710,32,20,1890,Stevens,0
+1009,Kansas,G2000730,32,20,1910,Sumner,0
+1010,Kansas,G2000750,32,20,1930,Thomas,0
+1011,Kansas,G2000770,32,20,1950,Trego,0
+1012,Kansas,G2000790,32,20,1970,Wabaunsee,0
+1013,Kansas,G2000810,32,20,1990,Wallace,0
+1014,Kansas,G2000830,32,20,2010,Washington,0
+1015,Kansas,G2000850,32,20,2030,Wichita,0
+1016,Kansas,G2000870,32,20,2050,Wilson,0
+1017,Kansas,G2000890,32,20,2070,Woodson,0
+1018,Kansas,G2000910,32,20,2090,Wyandotte,0
+1019,Kentucky,G2000930,51,21,10,Adair,0
+1020,Kentucky,G2000950,51,21,30,Allen,0
+1021,Kentucky,G2000970,51,21,50,Anderson,0
+1022,Kentucky,G2000990,51,21,70,Ballard,0
+1023,Kentucky,G2001010,51,21,90,Barren,0
+1024,Kentucky,G2001030,51,21,110,Bath,0
+1025,Kentucky,G2001050,51,21,130,Bell,0
+1026,Kentucky,G2001070,51,21,150,Boone,0
+1027,Kentucky,G2001090,51,21,170,Bourbon,0
+1028,Kentucky,G2001110,51,21,190,Boyd,0
+1029,Kentucky,G2001130,51,21,210,Boyle,0
+1030,Kentucky,G2001150,51,21,230,Bracken,0
+1031,Kentucky,G2001170,51,21,250,Breathitt,0
+1032,Kentucky,G2001190,51,21,270,Breckinridge,0
+1033,Kentucky,G2001210,51,21,290,Bullitt,0
+1034,Kentucky,G2001230,51,21,310,Butler,0
+1035,Kentucky,G2001250,51,21,330,Caldwell,0
+1036,Kentucky,G2001270,51,21,350,Calloway,0
+1037,Kentucky,G2001290,51,21,370,Campbell,0
+1038,Kentucky,G2001310,51,21,390,Carlisle,0
+1039,Kentucky,G2001330,51,21,410,Carroll,0
+1040,Kentucky,G2001350,51,21,430,Carter,0
+1041,Kentucky,G2001370,51,21,450,Casey,0
+1042,Kentucky,G2001390,51,21,470,Christian,0
+1043,Kentucky,G2001410,51,21,490,Clark,0
+1044,Kentucky,G2001430,51,21,510,Clay,0
+1045,Kentucky,G2001450,51,21,530,Clinton,0
+1046,Kentucky,G2001470,51,21,550,Crittenden,0
+1047,Kentucky,G2001490,51,21,570,Cumberland,0
+1048,Kentucky,G2001510,51,21,590,Daviess,0
+1049,Kentucky,G2001530,51,21,610,Edmonson,0
+1050,Kentucky,G2001550,51,21,630,Elliott,0
+1051,Kentucky,G2001570,51,21,650,Estill,0
+1052,Kentucky,G2001590,51,21,670,Fayette,0
+1053,Kentucky,G2001610,51,21,690,Fleming,0
+1054,Kentucky,G2001630,51,21,710,Floyd,0
+1055,Kentucky,G2001650,51,21,730,Franklin,0
+1056,Kentucky,G2001670,51,21,750,Fulton,0
+1057,Kentucky,G2001690,51,21,770,Gallatin,0
+1058,Kentucky,G2001710,51,21,790,Garrard,0
+1059,Kentucky,G2001730,51,21,810,Grant,0
+1060,Kentucky,G2001750,51,21,830,Graves,0
+1061,Kentucky,G2001770,51,21,850,Grayson,0
+1062,Kentucky,G2001790,51,21,870,Green,0
+1063,Kentucky,G2001810,51,21,890,Greenup,0
+1064,Kentucky,G2001830,51,21,910,Hancock,0
+1065,Kentucky,G2001850,51,21,930,Hardin,1
+1066,Kentucky,G2001870,51,21,950,Harlan,0
+1067,Kentucky,G2001890,51,21,970,Harrison,0
+1068,Kentucky,G2001910,51,21,990,Hart,0
+1069,Kentucky,G2001930,51,21,1010,Henderson,0
+1070,Kentucky,G2001950,51,21,1030,Henry,0
+1071,Kentucky,G2001970,51,21,1050,Hickman,0
+1072,Kentucky,G2001990,51,21,1070,Hopkins,0
+1073,Kentucky,G2002010,51,21,1090,Jackson,0
+1074,Kentucky,G2002030,51,21,1110,Jefferson,1
+1075,Kentucky,G2002050,51,21,1130,Jessamine,0
+1076,Kentucky,G2002070,51,21,1150,Johnson,0
+1077,Kentucky,G2002090,51,21,1170,Kenton,0
+1078,Kentucky,G2100010,51,21,1190,Knott,0
+1079,Kentucky,G2100030,51,21,1210,Knox,0
+1080,Kentucky,G2100050,51,21,1230,Larue,0
+1081,Kentucky,G2100070,51,21,1250,Laurel,0
+1082,Kentucky,G2100090,51,21,1270,Lawrence,0
+1083,Kentucky,G2100110,51,21,1290,Lee,0
+1084,Kentucky,G2100130,51,21,1310,Leslie,0
+1085,Kentucky,G2100150,51,21,1330,Letcher,0
+1086,Kentucky,G2100170,51,21,1350,Lewis,0
+1087,Kentucky,G2100190,51,21,1370,Lincoln,0
+1088,Kentucky,G2100210,51,21,1390,Livingston,0
+1089,Kentucky,G2100230,51,21,1410,Logan,0
+1090,Kentucky,G2100250,51,21,1430,Lyon,0
+1091,Kentucky,G2100330,51,21,1510,Madison,0
+1092,Kentucky,G2100350,51,21,1530,Magoffin,0
+1093,Kentucky,G2100370,51,21,1550,Marion,0
+1094,Kentucky,G2100390,51,21,1570,Marshall,0
+1095,Kentucky,G2100410,51,21,1590,Martin,0
+1096,Kentucky,G2100430,51,21,1610,Mason,0
+1097,Kentucky,G2100270,51,21,1450,McCracken,0
+1098,Kentucky,G2100290,51,21,1470,McCreary,0
+1099,Kentucky,G2100310,51,21,1490,McLean,0
+1100,Kentucky,G2100450,51,21,1630,Meade,0
+1101,Kentucky,G2100470,51,21,1650,Menifee,0
+1102,Kentucky,G2100490,51,21,1670,Mercer,0
+1103,Kentucky,G2100510,51,21,1690,Metcalfe,0
+1104,Kentucky,G2100530,51,21,1710,Monroe,0
+1105,Kentucky,G2100550,51,21,1730,Montgomery,0
+1106,Kentucky,G2100570,51,21,1750,Morgan,0
+1107,Kentucky,G2100590,51,21,1770,Muhlenberg,0
+1108,Kentucky,G2100610,51,21,1790,Nelson,0
+1109,Kentucky,G2100630,51,21,1810,Nicholas,0
+1110,Kentucky,G2100650,51,21,1830,Ohio,0
+1111,Kentucky,G2100670,51,21,1850,Oldham,0
+1112,Kentucky,G2100690,51,21,1870,Owen,0
+1113,Kentucky,G2100710,51,21,1890,Owsley,0
+1114,Kentucky,G2100730,51,21,1910,Pendleton,0
+1115,Kentucky,G2100750,51,21,1930,Perry,0
+1116,Kentucky,G2100770,51,21,1950,Pike,0
+1117,Kentucky,G2100790,51,21,1970,Powell,0
+1118,Kentucky,G2100810,51,21,1990,Pulaski,0
+1119,Kentucky,G2100830,51,21,2010,Robertson,0
+1120,Kentucky,G2100850,51,21,2030,Rockcastle,0
+1121,Kentucky,G2100870,51,21,2050,Rowan,0
+1122,Kentucky,G2100890,51,21,2070,Russell,0
+1123,Kentucky,G2100910,51,21,2090,Scott,0
+1124,Kentucky,G2100930,51,21,2110,Shelby,0
+1125,Kentucky,G2100950,51,21,2130,Simpson,0
+1126,Kentucky,G2100970,51,21,2150,Spencer,0
+1127,Kentucky,G2100990,51,21,2170,Taylor,0
+1128,Kentucky,G2101010,51,21,2190,Todd,0
+1129,Kentucky,G2101030,51,21,2210,Trigg,0
+1130,Kentucky,G2101050,51,21,2230,Trimble,0
+1131,Kentucky,G2101070,51,21,2250,Union,0
+1132,Kentucky,G2101090,51,21,2270,Warren,0
+1133,Kentucky,G2101110,51,21,2290,Washington,0
+1134,Kentucky,G2101130,51,21,2310,Wayne,0
+1135,Kentucky,G2101150,51,21,2330,Webster,0
+1136,Kentucky,G2101170,51,21,2350,Whitley,0
+1137,Kentucky,G2101190,51,21,2370,Wolfe,0
+1138,Kentucky,G2101210,51,21,2390,Woodford,0
+1139,Louisiana,G2101230,45,22,10,Acadia,0
+1140,Louisiana,G2101250,45,22,30,Allen,0
+1141,Louisiana,G2101270,45,22,50,Ascension,1
+1142,Louisiana,G2101290,45,22,70,Assumption,0
+1143,Louisiana,G2101310,45,22,90,Avoyelles,0
+1144,Louisiana,G2101330,45,22,110,Beauregard,0
+1145,Louisiana,G2101350,45,22,130,Bienville,0
+1146,Louisiana,G2101370,45,22,150,Bossier,1
+1147,Louisiana,G2101390,45,22,170,Caddo,0
+1148,Louisiana,G2101410,45,22,190,Calcasieu,1
+1149,Louisiana,G2101430,45,22,210,Caldwell,0
+1150,Louisiana,G2101450,45,22,230,Cameron,0
+1151,Louisiana,G2101470,45,22,250,Catahoula,0
+1152,Louisiana,G2101490,45,22,270,Claiborne,0
+1153,Louisiana,G2101510,45,22,290,Concordia,0
+1154,Louisiana,G2101530,45,22,310,De Soto,0
+1155,Louisiana,G2101550,45,22,330,East Baton Rouge,1
+1156,Louisiana,G2101570,45,22,350,East Carroll,0
+1157,Louisiana,G2101590,45,22,370,East Feliciana,0
+1158,Louisiana,G2101610,45,22,390,Evangeline,0
+1159,Louisiana,G2101630,45,22,410,Franklin,0
+1160,Louisiana,G2101650,45,22,430,Grant,0
+1161,Louisiana,G2101670,45,22,450,Iberia,0
+1162,Louisiana,G2101690,45,22,470,Iberville,1
+1163,Louisiana,G2101710,45,22,490,Jackson,0
+1164,Louisiana,G2101730,45,22,510,Jefferson,0
+1165,Louisiana,G2101750,45,22,530,Jefferson Davis,0
+1166,Louisiana,G2101810,45,22,590,La Salle,0
+1167,Louisiana,G2101770,45,22,550,Lafayette,0
+1168,Louisiana,G2101790,45,22,570,Lafourche,0
+1169,Louisiana,G2101830,45,22,610,Lincoln,0
+1170,Louisiana,G2101850,45,22,630,Livingston,1
+1171,Louisiana,G2101870,45,22,650,Madison,0
+1172,Louisiana,G2101890,45,22,670,Morehouse,0
+1173,Louisiana,G2101910,45,22,690,Natchitoches,0
+1174,Louisiana,G2101930,45,22,710,Orleans,1
+1175,Louisiana,G2101950,45,22,730,Ouachita,0
+1176,Louisiana,G2101970,45,22,750,Plaquemines,0
+1177,Louisiana,G2101990,45,22,770,Pointe Coupee,0
+1178,Louisiana,G2102010,45,22,790,Rapides,1
+1179,Louisiana,G2102030,45,22,810,Red River,0
+1180,Louisiana,G2102050,45,22,830,Richland,0
+1181,Louisiana,G2102070,45,22,850,Sabine,0
+1182,Louisiana,G2102090,45,22,870,St Bernard,0
+1183,Louisiana,G2102110,45,22,890,St Charles,0
+1184,Louisiana,G2102130,45,22,910,St Helena,0
+1185,Louisiana,G2102150,45,22,930,St James,0
+1186,Louisiana,G2102170,45,22,950,St John The Baptist,0
+1187,Louisiana,G2102190,45,22,970,St Landry,0
+1188,Louisiana,G2102210,45,22,990,St Martin,0
+1189,Louisiana,G2102230,45,22,1010,St Mary,0
+1190,Louisiana,G2102250,45,22,1030,St Tammany,1
+1191,Louisiana,G2102270,45,22,1050,Tangipahoa,1
+1192,Louisiana,G2102290,45,22,1070,Tensas,0
+1193,Louisiana,G2102310,45,22,1090,Terrebonne,0
+1194,Louisiana,G2102330,45,22,1110,Union,0
+1195,Louisiana,G2102350,45,22,1130,Vermilion,1
+1196,Louisiana,G2102370,45,22,1150,Vernon,0
+1197,Louisiana,G2102390,45,22,1170,Washington,0
+1198,Louisiana,G2200010,45,22,1190,Webster,1
+1199,Louisiana,G2200030,45,22,1210,West Baton Rouge,0
+1200,Louisiana,G2200050,45,22,1230,West Carroll,0
+1201,Louisiana,G2200070,45,22,1250,West Feliciana,0
+1202,Louisiana,G2200090,45,22,1270,Winn,1
+1203,Maine,G2200110,2,23,10,Androscoggin,0
+1204,Maine,G2200130,2,23,30,Aroostook,0
+1205,Maine,G2200150,2,23,50,Cumberland,0
+1206,Maine,G2200170,2,23,70,Franklin,0
+1207,Maine,G2200190,2,23,90,Hancock,0
+1208,Maine,G2200210,2,23,110,Kennebec,0
+1209,Maine,G2200230,2,23,130,Knox,0
+1210,Maine,G2200250,2,23,150,Lincoln,0
+1211,Maine,G2200270,2,23,170,Oxford,0
+1212,Maine,G2200290,2,23,190,Penobscot,0
+1213,Maine,G2200310,2,23,210,Piscataquis,0
+1214,Maine,G2200330,2,23,230,Sagadahoc,0
+1215,Maine,G2200350,2,23,250,Somerset,0
+1216,Maine,G2200370,2,23,270,Waldo,0
+1217,Maine,G2200390,2,23,290,Washington,0
+1218,Maine,G2200410,2,23,310,York,0
+1219,Maryland,G2200430,52,24,10,Allegany,0
+1220,Maryland,G2200450,52,24,30,Anne Arundel,1
+1221,Maryland,G2200470,52,24,50,Baltimore,1
+1222,Maryland,G2200890,52,24,5100,Baltimore City,1
+1223,Maryland,G2200490,52,24,90,Calvert,0
+1224,Maryland,G2200510,52,24,110,Caroline,0
+1225,Maryland,G2200530,52,24,130,Carroll,0
+1226,Maryland,G2200550,52,24,150,Cecil,1
+1227,Maryland,G2200570,52,24,170,Charles,1
+1228,Maryland,G2200590,52,24,190,Dorchester,0
+1229,Maryland,G2200610,52,24,210,Frederick,0
+1230,Maryland,G2200630,52,24,230,Garrett,0
+1231,Maryland,G2200650,52,24,250,Harford,0
+1232,Maryland,G2200670,52,24,270,Howard,0
+1233,Maryland,G2200690,52,24,290,Kent,0
+1234,Maryland,G2200710,52,24,310,Montgomery,0
+1235,Maryland,G2200730,52,24,330,Prince Georges,1
+1236,Maryland,G2200750,52,24,350,Queen Anne's,0
+1237,Maryland,G2200790,52,24,390,Somerset,0
+1238,Maryland,G2200770,52,24,370,St Mary's,1
+1239,Maryland,G2200810,52,24,410,Talbot,0
+1240,Maryland,G2200830,52,24,430,Washington,0
+1241,Maryland,G2200850,52,24,450,Wicomico,0
+1242,Maryland,G2200870,52,24,470,Worcester,0
+1243,Massachusetts,G2200910,3,25,10,Barnstable,0
+1244,Massachusetts,G2200930,3,25,30,Berkshire,0
+1245,Massachusetts,G2200950,3,25,50,Bristol,0
+1246,Massachusetts,G2200970,3,25,70,Dukes,0
+1247,Massachusetts,G2200990,3,25,90,Essex,0
+1248,Massachusetts,G2201010,3,25,110,Franklin,0
+1249,Massachusetts,G2201030,3,25,130,Hampden,1
+1250,Massachusetts,G2201050,3,25,150,Hampshire,0
+1251,Massachusetts,G2201070,3,25,170,Middlesex,0
+1252,Massachusetts,G2201090,3,25,190,Nantucket,0
+1253,Massachusetts,G2201110,3,25,210,Norfolk,0
+1254,Massachusetts,G2201130,3,25,230,Plymouth,0
+1255,Massachusetts,G2201150,3,25,250,Suffolk,0
+1256,Massachusetts,G2201170,3,25,270,Worcester,0
+1257,Michigan,G2201190,23,26,10,Alcona,0
+1258,Michigan,G2201210,23,26,30,Alger,0
+1259,Michigan,G2201230,23,26,50,Allegan,0
+1260,Michigan,G2201250,23,26,70,Alpena,0
+1261,Michigan,G2201270,23,26,90,Antrim,0
+1262,Michigan,G2300010,23,26,110,Arenac,0
+1263,Michigan,G2300030,23,26,130,Baraga,0
+1264,Michigan,G2300050,23,26,150,Barry,0
+1265,Michigan,G2300070,23,26,170,Bay,0
+1266,Michigan,G2300090,23,26,190,Benzie,0
+1267,Michigan,G2300110,23,26,210,Berrien,1
+1268,Michigan,G2300130,23,26,230,Branch,0
+1269,Michigan,G2300150,23,26,250,Calhoun,0
+1270,Michigan,G2300170,23,26,270,Cass,0
+1271,Michigan,G2300190,23,26,290,Charlevoix,0
+1272,Michigan,G2300210,23,26,310,Cheboygan,0
+1273,Michigan,G2300230,23,26,330,Chippewa,0
+1274,Michigan,G2300250,23,26,350,Clare,0
+1275,Michigan,G2300270,23,26,370,Clinton,0
+1276,Michigan,G2300290,23,26,390,Crawford,0
+1277,Michigan,G2300310,23,26,410,Delta,0
+1278,Michigan,G2400010,23,26,430,Dickinson,0
+1279,Michigan,G2400030,23,26,450,Eaton,0
+1280,Michigan,G2400050,23,26,470,Emmet,0
+1281,Michigan,G2400090,23,26,490,Genesee,1
+1282,Michigan,G2400110,23,26,510,Gladwin,0
+1283,Michigan,G2400130,23,26,530,Gogebic,0
+1284,Michigan,G2400150,23,26,550,Grand Traverse,0
+1285,Michigan,G2400170,23,26,570,Gratiot,0
+1286,Michigan,G2400190,23,26,590,Hillsdale,0
+1287,Michigan,G2400210,23,26,610,Houghton,0
+1288,Michigan,G2400230,23,26,630,Huron,0
+1289,Michigan,G2400250,23,26,650,Ingham,1
+1290,Michigan,G2400270,23,26,670,Ionia,0
+1291,Michigan,G2400290,23,26,690,Iosco,0
+1292,Michigan,G2400310,23,26,710,Iron,0
+1293,Michigan,G2400330,23,26,730,Isabella,0
+1294,Michigan,G2400350,23,26,750,Jackson,0
+1295,Michigan,G2400370,23,26,770,Kalamazoo,1
+1296,Michigan,G2400390,23,26,790,Kalkaska,0
+1297,Michigan,G2400410,23,26,810,Kent,1
+1298,Michigan,G2400430,23,26,830,Keweenaw,0
+1299,Michigan,G2400450,23,26,850,Lake,0
+1300,Michigan,G2400470,23,26,870,Lapeer,0
+1301,Michigan,G2405100,23,26,890,Leelanau,0
+1302,Michigan,G2500010,23,26,910,Lenawee,0
+1303,Michigan,G2500030,23,26,930,Livingston,0
+1304,Michigan,G2500050,23,26,950,Luce,0
+1305,Michigan,G2500070,23,26,970,Mackinac,0
+1306,Michigan,G2500090,23,26,990,Macomb,0
+1307,Michigan,G2500110,23,26,1010,Manistee,0
+1308,Michigan,G2500130,23,26,1030,Marquette,0
+1309,Michigan,G2500150,23,26,1050,Mason,0
+1310,Michigan,G2500170,23,26,1070,Mecosta,0
+1311,Michigan,G2500190,23,26,1090,Menominee,0
+1312,Michigan,G2500210,23,26,1110,Midland,0
+1313,Michigan,G2500230,23,26,1130,Missaukee,0
+1314,Michigan,G2500250,23,26,1150,Monroe,0
+1315,Michigan,G2500270,23,26,1170,Montcalm,0
+1316,Michigan,G2600010,23,26,1190,Montmorency,0
+1317,Michigan,G2600030,23,26,1210,Muskegon,0
+1318,Michigan,G2600050,23,26,1230,Newaygo,0
+1319,Michigan,G2600070,23,26,1250,Oakland,1
+1320,Michigan,G2600090,23,26,1270,Oceana,0
+1321,Michigan,G2600110,23,26,1290,Ogemaw,0
+1322,Michigan,G2600130,23,26,1310,Ontonagon,0
+1323,Michigan,G2600150,23,26,1330,Osceola,0
+1324,Michigan,G2600170,23,26,1350,Oscoda,0
+1325,Michigan,G2600190,23,26,1370,Otsego,0
+1326,Michigan,G2600210,23,26,1390,Ottawa,0
+1327,Michigan,G2600230,23,26,1410,Presque Isle,0
+1328,Michigan,G2600250,23,26,1430,Roscommon,0
+1329,Michigan,G2600270,23,26,1450,Saginaw,0
+1330,Michigan,G2600330,23,26,1510,Sanilac,0
+1331,Michigan,G2600350,23,26,1530,Schoolcraft,0
+1332,Michigan,G2600370,23,26,1550,Shiawassee,0
+1333,Michigan,G2600290,23,26,1470,St Clair,0
+1334,Michigan,G2600310,23,26,1490,St Joseph,0
+1335,Michigan,G2600390,23,26,1570,Tuscola,0
+1336,Michigan,G2600410,23,26,1590,Van Buren,0
+1337,Michigan,G2600430,23,26,1610,Washtenaw,0
+1338,Michigan,G2600450,23,26,1630,Wayne,1
+1339,Michigan,G2600470,23,26,1650,Wexford,0
+1340,Minnesota,G2600490,33,27,10,Aitkin,0
+1341,Minnesota,G2600510,33,27,30,Anoka,0
+1342,Minnesota,G2600530,33,27,50,Becker,0
+1343,Minnesota,G2600550,33,27,70,Beltrami,0
+1344,Minnesota,G2600570,33,27,90,Benton,0
+1345,Minnesota,G2600590,33,27,110,Big Stone,0
+1346,Minnesota,G2600610,33,27,130,Blue Earth,0
+1347,Minnesota,G2600630,33,27,150,Brown,0
+1348,Minnesota,G2600650,33,27,170,Carlton,0
+1349,Minnesota,G2600670,33,27,190,Carver,0
+1350,Minnesota,G2600690,33,27,210,Cass,0
+1351,Minnesota,G2600710,33,27,230,Chippewa,0
+1352,Minnesota,G2600730,33,27,250,Chisago,0
+1353,Minnesota,G2600750,33,27,270,Clay,0
+1354,Minnesota,G2600770,33,27,290,Clearwater,0
+1355,Minnesota,G2600790,33,27,310,Cook,0
+1356,Minnesota,G2600810,33,27,330,Cottonwood,0
+1357,Minnesota,G2600830,33,27,350,Crow Wing,0
+1358,Minnesota,G2600850,33,27,370,Dakota,0
+1359,Minnesota,G2600870,33,27,390,Dodge,0
+1360,Minnesota,G2600890,33,27,410,Douglas,0
+1361,Minnesota,G2600910,33,27,430,Faribault,0
+1362,Minnesota,G2600930,33,27,450,Fillmore,0
+1363,Minnesota,G2600950,33,27,470,Freeborn,0
+1364,Minnesota,G2600970,33,27,490,Goodhue,0
+1365,Minnesota,G2600990,33,27,510,Grant,0
+1366,Minnesota,G2601010,33,27,530,Hennepin,1
+1367,Minnesota,G2601030,33,27,550,Houston,0
+1368,Minnesota,G2601050,33,27,570,Hubbard,0
+1369,Minnesota,G2601070,33,27,590,Isanti,0
+1370,Minnesota,G2601090,33,27,610,Itasca,0
+1371,Minnesota,G2601110,33,27,630,Jackson,0
+1372,Minnesota,G2601130,33,27,650,Kanabec,0
+1373,Minnesota,G2601150,33,27,670,Kandiyohi,0
+1374,Minnesota,G2601170,33,27,690,Kittson,0
+1375,Minnesota,G2601190,33,27,710,Koochiching,0
+1376,Minnesota,G2601210,33,27,730,Lac Qui Parle,0
+1377,Minnesota,G2601230,33,27,750,Lake,0
+1378,Minnesota,G2601250,33,27,770,Lake Of The Woods,0
+1379,Minnesota,G2601270,33,27,790,Le Sueur,0
+1380,Minnesota,G2601290,33,27,810,Lincoln,0
+1381,Minnesota,G2601310,33,27,830,Lyon,0
+1382,Minnesota,G2601350,33,27,870,Mahnomen,0
+1383,Minnesota,G2601370,33,27,890,Marshall,0
+1384,Minnesota,G2601390,33,27,910,Martin,0
+1385,Minnesota,G2601330,33,27,850,McLeod,0
+1386,Minnesota,G2601410,33,27,930,Meeker,0
+1387,Minnesota,G2601430,33,27,950,Mille Lacs,0
+1388,Minnesota,G2601450,33,27,970,Morrison,0
+1389,Minnesota,G2601470,33,27,990,Mower,0
+1390,Minnesota,G2601490,33,27,1010,Murray,0
+1391,Minnesota,G2601510,33,27,1030,Nicollet,0
+1392,Minnesota,G2601530,33,27,1050,Nobles,0
+1393,Minnesota,G2601550,33,27,1070,Norman,0
+1394,Minnesota,G2601570,33,27,1090,Olmsted,0
+1395,Minnesota,G2601590,33,27,1110,Otter Tail,0
+1396,Minnesota,G2601610,33,27,1130,Pennington,0
+1397,Minnesota,G2601630,33,27,1150,Pine,0
+1398,Minnesota,G2601650,33,27,1170,Pipestone,0
+1399,Minnesota,G2700010,33,27,1190,Polk,0
+1400,Minnesota,G2700030,33,27,1210,Pope,0
+1401,Minnesota,G2700050,33,27,1230,Ramsey,0
+1402,Minnesota,G2700070,33,27,1250,Red Lake,0
+1403,Minnesota,G2700090,33,27,1270,Redwood,0
+1404,Minnesota,G2700110,33,27,1290,Renville,0
+1405,Minnesota,G2700130,33,27,1310,Rice,0
+1406,Minnesota,G2700150,33,27,1330,Rock,0
+1407,Minnesota,G2700170,33,27,1350,Roseau,0
+1408,Minnesota,G2700210,33,27,1390,Scott,0
+1409,Minnesota,G2700230,33,27,1410,Sherburne,0
+1410,Minnesota,G2700250,33,27,1430,Sibley,0
+1411,Minnesota,G2700190,33,27,1370,St Louis,0
+1412,Minnesota,G2700270,33,27,1450,Stearns,0
+1413,Minnesota,G2700290,33,27,1470,Steele,0
+1414,Minnesota,G2700310,33,27,1490,Stevens,0
+1415,Minnesota,G2700330,33,27,1510,Swift,0
+1416,Minnesota,G2700350,33,27,1530,Todd,0
+1417,Minnesota,G2700370,33,27,1550,Traverse,0
+1418,Minnesota,G2700390,33,27,1570,Wabasha,0
+1419,Minnesota,G2700410,33,27,1590,Wadena,0
+1420,Minnesota,G2700430,33,27,1610,Waseca,0
+1421,Minnesota,G2700450,33,27,1630,Washington,0
+1422,Minnesota,G2700470,33,27,1650,Watonwan,0
+1423,Minnesota,G2700490,33,27,1670,Wilkin,0
+1424,Minnesota,G2700510,33,27,1690,Winona,0
+1425,Minnesota,G2700530,33,27,1710,Wright,0
+1426,Minnesota,G2700550,33,27,1730,Yellow Medicine,0
+1427,Mississippi,G2700570,46,28,10,Adams,0
+1428,Mississippi,G2700590,46,28,30,Alcorn,0
+1429,Mississippi,G2700610,46,28,50,Amite,0
+1430,Mississippi,G2700630,46,28,70,Attala,0
+1431,Mississippi,G2700650,46,28,90,Benton,0
+1432,Mississippi,G2700670,46,28,110,Bolivar,0
+1433,Mississippi,G2700690,46,28,130,Calhoun,0
+1434,Mississippi,G2700710,46,28,150,Carroll,0
+1435,Mississippi,G2700730,46,28,170,Chickasaw,0
+1436,Mississippi,G2700750,46,28,190,Choctaw,0
+1437,Mississippi,G2700770,46,28,210,Claiborne,0
+1438,Mississippi,G2700790,46,28,230,Clarke,0
+1439,Mississippi,G2700810,46,28,250,Clay,0
+1440,Mississippi,G2700830,46,28,270,Coahoma,1
+1441,Mississippi,G2700850,46,28,290,Copiah,1
+1442,Mississippi,G2700870,46,28,310,Covington,0
+1443,Mississippi,G2700890,46,28,330,DeSoto,0
+1444,Mississippi,G2700910,46,28,350,Forrest,1
+1445,Mississippi,G2700930,46,28,370,Franklin,0
+1446,Mississippi,G2700950,46,28,390,George,0
+1447,Mississippi,G2700970,46,28,410,Greene,0
+1448,Mississippi,G2700990,46,28,430,Grenada,0
+1449,Mississippi,G2701010,46,28,450,Hancock,0
+1450,Mississippi,G2701030,46,28,470,Harrison,1
+1451,Mississippi,G2701050,46,28,490,Hinds,0
+1452,Mississippi,G2701070,46,28,510,Holmes,0
+1453,Mississippi,G2701090,46,28,530,Humphreys,0
+1454,Mississippi,G2701110,46,28,550,Issaquena,0
+1455,Mississippi,G2701130,46,28,570,Itawamba,0
+1456,Mississippi,G2701150,46,28,590,Jackson,0
+1457,Mississippi,G2701170,46,28,610,Jasper,0
+1458,Mississippi,G2701190,46,28,630,Jefferson,0
+1459,Mississippi,G2701210,46,28,650,Jefferson Davis,0
+1460,Mississippi,G2701230,46,28,670,Jones,0
+1461,Mississippi,G2701250,46,28,690,Kemper,0
+1462,Mississippi,G2701270,46,28,710,Lafayette,0
+1463,Mississippi,G2701290,46,28,730,Lamar,0
+1464,Mississippi,G2701310,46,28,750,Lauderdale,0
+1465,Mississippi,G2701330,46,28,770,Lawrence,0
+1466,Mississippi,G2701350,46,28,790,Leake,0
+1467,Mississippi,G2701370,46,28,810,Lee,0
+1468,Mississippi,G2701390,46,28,830,Leflore,0
+1469,Mississippi,G2701410,46,28,850,Lincoln,0
+1470,Mississippi,G2701430,46,28,870,Lowndes,1
+1471,Mississippi,G2701450,46,28,890,Madison,1
+1472,Mississippi,G2701470,46,28,910,Marion,1
+1473,Mississippi,G2701490,46,28,930,Marshall,0
+1474,Mississippi,G2701510,46,28,950,Monroe,0
+1475,Mississippi,G2701530,46,28,970,Montgomery,0
+1476,Mississippi,G2701550,46,28,990,Neshoba,0
+1477,Mississippi,G2701570,46,28,1010,Newton,0
+1478,Mississippi,G2701590,46,28,1030,Noxubee,0
+1479,Mississippi,G2701610,46,28,1050,Oktibbeha,0
+1480,Mississippi,G2701630,46,28,1070,Panola,0
+1481,Mississippi,G2701650,46,28,1090,Pearl River,1
+1482,Mississippi,G2701670,46,28,1110,Perry,0
+1483,Mississippi,G2701690,46,28,1130,Pike,0
+1484,Mississippi,G2701710,46,28,1150,Pontotoc,0
+1485,Mississippi,G2701730,46,28,1170,Prentiss,0
+1486,Mississippi,G2800010,46,28,1190,Quitman,0
+1487,Mississippi,G2800030,46,28,1210,Rankin,1
+1488,Mississippi,G2800050,46,28,1230,Scott,0
+1489,Mississippi,G2800070,46,28,1250,Sharkey,0
+1490,Mississippi,G2800090,46,28,1270,Simpson,0
+1491,Mississippi,G2800110,46,28,1290,Smith,0
+1492,Mississippi,G2800130,46,28,1310,Stone,0
+1493,Mississippi,G2800150,46,28,1330,Sunflower,0
+1494,Mississippi,G2800170,46,28,1350,Tallahatchie,0
+1495,Mississippi,G2800190,46,28,1370,Tate,0
+1496,Mississippi,G2800210,46,28,1390,Tippah,0
+1497,Mississippi,G2800230,46,28,1410,Tishomingo,0
+1498,Mississippi,G2800250,46,28,1430,Tunica,0
+1499,Mississippi,G2800270,46,28,1450,Union,0
+1500,Mississippi,G2800290,46,28,1470,Walthall,0
+1501,Mississippi,G2800310,46,28,1490,Warren,0
+1502,Mississippi,G2800330,46,28,1510,Washington,1
+1503,Mississippi,G2800350,46,28,1530,Wayne,0
+1504,Mississippi,G2800370,46,28,1550,Webster,0
+1505,Mississippi,G2800390,46,28,1570,Wilkinson,0
+1506,Mississippi,G2800410,46,28,1590,Winston,1
+1507,Mississippi,G2800430,46,28,1610,Yalobusha,0
+1508,Mississippi,G2800450,46,28,1630,Yazoo,0
+1509,Missouri,G2800470,34,29,10,Adair,0
+1510,Missouri,G2800490,34,29,30,Andrew,0
+1511,Missouri,G2800510,34,29,50,Atchison,0
+1512,Missouri,G2800530,34,29,70,Audrain,0
+1513,Missouri,G2800550,34,29,90,Barry,0
+1514,Missouri,G2800570,34,29,110,Barton,0
+1515,Missouri,G2800590,34,29,130,Bates,0
+1516,Missouri,G2800610,34,29,150,Benton,0
+1517,Missouri,G2800630,34,29,170,Bollinger,0
+1518,Missouri,G2800650,34,29,190,Boone,0
+1519,Missouri,G2800670,34,29,210,Buchanan,0
+1520,Missouri,G2800690,34,29,230,Butler,0
+1521,Missouri,G2800710,34,29,250,Caldwell,0
+1522,Missouri,G2800730,34,29,270,Callaway,0
+1523,Missouri,G2800750,34,29,290,Camden,0
+1524,Missouri,G2800770,34,29,310,Cape Girardeau,0
+1525,Missouri,G2800790,34,29,330,Carroll,0
+1526,Missouri,G2800810,34,29,350,Carter,0
+1527,Missouri,G2800830,34,29,370,Cass,0
+1528,Missouri,G2800850,34,29,390,Cedar,0
+1529,Missouri,G2800870,34,29,410,Chariton,0
+1530,Missouri,G2800890,34,29,430,Christian,0
+1531,Missouri,G2800910,34,29,450,Clark,0
+1532,Missouri,G2800930,34,29,470,Clay,0
+1533,Missouri,G2800950,34,29,490,Clinton,0
+1534,Missouri,G2800970,34,29,510,Cole,0
+1535,Missouri,G2800990,34,29,530,Cooper,0
+1536,Missouri,G2801010,34,29,550,Crawford,0
+1537,Missouri,G2801030,34,29,570,Dade,0
+1538,Missouri,G2801050,34,29,590,Dallas,0
+1539,Missouri,G2801070,34,29,610,Daviess,0
+1540,Missouri,G2801090,34,29,630,DeKalb,0
+1541,Missouri,G2801110,34,29,650,Dent,0
+1542,Missouri,G2801130,34,29,670,Douglas,0
+1543,Missouri,G2801150,34,29,690,Dunklin,1
+1544,Missouri,G2801170,34,29,710,Franklin,0
+1545,Missouri,G2801190,34,29,730,Gasconade,0
+1546,Missouri,G2801210,34,29,750,Gentry,0
+1547,Missouri,G2801230,34,29,770,Greene,0
+1548,Missouri,G2801250,34,29,790,Grundy,0
+1549,Missouri,G2801270,34,29,810,Harrison,0
+1550,Missouri,G2801290,34,29,830,Henry,0
+1551,Missouri,G2801310,34,29,850,Hickory,0
+1552,Missouri,G2801330,34,29,870,Holt,0
+1553,Missouri,G2801350,34,29,890,Howard,0
+1554,Missouri,G2801370,34,29,910,Howell,0
+1555,Missouri,G2801390,34,29,930,Iron,0
+1556,Missouri,G2801410,34,29,950,Jackson,1
+1557,Missouri,G2801430,34,29,970,Jasper,0
+1558,Missouri,G2801450,34,29,990,Jefferson,0
+1559,Missouri,G2801470,34,29,1010,Johnson,0
+1560,Missouri,G2801490,34,29,1030,Knox,0
+1561,Missouri,G2801510,34,29,1050,Laclede,0
+1562,Missouri,G2801530,34,29,1070,Lafayette,0
+1563,Missouri,G2801550,34,29,1090,Lawrence,0
+1564,Missouri,G2801570,34,29,1110,Lewis,0
+1565,Missouri,G2801590,34,29,1130,Lincoln,0
+1566,Missouri,G2801610,34,29,1150,Linn,0
+1567,Missouri,G2801630,34,29,1170,Livingston,0
+1568,Missouri,G2900030,34,29,1210,Macon,0
+1569,Missouri,G2900050,34,29,1230,Madison,0
+1570,Missouri,G2900070,34,29,1250,Maries,0
+1571,Missouri,G2900090,34,29,1270,Marion,0
+1572,Missouri,G2900010,34,29,1190,McDonald,0
+1573,Missouri,G2900110,34,29,1290,Mercer,0
+1574,Missouri,G2900130,34,29,1310,Miller,0
+1575,Missouri,G2900150,34,29,1330,Mississippi,0
+1576,Missouri,G2900170,34,29,1350,Moniteau,0
+1577,Missouri,G2900190,34,29,1370,Monroe,0
+1578,Missouri,G2900210,34,29,1390,Montgomery,0
+1579,Missouri,G2900230,34,29,1410,Morgan,0
+1580,Missouri,G2900250,34,29,1430,New Madrid,0
+1581,Missouri,G2900270,34,29,1450,Newton,0
+1582,Missouri,G2900290,34,29,1470,Nodaway,0
+1583,Missouri,G2900310,34,29,1490,Oregon,0
+1584,Missouri,G2900330,34,29,1510,Osage,0
+1585,Missouri,G2900350,34,29,1530,Ozark,0
+1586,Missouri,G2900370,34,29,1550,Pemiscot,0
+1587,Missouri,G2900390,34,29,1570,Perry,0
+1588,Missouri,G2900410,34,29,1590,Pettis,0
+1589,Missouri,G2900430,34,29,1610,Phelps,0
+1590,Missouri,G2900450,34,29,1630,Pike,0
+1591,Missouri,G2900470,34,29,1650,Platte,0
+1592,Missouri,G2900490,34,29,1670,Polk,0
+1593,Missouri,G2900510,34,29,1690,Pulaski,0
+1594,Missouri,G2900530,34,29,1710,Putnam,0
+1595,Missouri,G2900550,34,29,1730,Ralls,0
+1596,Missouri,G2900570,34,29,1750,Randolph,0
+1597,Missouri,G2900590,34,29,1770,Ray,0
+1598,Missouri,G2900610,34,29,1790,Reynolds,0
+1599,Missouri,G2900630,34,29,1810,Ripley,0
+1600,Missouri,G2900750,34,29,1950,Saline,0
+1601,Missouri,G2900770,34,29,1970,Schuyler,0
+1602,Missouri,G2900790,34,29,1990,Scotland,0
+1603,Missouri,G2900810,34,29,2010,Scott,1
+1604,Missouri,G2900830,34,29,2030,Shannon,0
+1605,Missouri,G2900850,34,29,2050,Shelby,0
+1606,Missouri,G2900650,34,29,1830,St Charles,0
+1607,Missouri,G2900670,34,29,1850,St Clair,0
+1608,Missouri,G2900710,34,29,1870,St Francois,0
+1609,Missouri,G2900730,34,29,1890,St Louis,1
+1610,Missouri,G2901110,34,29,5100,St Louis City,1
+1611,Missouri,G2900690,34,29,1860,Ste Genevieve,0
+1612,Missouri,G2900870,34,29,2070,Stoddard,0
+1613,Missouri,G2900890,34,29,2090,Stone,0
+1614,Missouri,G2900910,34,29,2110,Sullivan,0
+1615,Missouri,G2900930,34,29,2130,Taney,0
+1616,Missouri,G2900950,34,29,2150,Texas,0
+1617,Missouri,G2900970,34,29,2170,Vernon,0
+1618,Missouri,G2900990,34,29,2190,Warren,0
+1619,Missouri,G2901010,34,29,2210,Washington,0
+1620,Missouri,G2901030,34,29,2230,Wayne,0
+1621,Missouri,G2901050,34,29,2250,Webster,0
+1622,Missouri,G2901070,34,29,2270,Worth,0
+1623,Missouri,G2901090,34,29,2290,Wright,0
+1624,Montana,G2901130,64,30,10,Beaverhead,0
+1625,Montana,G2901150,64,30,30,Big Horn,0
+1626,Montana,G2901170,64,30,50,Blaine,0
+1627,Montana,G2901190,64,30,70,Broadwater,0
+1628,Montana,G2901210,64,30,90,Carbon,0
+1629,Montana,G2901230,64,30,110,Carter,0
+1630,Montana,G2901250,64,30,130,Cascade,0
+1631,Montana,G2901270,64,30,150,Chouteau,0
+1632,Montana,G2901290,64,30,170,Custer,0
+1633,Montana,G2901310,64,30,190,Daniels,0
+1634,Montana,G2901330,64,30,210,Dawson,0
+1635,Montana,G2901350,64,30,230,Deer Lodge,0
+1636,Montana,G2901370,64,30,250,Fallon,0
+1637,Montana,G2901390,64,30,270,Fergus,0
+1638,Montana,G2901410,64,30,290,Flathead,0
+1639,Montana,G2901430,64,30,310,Gallatin,0
+1640,Montana,G2901450,64,30,330,Garfield,0
+1641,Montana,G2901470,64,30,350,Glacier,0
+1642,Montana,G2901490,64,30,370,Golden Valley,0
+1643,Montana,G2901510,64,30,390,Granite,0
+1644,Montana,G2901530,64,30,410,Hill,0
+1645,Montana,G2901550,64,30,430,Jefferson,0
+1646,Montana,G2901570,64,30,450,Judith Basin,0
+1647,Montana,G2901590,64,30,470,Lake,0
+1648,Montana,G2901610,64,30,490,Lewis And Clark,0
+1649,Montana,G2901630,64,30,510,Liberty,0
+1650,Montana,G2901650,64,30,530,Lincoln,0
+1651,Montana,G2901690,64,30,570,Madison,0
+1652,Montana,G2901670,64,30,550,McCone,0
+1653,Montana,G2901710,64,30,590,Meagher,0
+1654,Montana,G2901730,64,30,610,Mineral,0
+1655,Montana,G2901750,64,30,630,Missoula,0
+1656,Montana,G2901770,64,30,650,Musselshell,0
+1657,Montana,G2901790,64,30,670,Park,0
+1658,Montana,G2901810,64,30,690,Petroleum,0
+1659,Montana,G2901830,64,30,710,Phillips,0
+1660,Montana,G2901850,64,30,730,Pondera,0
+1661,Montana,G2901860,64,30,750,Powder River,0
+1662,Montana,G2901870,64,30,770,Powell,0
+1663,Montana,G2901890,64,30,790,Prairie,0
+1664,Montana,G2901950,64,30,810,Ravalli,0
+1665,Montana,G2901970,64,30,830,Richland,0
+1666,Montana,G2901990,64,30,850,Roosevelt,0
+1667,Montana,G2902010,64,30,870,Rosebud,0
+1668,Montana,G2902030,64,30,890,Sanders,0
+1669,Montana,G2902050,64,30,910,Sheridan,0
+1670,Montana,G2902070,64,30,930,Silver Bow,0
+1671,Montana,G2902090,64,30,950,Stillwater,0
+1672,Montana,G2902110,64,30,970,Sweet Grass,0
+1673,Montana,G2902130,64,30,990,Teton,0
+1674,Montana,G2902150,64,30,1010,Toole,0
+1675,Montana,G2902170,64,30,1030,Treasure,0
+1676,Montana,G2902190,64,30,1050,Valley,0
+1677,Montana,G2902210,64,30,1070,Wheatland,0
+1678,Montana,G2902230,64,30,1090,Wibaux,0
+1679,Montana,G2902250,64,30,1110,Yellowstone,0
+1680,Montana,G2902270,64,30,1130,Yellowstone National Park,0
+1681,Nebraska,G2902290,35,31,10,Adams,0
+1682,Nebraska,G2905100,35,31,30,Antelope,0
+1683,Nebraska,G3000010,35,31,50,Arthur,0
+1684,Nebraska,G3000030,35,31,70,Banner,0
+1685,Nebraska,G3000050,35,31,90,Blaine,0
+1686,Nebraska,G3000070,35,31,110,Boone,0
+1687,Nebraska,G3000090,35,31,130,Box Butte,0
+1688,Nebraska,G3000110,35,31,150,Boyd,0
+1689,Nebraska,G3000130,35,31,170,Brown,0
+1690,Nebraska,G3000150,35,31,190,Buffalo,0
+1691,Nebraska,G3000170,35,31,210,Burt,0
+1692,Nebraska,G3000190,35,31,230,Butler,0
+1693,Nebraska,G3000210,35,31,250,Cass,0
+1694,Nebraska,G3000230,35,31,270,Cedar,0
+1695,Nebraska,G3000250,35,31,290,Chase,0
+1696,Nebraska,G3000270,35,31,310,Cherry,0
+1697,Nebraska,G3000290,35,31,330,Cheyenne,0
+1698,Nebraska,G3000310,35,31,350,Clay,0
+1699,Nebraska,G3000330,35,31,370,Colfax,0
+1700,Nebraska,G3000350,35,31,390,Cuming,0
+1701,Nebraska,G3000370,35,31,410,Custer,0
+1702,Nebraska,G3000390,35,31,430,Dakota,0
+1703,Nebraska,G3000410,35,31,450,Dawes,0
+1704,Nebraska,G3000430,35,31,470,Dawson,0
+1705,Nebraska,G3000450,35,31,490,Deuel,0
+1706,Nebraska,G3000470,35,31,510,Dixon,0
+1707,Nebraska,G3000490,35,31,530,Dodge,0
+1708,Nebraska,G3000510,35,31,550,Douglas,0
+1709,Nebraska,G3000530,35,31,570,Dundy,0
+1710,Nebraska,G3000550,35,31,590,Fillmore,0
+1711,Nebraska,G3000570,35,31,610,Franklin,0
+1712,Nebraska,G3000590,35,31,630,Frontier,0
+1713,Nebraska,G3000610,35,31,650,Furnas,0
+1714,Nebraska,G3000630,35,31,670,Gage,0
+1715,Nebraska,G3000650,35,31,690,Garden,0
+1716,Nebraska,G3000670,35,31,710,Garfield,0
+1717,Nebraska,G3000690,35,31,730,Gosper,0
+1718,Nebraska,G3000710,35,31,750,Grant,0
+1719,Nebraska,G3000730,35,31,770,Greeley,0
+1720,Nebraska,G3000750,35,31,790,Hall,0
+1721,Nebraska,G3000770,35,31,810,Hamilton,0
+1722,Nebraska,G3000790,35,31,830,Harlan,0
+1723,Nebraska,G3000810,35,31,850,Hayes,0
+1724,Nebraska,G3000830,35,31,870,Hitchcock,0
+1725,Nebraska,G3000850,35,31,890,Holt,0
+1726,Nebraska,G3000870,35,31,910,Hooker,0
+1727,Nebraska,G3000890,35,31,930,Howard,0
+1728,Nebraska,G3000910,35,31,950,Jefferson,0
+1729,Nebraska,G3000930,35,31,970,Johnson,0
+1730,Nebraska,G3000950,35,31,990,Kearney,0
+1731,Nebraska,G3000970,35,31,1010,Keith,0
+1732,Nebraska,G3000990,35,31,1030,Keya Paha,0
+1733,Nebraska,G3001010,35,31,1050,Kimball,0
+1734,Nebraska,G3001030,35,31,1070,Knox,0
+1735,Nebraska,G3001050,35,31,1090,Lancaster,0
+1736,Nebraska,G3001070,35,31,1110,Lincoln,0
+1737,Nebraska,G3001090,35,31,1130,Logan,0
+1738,Nebraska,G3001110,35,31,1150,Loup,0
+1739,Nebraska,G3100010,35,31,1190,Madison,0
+1740,Nebraska,G3001130,35,31,1170,McPherson,0
+1741,Nebraska,G3100030,35,31,1210,Merrick,0
+1742,Nebraska,G3100050,35,31,1230,Morrill,0
+1743,Nebraska,G3100070,35,31,1250,Nance,0
+1744,Nebraska,G3100090,35,31,1270,Nemaha,0
+1745,Nebraska,G3100110,35,31,1290,Nuckolls,0
+1746,Nebraska,G3100130,35,31,1310,Otoe,0
+1747,Nebraska,G3100150,35,31,1330,Pawnee,0
+1748,Nebraska,G3100170,35,31,1350,Perkins,0
+1749,Nebraska,G3100190,35,31,1370,Phelps,0
+1750,Nebraska,G3100210,35,31,1390,Pierce,0
+1751,Nebraska,G3100230,35,31,1410,Platte,0
+1752,Nebraska,G3100250,35,31,1430,Polk,0
+1753,Nebraska,G3100270,35,31,1450,Red Willow,0
+1754,Nebraska,G3100290,35,31,1470,Richardson,0
+1755,Nebraska,G3100310,35,31,1490,Rock,0
+1756,Nebraska,G3100330,35,31,1510,Saline,0
+1757,Nebraska,G3100350,35,31,1530,Sarpy,0
+1758,Nebraska,G3100370,35,31,1550,Saunders,0
+1759,Nebraska,G3100390,35,31,1570,Scotts Bluff,0
+1760,Nebraska,G3100410,35,31,1590,Seward,0
+1761,Nebraska,G3100430,35,31,1610,Sheridan,0
+1762,Nebraska,G3100450,35,31,1630,Sherman,0
+1763,Nebraska,G3100470,35,31,1650,Sioux,0
+1764,Nebraska,G3100490,35,31,1670,Stanton,0
+1765,Nebraska,G3100510,35,31,1690,Thayer,0
+1766,Nebraska,G3100530,35,31,1710,Thomas,0
+1767,Nebraska,G3100550,35,31,1730,Thurston,0
+1768,Nebraska,G3100570,35,31,1750,Valley,0
+1769,Nebraska,G3100590,35,31,1770,Washington,0
+1770,Nebraska,G3100610,35,31,1790,Wayne,0
+1771,Nebraska,G3100630,35,31,1810,Webster,0
+1772,Nebraska,G3100650,35,31,1830,Wheeler,0
+1773,Nebraska,G3100670,35,31,1850,York,0
+1774,Nevada,G3101030,,32,510,Carson City,0
+1775,Nevada,G3100690,65,32,10,Churchill,0
+1776,Nevada,G3100710,65,32,30,Clark,0
+1777,Nevada,G3100730,65,32,50,Douglas,0
+1778,Nevada,G3100750,65,32,70,Elko,0
+1779,Nevada,G3100770,65,32,90,Esmeralda,0
+1780,Nevada,G3100790,65,32,110,Eureka,0
+1781,Nevada,G3100810,65,32,130,Humboldt,0
+1782,Nevada,G3100830,65,32,150,Lander,0
+1783,Nevada,G3100850,65,32,170,Lincoln,0
+1784,Nevada,G3100870,65,32,190,Lyon,0
+1785,Nevada,G3100890,65,32,210,Mineral,0
+1786,Nevada,G3100910,65,32,230,Nye,0
+1787,Nevada,G3100930,65,32,250,Ormsby,0
+1788,Nevada,G3100950,65,32,270,Pershing,0
+1789,Nevada,G3100970,65,32,290,Storey,0
+1790,Nevada,G3100990,65,32,310,Washoe,0
+1791,Nevada,G3101010,65,32,330,White Pine,0
+1792,New Hampshire,G3101050,4,33,10,Belknap,0
+1793,New Hampshire,G3101070,4,33,30,Carroll,0
+1794,New Hampshire,G3101090,4,33,50,Cheshire,0
+1795,New Hampshire,G3101110,4,33,70,Coos,0
+1796,New Hampshire,G3101130,4,33,90,Grafton,0
+1797,New Hampshire,G3101150,4,33,110,Hillsborough,0
+1798,New Hampshire,G3101170,4,33,130,Merrimack,0
+1799,New Hampshire,G3101190,4,33,150,Rockingham,0
+1800,New Hampshire,G3101210,4,33,170,Strafford,0
+1801,New Hampshire,G3101230,4,33,190,Sullivan,0
+1802,New Jersey,G3101250,12,34,10,Atlantic,1
+1803,New Jersey,G3101270,12,34,30,Bergen,1
+1804,New Jersey,G3101290,12,34,50,Burlington,1
+1805,New Jersey,G3101310,12,34,70,Camden,1
+1806,New Jersey,G3101330,12,34,90,Cape May,0
+1807,New Jersey,G3101350,12,34,110,Cumberland,1
+1808,New Jersey,G3101370,12,34,130,Essex,1
+1809,New Jersey,G3101390,12,34,150,Gloucester,0
+1810,New Jersey,G3101410,12,34,170,Hudson,1
+1811,New Jersey,G3101430,12,34,190,Hunterdon,0
+1812,New Jersey,G3101450,12,34,210,Mercer,1
+1813,New Jersey,G3101470,12,34,230,Middlesex,1
+1814,New Jersey,G3101490,12,34,250,Monmouth,1
+1815,New Jersey,G3101510,12,34,270,Morris,0
+1816,New Jersey,G3101530,12,34,290,Ocean,0
+1817,New Jersey,G3101550,12,34,310,Passaic,1
+1818,New Jersey,G3101570,12,34,330,Salem,0
+1819,New Jersey,G3101590,12,34,350,Somerset,0
+1820,New Jersey,G3101610,12,34,370,Sussex,0
+1821,New Jersey,G3101630,12,34,390,Union,1
+1822,New Jersey,G3101650,12,34,410,Warren,0
+1823,New Mexico,G3101670,66,35,10,Bernalillo,0
+1824,New Mexico,G3101690,66,35,30,Catron,0
+1825,New Mexico,G3101710,66,35,50,Chaves,0
+1826,New Mexico,G3101730,,35,60,Cibola,0
+1827,New Mexico,G3101750,66,35,70,Colfax,0
+1828,New Mexico,G3101770,66,35,90,Curry,0
+1829,New Mexico,G3101790,66,35,110,De Baca,0
+1830,New Mexico,G3101810,66,35,130,Dona Ana,0
+1831,New Mexico,G3101830,66,35,150,Eddy,0
+1832,New Mexico,G3101850,66,35,170,Grant,0
+1833,New Mexico,G3200010,66,35,190,Guadalupe,0
+1834,New Mexico,G3200030,66,35,210,Harding,0
+1835,New Mexico,G3200050,66,35,230,Hidalgo,0
+1836,New Mexico,G3200070,66,35,250,Lea,0
+1837,New Mexico,G3200090,66,35,270,Lincoln,0
+1838,New Mexico,G3200110,66,35,280,Los Alamos,0
+1839,New Mexico,G3200130,66,35,290,Luna,0
+1840,New Mexico,G3200150,66,35,310,McKinley,0
+1841,New Mexico,G3200170,66,35,330,Mora,0
+1842,New Mexico,G3200190,66,35,350,Otero,0
+1843,New Mexico,G3200210,66,35,370,Quay,0
+1844,New Mexico,G3200230,66,35,390,Rio Arriba,0
+1845,New Mexico,G3200250,66,35,410,Roosevelt,0
+1846,New Mexico,G3200290,66,35,450,San Juan,0
+1847,New Mexico,G3200310,66,35,470,San Miguel,0
+1848,New Mexico,G3200270,66,35,430,Sandoval,0
+1849,New Mexico,G3200330,66,35,490,Santa Fe,0
+1850,New Mexico,G3205100,66,35,510,Sierra,0
+1851,New Mexico,G3300010,66,35,530,Socorro,0
+1852,New Mexico,G3300030,66,35,550,Taos,0
+1853,New Mexico,G3300050,66,35,570,Torrance,0
+1854,New Mexico,G3300070,66,35,590,Union,0
+1855,New Mexico,G3300090,66,35,610,Valencia,0
+1856,New York,G3300110,13,36,10,Albany,1
+1857,New York,G3300130,13,36,30,Allegany,0
+1858,New York,G3300150,13,36,50,Bronx,0
+1859,New York,G3300170,13,36,70,Broome,0
+1860,New York,G3300190,13,36,90,Cattaraugus,0
+1861,New York,G3400010,13,36,110,Cayuga,0
+1862,New York,G3400030,13,36,130,Chautauqua,0
+1863,New York,G3400050,13,36,150,Chemung,0
+1864,New York,G3400070,13,36,170,Chenango,0
+1865,New York,G3400090,13,36,190,Clinton,0
+1866,New York,G3400110,13,36,210,Columbia,0
+1867,New York,G3400130,13,36,230,Cortland,0
+1868,New York,G3400150,13,36,250,Delaware,0
+1869,New York,G3400170,13,36,270,Dutchess,0
+1870,New York,G3400190,13,36,290,Erie,1
+1871,New York,G3400210,13,36,310,Essex,0
+1872,New York,G3400230,13,36,330,Franklin,0
+1873,New York,G3400250,13,36,350,Fulton,0
+1874,New York,G3400270,13,36,370,Genesee,0
+1875,New York,G3400290,13,36,390,Greene,0
+1876,New York,G3400310,13,36,410,Hamilton,0
+1877,New York,G3400330,13,36,430,Herkimer,0
+1878,New York,G3400350,13,36,450,Jefferson,0
+1879,New York,G3400370,13,36,470,Kings,0
+1880,New York,G3400390,13,36,490,Lewis,0
+1881,New York,G3400410,13,36,510,Livingston,0
+1882,New York,G3500010,13,36,530,Madison,0
+1883,New York,G3500030,13,36,550,Monroe,0
+1884,New York,G3500050,13,36,570,Montgomery,0
+1885,New York,G3500060,13,36,590,Nassau,1
+1886,New York,G3500070,13,36,610,New York,0
+1887,New York,G3500090,13,36,630,Niagara,0
+1888,New York,G3500110,13,36,650,Oneida,0
+1889,New York,G3500130,13,36,670,Onondaga,1
+1890,New York,G3500150,13,36,690,Ontario,0
+1891,New York,G3500170,13,36,710,Orange,0
+1892,New York,G3500190,13,36,730,Orleans,0
+1893,New York,G3500210,13,36,750,Oswego,0
+1894,New York,G3500230,13,36,770,Otsego,0
+1895,New York,G3500250,13,36,790,Putnam,0
+1896,New York,G3500270,13,36,810,Queens,1
+1897,New York,G3500280,13,36,830,Rensselaer,0
+1898,New York,G3500290,13,36,850,Richmond,0
+1899,New York,G3500310,13,36,870,Rockland,1
+1900,New York,G3500350,13,36,910,Saratoga,0
+1901,New York,G3500370,13,36,930,Schenectady,0
+1902,New York,G3500390,13,36,950,Schoharie,0
+1903,New York,G3500410,13,36,970,Schuyler,0
+1904,New York,G3500430,13,36,990,Seneca,0
+1905,New York,G3500330,13,36,890,St Lawrence,0
+1906,New York,G3500450,13,36,1010,Steuben,0
+1907,New York,G3500470,13,36,1030,Suffolk,1
+1908,New York,G3500490,13,36,1050,Sullivan,0
+1909,New York,G3500510,13,36,1070,Tioga,0
+1910,New York,G3500530,13,36,1090,Tompkins,0
+1911,New York,G3500550,13,36,1110,Ulster,0
+1912,New York,G3500570,13,36,1130,Warren,0
+1913,New York,G3500590,13,36,1150,Washington,0
+1914,New York,G3500610,13,36,1170,Wayne,0
+1915,New York,G3600010,13,36,1190,Westchester,1
+1916,New York,G3600030,13,36,1210,Wyoming,0
+1917,New York,G3600050,13,36,1230,Yates,0
+1918,North Carolina,G3600070,47,37,10,Alamance,0
+1919,North Carolina,G3600090,47,37,30,Alexander,0
+1920,North Carolina,G3600110,47,37,50,Alleghany,0
+1921,North Carolina,G3600130,47,37,70,Anson,0
+1922,North Carolina,G3600150,47,37,90,Ashe,0
+1923,North Carolina,G3600170,47,37,110,Avery,0
+1924,North Carolina,G3600190,47,37,130,Beaufort,1
+1925,North Carolina,G3600210,47,37,150,Bertie,0
+1926,North Carolina,G3600230,47,37,170,Bladen,0
+1927,North Carolina,G3600250,47,37,190,Brunswick,1
+1928,North Carolina,G3600270,47,37,210,Buncombe,0
+1929,North Carolina,G3600290,47,37,230,Burke,0
+1930,North Carolina,G3600310,47,37,250,Cabarrus,1
+1931,North Carolina,G3600330,47,37,270,Caldwell,0
+1932,North Carolina,G3600350,47,37,290,Camden,0
+1933,North Carolina,G3600370,47,37,310,Carteret,0
+1934,North Carolina,G3600390,47,37,330,Caswell,0
+1935,North Carolina,G3600410,47,37,350,Catawba,0
+1936,North Carolina,G3600430,47,37,370,Chatham,0
+1937,North Carolina,G3600450,47,37,390,Cherokee,0
+1938,North Carolina,G3600470,47,37,410,Chowan,0
+1939,North Carolina,G3600490,47,37,430,Clay,0
+1940,North Carolina,G3600510,47,37,450,Cleveland,1
+1941,North Carolina,G3600530,47,37,470,Columbus,1
+1942,North Carolina,G3600550,47,37,490,Craven,1
+1943,North Carolina,G3600570,47,37,510,Cumberland,1
+1944,North Carolina,G3600590,47,37,530,Currituck,0
+1945,North Carolina,G3600610,47,37,550,Dare,0
+1946,North Carolina,G3600630,47,37,570,Davidson,0
+1947,North Carolina,G3600650,47,37,590,Davie,0
+1948,North Carolina,G3600670,47,37,610,Duplin,0
+1949,North Carolina,G3600690,47,37,630,Durham,0
+1950,North Carolina,G3600710,47,37,650,Edgecombe,0
+1951,North Carolina,G3600730,47,37,670,Forsyth,0
+1952,North Carolina,G3600750,47,37,690,Franklin,0
+1953,North Carolina,G3600770,47,37,710,Gaston,1
+1954,North Carolina,G3600790,47,37,730,Gates,0
+1955,North Carolina,G3600810,47,37,750,Graham,0
+1956,North Carolina,G3600830,47,37,770,Granville,1
+1957,North Carolina,G3600850,47,37,790,Greene,0
+1958,North Carolina,G3600870,47,37,810,Guilford,0
+1959,North Carolina,G3600890,47,37,830,Halifax,0
+1960,North Carolina,G3600910,47,37,850,Harnett,0
+1961,North Carolina,G3600930,47,37,870,Haywood,0
+1962,North Carolina,G3600950,47,37,890,Henderson,0
+1963,North Carolina,G3600970,47,37,910,Hertford,0
+1964,North Carolina,G3600990,47,37,930,Hoke,0
+1965,North Carolina,G3601010,47,37,950,Hyde,0
+1966,North Carolina,G3601030,47,37,970,Iredell,1
+1967,North Carolina,G3601050,47,37,990,Jackson,0
+1968,North Carolina,G3601070,47,37,1010,Johnston,0
+1969,North Carolina,G3601090,47,37,1030,Jones,0
+1970,North Carolina,G3601110,47,37,1050,Lee,0
+1971,North Carolina,G3601130,47,37,1070,Lenoir,0
+1972,North Carolina,G3601150,47,37,1090,Lincoln,0
+1973,North Carolina,G3601190,47,37,1130,Macon,0
+1974,North Carolina,G3601210,47,37,1150,Madison,0
+1975,North Carolina,G3601230,47,37,1170,Martin,0
+1976,North Carolina,G3601170,47,37,1110,McDowell,0
+1977,North Carolina,G3700010,47,37,1190,Mecklenburg,1
+1978,North Carolina,G3700030,47,37,1210,Mitchell,0
+1979,North Carolina,G3700050,47,37,1230,Montgomery,0
+1980,North Carolina,G3700070,47,37,1250,Moore,1
+1981,North Carolina,G3700090,47,37,1270,Nash,0
+1982,North Carolina,G3700110,47,37,1290,New Hanover,1
+1983,North Carolina,G3700130,47,37,1310,Northampton,0
+1984,North Carolina,G3700150,47,37,1330,Onslow,1
+1985,North Carolina,G3700170,47,37,1350,Orange,0
+1986,North Carolina,G3700190,47,37,1370,Pamlico,0
+1987,North Carolina,G3700210,47,37,1390,Pasquotank,0
+1988,North Carolina,G3700230,47,37,1410,Pender,0
+1989,North Carolina,G3700250,47,37,1430,Perquimans,0
+1990,North Carolina,G3700270,47,37,1450,Person,0
+1991,North Carolina,G3700290,47,37,1470,Pitt,0
+1992,North Carolina,G3700310,47,37,1490,Polk,0
+1993,North Carolina,G3700330,47,37,1510,Randolph,0
+1994,North Carolina,G3700350,47,37,1530,Richmond,1
+1995,North Carolina,G3700370,47,37,1550,Robeson,0
+1996,North Carolina,G3700390,47,37,1570,Rockingham,0
+1997,North Carolina,G3700410,47,37,1590,Rowan,1
+1998,North Carolina,G3700430,47,37,1610,Rutherford,0
+1999,North Carolina,G3700450,47,37,1630,Sampson,0
+2000,North Carolina,G3700470,47,37,1650,Scotland,0
+2001,North Carolina,G3700490,47,37,1670,Stanly,0
+2002,North Carolina,G3700510,47,37,1690,Stokes,0
+2003,North Carolina,G3700530,47,37,1710,Surry,0
+2004,North Carolina,G3700550,47,37,1730,Swain,0
+2005,North Carolina,G3700570,47,37,1750,Transylvania,0
+2006,North Carolina,G3700590,47,37,1770,Tyrrell,0
+2007,North Carolina,G3700610,47,37,1790,Union,0
+2008,North Carolina,G3700630,47,37,1810,Vance,0
+2009,North Carolina,G3700650,47,37,1830,Wake,1
+2010,North Carolina,G3700670,47,37,1850,Warren,0
+2011,North Carolina,G3700690,47,37,1870,Washington,0
+2012,North Carolina,G3700710,47,37,1890,Watauga,0
+2013,North Carolina,G3700730,47,37,1910,Wayne,0
+2014,North Carolina,G3700750,47,37,1930,Wilkes,0
+2015,North Carolina,G3700770,47,37,1950,Wilson,0
+2016,North Carolina,G3700790,47,37,1970,Yadkin,0
+2017,North Carolina,G3700810,47,37,1990,Yancey,0
+2018,North Dakota,G3700830,36,38,10,Adams,0
+2019,North Dakota,G3700850,36,38,30,Barnes,0
+2020,North Dakota,G3700870,36,38,50,Benson,0
+2021,North Dakota,G3700890,36,38,70,Billings,0
+2022,North Dakota,G3700910,36,38,90,Bottineau,0
+2023,North Dakota,G3700930,36,38,110,Bowman,0
+2024,North Dakota,G3700950,36,38,130,Burke,0
+2025,North Dakota,G3700970,36,38,150,Burleigh,0
+2026,North Dakota,G3700990,36,38,170,Cass,0
+2027,North Dakota,G3701010,36,38,190,Cavalier,0
+2028,North Dakota,G3701030,36,38,210,Dickey,0
+2029,North Dakota,G3701050,36,38,230,Divide,0
+2030,North Dakota,G3701070,36,38,250,Dunn,0
+2031,North Dakota,G3701090,36,38,270,Eddy,0
+2032,North Dakota,G3701110,36,38,290,Emmons,0
+2033,North Dakota,G3701130,36,38,310,Foster,0
+2034,North Dakota,G3701150,36,38,330,Golden Valley,0
+2035,North Dakota,G3701170,36,38,350,Grand Forks,0
+2036,North Dakota,G3701190,36,38,370,Grant,0
+2037,North Dakota,G3701210,36,38,390,Griggs,0
+2038,North Dakota,G3701230,36,38,410,Hettinger,0
+2039,North Dakota,G3701250,36,38,430,Kidder,0
+2040,North Dakota,G3701270,36,38,450,LaMoure,0
+2041,North Dakota,G3701290,36,38,470,Logan,0
+2042,North Dakota,G3701310,36,38,490,McHenry,0
+2043,North Dakota,G3701330,36,38,510,McIntosh,0
+2044,North Dakota,G3701350,36,38,530,McKenzie,0
+2045,North Dakota,G3701370,36,38,550,McLean,0
+2046,North Dakota,G3701390,36,38,570,Mercer,0
+2047,North Dakota,G3701410,36,38,590,Morton,0
+2048,North Dakota,G3701430,36,38,610,Mountrail,0
+2049,North Dakota,G3701450,36,38,630,Nelson,0
+2050,North Dakota,G3701470,36,38,650,Oliver,0
+2051,North Dakota,G3701490,36,38,670,Pembina,0
+2052,North Dakota,G3701510,36,38,690,Pierce,0
+2053,North Dakota,G3701530,36,38,710,Ramsey,0
+2054,North Dakota,G3701550,36,38,730,Ransom,0
+2055,North Dakota,G3701570,36,38,750,Renville,0
+2056,North Dakota,G3701590,36,38,770,Richland,0
+2057,North Dakota,G3701610,36,38,790,Rolette,0
+2058,North Dakota,G3701630,36,38,810,Sargent,0
+2059,North Dakota,G3701650,36,38,830,Sheridan,0
+2060,North Dakota,G3701670,36,38,850,Sioux,0
+2061,North Dakota,G3701690,36,38,870,Slope,0
+2062,North Dakota,G3701710,36,38,890,Stark,0
+2063,North Dakota,G3701730,36,38,910,Steele,0
+2064,North Dakota,G3701750,36,38,930,Stutsman,0
+2065,North Dakota,G3701770,36,38,950,Towner,0
+2066,North Dakota,G3701790,36,38,970,Traill,0
+2067,North Dakota,G3701810,36,38,990,Walsh,0
+2068,North Dakota,G3701830,36,38,1010,Ward,0
+2069,North Dakota,G3701850,36,38,1030,Wells,0
+2070,North Dakota,G3701870,36,38,1050,Williams,0
+2071,Ohio,G3701890,24,39,10,Adams,0
+2072,Ohio,G3701910,24,39,30,Allen,0
+2073,Ohio,G3701930,24,39,50,Ashland,0
+2074,Ohio,G3701950,24,39,70,Ashtabula,0
+2075,Ohio,G3701970,24,39,90,Athens,0
+2076,Ohio,G3701990,24,39,110,Auglaize,0
+2077,Ohio,G3800010,24,39,130,Belmont,0
+2078,Ohio,G3800030,24,39,150,Brown,0
+2079,Ohio,G3800050,24,39,170,Butler,0
+2080,Ohio,G3800070,24,39,190,Carroll,0
+2081,Ohio,G3800090,24,39,210,Champaign,0
+2082,Ohio,G3800110,24,39,230,Clark,0
+2083,Ohio,G3800130,24,39,250,Clermont,0
+2084,Ohio,G3800150,24,39,270,Clinton,0
+2085,Ohio,G3800170,24,39,290,Columbiana,0
+2086,Ohio,G3800190,24,39,310,Coshocton,0
+2087,Ohio,G3800210,24,39,330,Crawford,0
+2088,Ohio,G3800230,24,39,350,Cuyahoga,1
+2089,Ohio,G3800250,24,39,370,Darke,0
+2090,Ohio,G3800270,24,39,390,Defiance,0
+2091,Ohio,G3800290,24,39,410,Delaware,0
+2092,Ohio,G3800310,24,39,430,Erie,0
+2093,Ohio,G3800330,24,39,450,Fairfield,0
+2094,Ohio,G3800350,24,39,470,Fayette,0
+2095,Ohio,G3800370,24,39,490,Franklin,1
+2096,Ohio,G3800390,24,39,510,Fulton,0
+2097,Ohio,G3800410,24,39,530,Gallia,0
+2098,Ohio,G3800430,24,39,550,Geauga,0
+2099,Ohio,G3800450,24,39,570,Greene,0
+2100,Ohio,G3800470,24,39,590,Guernsey,0
+2101,Ohio,G3800490,24,39,610,Hamilton,1
+2102,Ohio,G3800510,24,39,630,Hancock,0
+2103,Ohio,G3800530,24,39,650,Hardin,0
+2104,Ohio,G3800550,24,39,670,Harrison,0
+2105,Ohio,G3800570,24,39,690,Henry,0
+2106,Ohio,G3800590,24,39,710,Highland,0
+2107,Ohio,G3800610,24,39,730,Hocking,0
+2108,Ohio,G3800630,24,39,750,Holmes,0
+2109,Ohio,G3800650,24,39,770,Huron,0
+2110,Ohio,G3800670,24,39,790,Jackson,0
+2111,Ohio,G3800690,24,39,810,Jefferson,0
+2112,Ohio,G3800710,24,39,830,Knox,0
+2113,Ohio,G3800730,24,39,850,Lake,0
+2114,Ohio,G3800750,24,39,870,Lawrence,0
+2115,Ohio,G3800770,24,39,890,Licking,0
+2116,Ohio,G3800790,24,39,910,Logan,0
+2117,Ohio,G3800810,24,39,930,Lorain,1
+2118,Ohio,G3800830,24,39,950,Lucas,0
+2119,Ohio,G3800850,24,39,970,Madison,0
+2120,Ohio,G3800870,24,39,990,Mahoning,0
+2121,Ohio,G3800890,24,39,1010,Marion,0
+2122,Ohio,G3800910,24,39,1030,Medina,0
+2123,Ohio,G3800930,24,39,1050,Meigs,0
+2124,Ohio,G3800950,24,39,1070,Mercer,0
+2125,Ohio,G3800970,24,39,1090,Miami,0
+2126,Ohio,G3800990,24,39,1110,Monroe,0
+2127,Ohio,G3801010,24,39,1130,Montgomery,1
+2128,Ohio,G3801030,24,39,1150,Morgan,0
+2129,Ohio,G3801050,24,39,1170,Morrow,0
+2130,Ohio,G3900010,24,39,1190,Muskingum,0
+2131,Ohio,G3900030,24,39,1210,Noble,0
+2132,Ohio,G3900050,24,39,1230,Ottawa,0
+2133,Ohio,G3900070,24,39,1250,Paulding,0
+2134,Ohio,G3900090,24,39,1270,Perry,0
+2135,Ohio,G3900110,24,39,1290,Pickaway,0
+2136,Ohio,G3900130,24,39,1310,Pike,0
+2137,Ohio,G3900150,24,39,1330,Portage,0
+2138,Ohio,G3900170,24,39,1350,Preble,0
+2139,Ohio,G3900190,24,39,1370,Putnam,0
+2140,Ohio,G3900210,24,39,1390,Richland,0
+2141,Ohio,G3900230,24,39,1410,Ross,0
+2142,Ohio,G3900250,24,39,1430,Sandusky,0
+2143,Ohio,G3900270,24,39,1450,Scioto,0
+2144,Ohio,G3900290,24,39,1470,Seneca,0
+2145,Ohio,G3900310,24,39,1490,Shelby,0
+2146,Ohio,G3900330,24,39,1510,Stark,0
+2147,Ohio,G3900350,24,39,1530,Summit,0
+2148,Ohio,G3900370,24,39,1550,Trumbull,0
+2149,Ohio,G3900390,24,39,1570,Tuscarawas,0
+2150,Ohio,G3900410,24,39,1590,Union,0
+2151,Ohio,G3900430,24,39,1610,Van Wert,0
+2152,Ohio,G3900450,24,39,1630,Vinton,0
+2153,Ohio,G3900470,24,39,1650,Warren,0
+2154,Ohio,G3900490,24,39,1670,Washington,0
+2155,Ohio,G3900510,24,39,1690,Wayne,0
+2156,Ohio,G3900530,24,39,1710,Williams,0
+2157,Ohio,G3900550,24,39,1730,Wood,0
+2158,Ohio,G3900570,24,39,1750,Wyandot,0
+2159,Oklahoma,G3900590,53,40,10,Adair,0
+2160,Oklahoma,G3900610,53,40,30,Alfalfa,0
+2161,Oklahoma,G3900630,53,40,50,Atoka,0
+2162,Oklahoma,G3900650,53,40,70,Beaver,0
+2163,Oklahoma,G3900670,53,40,90,Beckham,0
+2164,Oklahoma,G3900690,53,40,110,Blaine,0
+2165,Oklahoma,G3900710,53,40,130,Bryan,0
+2166,Oklahoma,G3900730,53,40,150,Caddo,0
+2167,Oklahoma,G3900750,53,40,170,Canadian,0
+2168,Oklahoma,G3900770,53,40,190,Carter,0
+2169,Oklahoma,G3900790,53,40,210,Cherokee,0
+2170,Oklahoma,G3900810,53,40,230,Choctaw,0
+2171,Oklahoma,G3900830,53,40,250,Cimarron,0
+2172,Oklahoma,G3900850,53,40,270,Cleveland,0
+2173,Oklahoma,G3900870,53,40,290,Coal,0
+2174,Oklahoma,G3900890,53,40,310,Comanche,0
+2175,Oklahoma,G3900910,53,40,330,Cotton,0
+2176,Oklahoma,G3900930,53,40,350,Craig,0
+2177,Oklahoma,G3900950,53,40,370,Creek,0
+2178,Oklahoma,G3900970,53,40,390,Custer,0
+2179,Oklahoma,G3900990,53,40,410,Delaware,0
+2180,Oklahoma,G3901010,53,40,430,Dewey,0
+2181,Oklahoma,G3901030,53,40,450,Ellis,0
+2182,Oklahoma,G3901050,53,40,470,Garfield,0
+2183,Oklahoma,G3901070,53,40,490,Garvin,0
+2184,Oklahoma,G3901090,53,40,510,Grady,0
+2185,Oklahoma,G3901110,53,40,530,Grant,0
+2186,Oklahoma,G3901130,53,40,550,Greer,0
+2187,Oklahoma,G3901150,53,40,570,Harmon,0
+2188,Oklahoma,G3901170,53,40,590,Harper,0
+2189,Oklahoma,G3901190,53,40,610,Haskell,0
+2190,Oklahoma,G3901210,53,40,630,Hughes,0
+2191,Oklahoma,G3901230,53,40,650,Jackson,0
+2192,Oklahoma,G3901250,53,40,670,Jefferson,0
+2193,Oklahoma,G3901270,53,40,690,Johnston,0
+2194,Oklahoma,G3901290,53,40,710,Kay,0
+2195,Oklahoma,G3901310,53,40,730,Kingfisher,0
+2196,Oklahoma,G3901330,53,40,750,Kiowa,0
+2197,Oklahoma,G3901350,53,40,770,Latimer,0
+2198,Oklahoma,G3901370,53,40,790,Le Flore,0
+2199,Oklahoma,G3901390,53,40,810,Lincoln,0
+2200,Oklahoma,G3901410,53,40,830,Logan,0
+2201,Oklahoma,G3901430,53,40,850,Love,0
+2202,Oklahoma,G3901510,53,40,930,Major,0
+2203,Oklahoma,G3901530,53,40,950,Marshall,0
+2204,Oklahoma,G3901550,53,40,970,Mayes,0
+2205,Oklahoma,G3901450,53,40,870,McClain,0
+2206,Oklahoma,G3901470,53,40,890,McCurtain,0
+2207,Oklahoma,G3901490,53,40,910,McIntosh,0
+2208,Oklahoma,G3901570,53,40,990,Murray,0
+2209,Oklahoma,G3901590,53,40,1010,Muskogee,0
+2210,Oklahoma,G3901610,53,40,1030,Noble,0
+2211,Oklahoma,G3901630,53,40,1050,Nowata,0
+2212,Oklahoma,G3901650,53,40,1070,Okfuskee,0
+2213,Oklahoma,G3901670,53,40,1090,Oklahoma,1
+2214,Oklahoma,G3901690,53,40,1110,Okmulgee,0
+2215,Oklahoma,G3901710,53,40,1130,Osage,0
+2216,Oklahoma,G3901730,53,40,1150,Ottawa,0
+2217,Oklahoma,G3901750,53,40,1170,Pawnee,0
+2218,Oklahoma,G4000010,53,40,1190,Payne,0
+2219,Oklahoma,G4000030,53,40,1210,Pittsburg,0
+2220,Oklahoma,G4000050,53,40,1230,Pontotoc,0
+2221,Oklahoma,G4000070,53,40,1250,Pottawatomie,0
+2222,Oklahoma,G4000090,53,40,1270,Pushmataha,0
+2223,Oklahoma,G4000110,53,40,1290,Roger Mills,0
+2224,Oklahoma,G4000130,53,40,1310,Rogers,0
+2225,Oklahoma,G4000150,53,40,1330,Seminole,0
+2226,Oklahoma,G4000170,53,40,1350,Sequoyah,0
+2227,Oklahoma,G4000190,53,40,1370,Stephens,0
+2228,Oklahoma,G4000210,53,40,1390,Texas,0
+2229,Oklahoma,G4000230,53,40,1410,Tillman,0
+2230,Oklahoma,G4000250,53,40,1430,Tulsa,0
+2231,Oklahoma,G4000270,53,40,1450,Wagoner,0
+2232,Oklahoma,G4000290,53,40,1470,Washington,0
+2233,Oklahoma,G4000310,53,40,1490,Washita,0
+2234,Oklahoma,G4000330,53,40,1510,Woods,0
+2235,Oklahoma,G4000350,53,40,1530,Woodward,0
+2236,Oregon,G4000370,72,41,10,Baker,0
+2237,Oregon,G4000390,72,41,30,Benton,0
+2238,Oregon,G4000410,72,41,50,Clackamas,0
+2239,Oregon,G4000430,72,41,70,Clatsop,0
+2240,Oregon,G4000450,72,41,90,Columbia,0
+2241,Oregon,G4000470,72,41,110,Coos,0
+2242,Oregon,G4000490,72,41,130,Crook,0
+2243,Oregon,G4000510,72,41,150,Curry,0
+2244,Oregon,G4000530,72,41,170,Deschutes,0
+2245,Oregon,G4000550,72,41,190,Douglas,0
+2246,Oregon,G4000570,72,41,210,Gilliam,0
+2247,Oregon,G4000590,72,41,230,Grant,0
+2248,Oregon,G4000610,72,41,250,Harney,0
+2249,Oregon,G4000630,72,41,270,Hood River,0
+2250,Oregon,G4000650,72,41,290,Jackson,0
+2251,Oregon,G4000670,72,41,310,Jefferson,0
+2252,Oregon,G4000690,72,41,330,Josephine,0
+2253,Oregon,G4000710,72,41,350,Klamath,0
+2254,Oregon,G4000730,72,41,370,Lake,0
+2255,Oregon,G4000750,72,41,390,Lane,0
+2256,Oregon,G4000770,72,41,410,Lincoln,0
+2257,Oregon,G4000790,72,41,430,Linn,0
+2258,Oregon,G4000810,72,41,450,Malheur,0
+2259,Oregon,G4000830,72,41,470,Marion,0
+2260,Oregon,G4000850,72,41,490,Morrow,0
+2261,Oregon,G4000870,72,41,510,Multnomah,0
+2262,Oregon,G4000890,72,41,530,Polk,0
+2263,Oregon,G4000910,72,41,550,Sherman,0
+2264,Oregon,G4000930,72,41,570,Tillamook,0
+2265,Oregon,G4000950,72,41,590,Umatilla,0
+2266,Oregon,G4000970,72,41,610,Union,0
+2267,Oregon,G4000990,72,41,630,Wallowa,0
+2268,Oregon,G4001010,72,41,650,Wasco,0
+2269,Oregon,G4001030,72,41,670,Washington,0
+2270,Oregon,G4001050,72,41,690,Wheeler,0
+2271,Oregon,G4001070,72,41,710,Yamhill,0
+2272,Pennsylvania,G4001090,14,42,10,Adams,0
+2273,Pennsylvania,G4001110,14,42,30,Allegheny,1
+2274,Pennsylvania,G4001130,14,42,50,Armstrong,0
+2275,Pennsylvania,G4001150,14,42,70,Beaver,0
+2276,Pennsylvania,G4001170,14,42,90,Bedford,0
+2277,Pennsylvania,G4001190,14,42,110,Berks,0
+2278,Pennsylvania,G4001210,14,42,130,Blair,0
+2279,Pennsylvania,G4001230,14,42,150,Bradford,0
+2280,Pennsylvania,G4001250,14,42,170,Bucks,0
+2281,Pennsylvania,G4001270,14,42,190,Butler,0
+2282,Pennsylvania,G4001290,14,42,210,Cambria,0
+2283,Pennsylvania,G4001310,14,42,230,Cameron,0
+2284,Pennsylvania,G4001330,14,42,250,Carbon,0
+2285,Pennsylvania,G4001350,14,42,270,Centre,0
+2286,Pennsylvania,G4001370,14,42,290,Chester,0
+2287,Pennsylvania,G4001390,14,42,310,Clarion,0
+2288,Pennsylvania,G4001410,14,42,330,Clearfield,0
+2289,Pennsylvania,G4001430,14,42,350,Clinton,0
+2290,Pennsylvania,G4001450,14,42,370,Columbia,0
+2291,Pennsylvania,G4001470,14,42,390,Crawford,0
+2292,Pennsylvania,G4001490,14,42,410,Cumberland,0
+2293,Pennsylvania,G4001510,14,42,430,Dauphin,1
+2294,Pennsylvania,G4001530,14,42,450,Delaware,1
+2295,Pennsylvania,G4100010,14,42,470,Elk,0
+2296,Pennsylvania,G4100030,14,42,490,Erie,1
+2297,Pennsylvania,G4100050,14,42,510,Fayette,0
+2298,Pennsylvania,G4100070,14,42,530,Forest,0
+2299,Pennsylvania,G4100090,14,42,550,Franklin,0
+2300,Pennsylvania,G4100110,14,42,570,Fulton,0
+2301,Pennsylvania,G4100130,14,42,590,Greene,0
+2302,Pennsylvania,G4100150,14,42,610,Huntingdon,0
+2303,Pennsylvania,G4100170,14,42,630,Indiana,0
+2304,Pennsylvania,G4100190,14,42,650,Jefferson,0
+2305,Pennsylvania,G4100210,14,42,670,Juniata,0
+2306,Pennsylvania,G4100230,14,42,690,Lackawanna,0
+2307,Pennsylvania,G4100250,14,42,710,Lancaster,0
+2308,Pennsylvania,G4100270,14,42,730,Lawrence,0
+2309,Pennsylvania,G4100290,14,42,750,Lebanon,0
+2310,Pennsylvania,G4100310,14,42,770,Lehigh,0
+2311,Pennsylvania,G4100330,14,42,790,Luzerne,0
+2312,Pennsylvania,G4100350,14,42,810,Lycoming,0
+2313,Pennsylvania,G4100370,14,42,830,McKean,0
+2314,Pennsylvania,G4100390,14,42,850,Mercer,0
+2315,Pennsylvania,G4100410,14,42,870,Mifflin,0
+2316,Pennsylvania,G4100430,14,42,890,Monroe,0
+2317,Pennsylvania,G4100450,14,42,910,Montgomery,0
+2318,Pennsylvania,G4100470,14,42,930,Montour,0
+2319,Pennsylvania,G4100490,14,42,950,Northampton,0
+2320,Pennsylvania,G4100510,14,42,970,Northumberland,0
+2321,Pennsylvania,G4100530,14,42,990,Perry,0
+2322,Pennsylvania,G4100550,14,42,1010,Philadelphia,1
+2323,Pennsylvania,G4100570,14,42,1030,Pike,0
+2324,Pennsylvania,G4100590,14,42,1050,Potter,0
+2325,Pennsylvania,G4100610,14,42,1070,Schuylkill,0
+2326,Pennsylvania,G4100630,14,42,1090,Snyder,0
+2327,Pennsylvania,G4100650,14,42,1110,Somerset,0
+2328,Pennsylvania,G4100670,14,42,1130,Sullivan,0
+2329,Pennsylvania,G4100690,14,42,1150,Susquehanna,0
+2330,Pennsylvania,G4100710,14,42,1170,Tioga,0
+2331,Pennsylvania,G4200010,14,42,1190,Union,0
+2332,Pennsylvania,G4200030,14,42,1210,Venango,0
+2333,Pennsylvania,G4200050,14,42,1230,Warren,0
+2334,Pennsylvania,G4200070,14,42,1250,Washington,0
+2335,Pennsylvania,G4200090,14,42,1270,Wayne,0
+2336,Pennsylvania,G4200110,14,42,1290,Westmoreland,0
+2337,Pennsylvania,G4200130,14,42,1310,Wyoming,0
+2338,Pennsylvania,G4200150,14,42,1330,York,0
+2339,Puerto Rico,G5500750,,72,1,Adjuntas Municipio,0
+2340,Puerto Rico,G5500770,,72,3,Aguada Municipio,0
+2341,Puerto Rico,G5500780,,72,5,Aguadilla Municipio,0
+2342,Puerto Rico,G5500790,,72,7,Aguas Buenas Municipio,0
+2343,Puerto Rico,G5500810,,72,9,Aibonito Municipio,0
+2344,Puerto Rico,G5500830,,72,11,AÒasco Municipio,0
+2345,Puerto Rico,G5500850,,72,13,Arecibo Municipio,0
+2346,Puerto Rico,G5500870,,72,15,Arroyo Municipio,0
+2347,Puerto Rico,G5500890,,72,17,Barceloneta Municipio,0
+2348,Puerto Rico,G5500910,,72,19,Barranquitas Municipio,0
+2349,Puerto Rico,G5500930,,72,21,BayamÛn Municipio,0
+2350,Puerto Rico,G5500950,,72,23,Cabo Rojo Municipio,0
+2351,Puerto Rico,G5500970,,72,25,Caguas Municipio,0
+2352,Puerto Rico,G5500990,,72,27,Camuy Municipio,0
+2353,Puerto Rico,G5501010,,72,29,CanÛvanas Municipio,0
+2354,Puerto Rico,G5501030,,72,31,Carolina Municipio,0
+2355,Puerto Rico,G5501050,,72,33,CataÒo Municipio,0
+2356,Puerto Rico,G5501070,,72,35,Cayey Municipio,0
+2357,Puerto Rico,G5501090,,72,37,Ceiba Municipio,0
+2358,Puerto Rico,G5501110,,72,39,Ciales Municipio,0
+2359,Puerto Rico,G5501130,,72,41,Cidra Municipio,0
+2360,Puerto Rico,G5501150,,72,43,Coamo Municipio,0
+2361,Puerto Rico,G5501170,,72,45,ComerÌo Municipio,0
+2362,Puerto Rico,G5501190,,72,47,Corozal Municipio,0
+2363,Puerto Rico,G5501210,,72,49,Culebra Municipio,0
+2364,Puerto Rico,G5501230,,72,51,Dorado Municipio,0
+2365,Puerto Rico,G5501250,,72,53,Fajardo Municipio,0
+2366,Puerto Rico,G5501270,,72,54,Florida Municipio,0
+2367,Puerto Rico,G5501290,,72,55,Gu·nica Municipio,0
+2368,Puerto Rico,G5501310,,72,57,Guayama Municipio,0
+2369,Puerto Rico,G5501330,,72,59,Guayanilla Municipio,0
+2370,Puerto Rico,G5501350,,72,61,Guaynabo Municipio,0
+2371,Puerto Rico,G5501370,,72,63,Gurabo Municipio,0
+2372,Puerto Rico,G5501390,,72,65,Hatillo Municipio,0
+2373,Puerto Rico,G5501410,,72,67,Hormigueros Municipio,0
+2374,Puerto Rico,G5600010,,72,69,Humacao Municipio,0
+2375,Puerto Rico,G5600030,,72,71,Isabela Municipio,0
+2376,Puerto Rico,G5600050,,72,73,Jayuya Municipio,0
+2377,Puerto Rico,G5600070,,72,75,Juana DÌaz Municipio,0
+2378,Puerto Rico,G5600090,,72,77,Juncos Municipio,0
+2379,Puerto Rico,G5600110,,72,79,Lajas Municipio,0
+2380,Puerto Rico,G5600130,,72,81,Lares Municipio,0
+2381,Puerto Rico,G5600150,,72,83,Las MarÌas Municipio,0
+2382,Puerto Rico,G5600170,,72,85,Las Piedras Municipio,0
+2383,Puerto Rico,G5600190,,72,87,LoÌza Municipio,0
+2384,Puerto Rico,G5600210,,72,89,Luquillo Municipio,0
+2385,Puerto Rico,G5600230,,72,91,ManatÌ Municipio,0
+2386,Puerto Rico,G5600250,,72,93,Maricao Municipio,0
+2387,Puerto Rico,G5600270,,72,95,Maunabo Municipio,0
+2388,Puerto Rico,G5600290,,72,97,Mayag¸ez Municipio,0
+2389,Puerto Rico,G5600310,,72,99,Moca Municipio,0
+2390,Puerto Rico,G5600330,,72,101,Morovis Municipio,0
+2391,Puerto Rico,G5600350,,72,103,Naguabo Municipio,0
+2392,Puerto Rico,G5600370,,72,105,Naranjito Municipio,0
+2393,Puerto Rico,G5600390,,72,107,Orocovis Municipio,0
+2394,Puerto Rico,G5600410,,72,109,Patillas Municipio,0
+2395,Puerto Rico,G5600430,,72,111,PeÒuelas Municipio,0
+2396,Puerto Rico,G5600450,,72,113,Ponce Municipio,0
+2397,Puerto Rico,G5600470,,72,115,Quebradillas Municipio,0
+2398,Puerto Rico,G7200010,,72,117,RincÛn Municipio,0
+2399,Puerto Rico,G7200030,,72,119,RÌo Grande Municipio,0
+2400,Puerto Rico,G7200050,,72,121,Sabana Grande Municipio,0
+2401,Puerto Rico,G7200070,,72,123,Salinas Municipio,0
+2402,Puerto Rico,G7200090,,72,125,San Germ·n Municipio,0
+2403,Puerto Rico,G7200110,,72,127,San Juan Municipio,0
+2404,Puerto Rico,G7200130,,72,129,San Lorenzo Municipio,0
+2405,Puerto Rico,G7200150,,72,131,San Sebasti·n Municipio,0
+2406,Puerto Rico,G7200170,,72,133,Santa Isabel Municipio,0
+2407,Puerto Rico,G7200190,,72,135,Toa Alta Municipio,0
+2408,Puerto Rico,G7200210,,72,137,Toa Baja Municipio,0
+2409,Puerto Rico,G7200230,,72,139,Trujillo Alto Municipio,0
+2410,Puerto Rico,G7200250,,72,141,Utuado Municipio,0
+2411,Puerto Rico,G7200270,,72,143,Vega Alta Municipio,0
+2412,Puerto Rico,G7200290,,72,145,Vega Baja Municipio,0
+2413,Puerto Rico,G7200310,,72,147,Vieques Municipio,0
+2414,Puerto Rico,G7200330,,72,149,Villalba Municipio,0
+2415,Puerto Rico,G7200350,,72,151,Yabucoa Municipio,0
+2416,Puerto Rico,G7200370,,72,153,Yauco Municipio,0
+2417,Rhode Island,G4200170,5,44,10,Bristol,0
+2418,Rhode Island,G4200190,5,44,30,Kent,0
+2419,Rhode Island,G4200210,5,44,50,Newport,0
+2420,Rhode Island,G4200230,5,44,70,Providence,1
+2421,Rhode Island,G4200250,5,44,90,Washington,0
+2422,South Carolina,G4200270,48,45,10,Abbeville,0
+2423,South Carolina,G4200290,48,45,30,Aiken,1
+2424,South Carolina,G4200310,48,45,50,Allendale,1
+2425,South Carolina,G4200330,48,45,70,Anderson,0
+2426,South Carolina,G4200350,48,45,90,Bamberg,0
+2427,South Carolina,G4200370,48,45,110,Barnwell,0
+2428,South Carolina,G4200390,48,45,130,Beaufort,1
+2429,South Carolina,G4200410,48,45,150,Berkeley,0
+2430,South Carolina,G4200430,48,45,170,Calhoun,0
+2431,South Carolina,G4200450,48,45,190,Charleston,1
+2432,South Carolina,G4200470,48,45,210,Cherokee,1
+2433,South Carolina,G4200490,48,45,230,Chester,1
+2434,South Carolina,G4200510,48,45,250,Chesterfield,1
+2435,South Carolina,G4200530,48,45,270,Clarendon,0
+2436,South Carolina,G4200550,48,45,290,Colleton,0
+2437,South Carolina,G4200570,48,45,310,Darlington,0
+2438,South Carolina,G4200590,48,45,330,Dillon,0
+2439,South Carolina,G4200610,48,45,350,Dorchester,0
+2440,South Carolina,G4200630,48,45,370,Edgefield,0
+2441,South Carolina,G4200650,48,45,390,Fairfield,0
+2442,South Carolina,G4200670,48,45,410,Florence,1
+2443,South Carolina,G4200690,48,45,430,Georgetown,0
+2444,South Carolina,G4200710,48,45,450,Greenville,1
+2445,South Carolina,G4200730,48,45,470,Greenwood,0
+2446,South Carolina,G4200750,48,45,490,Hampton,0
+2447,South Carolina,G4200770,48,45,510,Horry,0
+2448,South Carolina,G4200790,48,45,530,Jasper,0
+2449,South Carolina,G4200810,48,45,550,Kershaw,0
+2450,South Carolina,G4200830,48,45,570,Lancaster,0
+2451,South Carolina,G4200850,48,45,590,Laurens,0
+2452,South Carolina,G4200870,48,45,610,Lee,0
+2453,South Carolina,G4200890,48,45,630,Lexington,0
+2454,South Carolina,G4200930,48,45,670,Marion,0
+2455,South Carolina,G4200950,48,45,690,Marlboro,0
+2456,South Carolina,G4200910,48,45,650,McCormick,0
+2457,South Carolina,G4200970,48,45,710,Newberry,0
+2458,South Carolina,G4200990,48,45,730,Oconee,0
+2459,South Carolina,G4201010,48,45,750,Orangeburg,0
+2460,South Carolina,G4201030,48,45,770,Pickens,0
+2461,South Carolina,G4201050,48,45,790,Richland,1
+2462,South Carolina,G4201070,48,45,810,Saluda,0
+2463,South Carolina,G4201090,48,45,830,Spartanburg,0
+2464,South Carolina,G4201110,48,45,850,Sumter,0
+2465,South Carolina,G4201130,48,45,870,Union,0
+2466,South Carolina,G4201150,48,45,890,Williamsburg,0
+2467,South Carolina,G4201170,48,45,910,York,1
+2468,South Dakota,G4201190,37,46,10,Armstrong,0
+2469,South Dakota,G4201210,37,46,30,Aurora,0
+2470,South Dakota,G4201230,37,46,50,Beadle,0
+2471,South Dakota,G4201250,37,46,70,Bennett,0
+2472,South Dakota,G4201270,37,46,90,Bon Homme,0
+2473,South Dakota,G4201290,37,46,110,Brookings,0
+2474,South Dakota,G4201310,37,46,130,Brown,0
+2475,South Dakota,G4201330,37,46,150,Brule,0
+2476,South Dakota,G4400010,37,46,170,Buffalo,0
+2477,South Dakota,G4400030,37,46,190,Butte,0
+2478,South Dakota,G4400050,37,46,210,Campbell,0
+2479,South Dakota,G4400070,37,46,230,Charles Mix,0
+2480,South Dakota,G4400090,37,46,250,Clark,0
+2481,South Dakota,G4500010,37,46,270,Clay,0
+2482,South Dakota,G4500030,37,46,290,Codington,0
+2483,South Dakota,G4500050,37,46,310,Corson,0
+2484,South Dakota,G4500070,37,46,330,Custer,0
+2485,South Dakota,G4500090,37,46,350,Davison,0
+2486,South Dakota,G4500110,37,46,370,Day,0
+2487,South Dakota,G4500130,37,46,390,Deuel,0
+2488,South Dakota,G4500150,37,46,410,Dewey,0
+2489,South Dakota,G4500170,37,46,430,Douglas,0
+2490,South Dakota,G4500190,37,46,450,Edmunds,0
+2491,South Dakota,G4500210,37,46,470,Fall River,0
+2492,South Dakota,G4500230,37,46,490,Faulk,0
+2493,South Dakota,G4500250,37,46,510,Grant,0
+2494,South Dakota,G4500270,37,46,530,Gregory,0
+2495,South Dakota,G4500290,37,46,550,Haakon,0
+2496,South Dakota,G4500310,37,46,570,Hamlin,0
+2497,South Dakota,G4500330,37,46,590,Hand,0
+2498,South Dakota,G4500350,37,46,610,Hanson,0
+2499,South Dakota,G4500370,37,46,630,Harding,0
+2500,South Dakota,G4500390,37,46,650,Hughes,0
+2501,South Dakota,G4500410,37,46,670,Hutchinson,0
+2502,South Dakota,G4500430,37,46,690,Hyde,0
+2503,South Dakota,G4500450,37,46,710,Jackson,0
+2504,South Dakota,G4500470,37,46,730,Jerauld,0
+2505,South Dakota,G4500490,37,46,750,Jones,0
+2506,South Dakota,G4500510,37,46,770,Kingsbury,0
+2507,South Dakota,G4500530,37,46,790,Lake,0
+2508,South Dakota,G4500550,37,46,810,Lawrence,0
+2509,South Dakota,G4500570,37,46,830,Lincoln,0
+2510,South Dakota,G4500590,37,46,850,Lyman,0
+2511,South Dakota,G4500650,37,46,910,Marshall,0
+2512,South Dakota,G4500610,37,46,870,McCook,0
+2513,South Dakota,G4500630,37,46,890,McPherson,0
+2514,South Dakota,G4500670,37,46,930,Meade,0
+2515,South Dakota,G4500690,37,46,950,Mellette,0
+2516,South Dakota,G4500710,37,46,970,Miner,0
+2517,South Dakota,G4500730,37,46,990,Minnehaha,0
+2518,South Dakota,G4500750,37,46,1010,Moody,0
+2519,South Dakota,G4500770,,46,1020,Oglala Lakota County,0
+2520,South Dakota,G4500790,37,46,1030,Pennington,0
+2521,South Dakota,G4500810,37,46,1050,Perkins,0
+2522,South Dakota,G4500830,37,46,1070,Potter,0
+2523,South Dakota,G4500850,37,46,1090,Roberts,0
+2524,South Dakota,G4500870,37,46,1110,Sanborn,0
+2525,South Dakota,G4500890,37,46,1130,Shannon,0
+2526,South Dakota,G4500910,37,46,1150,Spink,0
+2527,South Dakota,G4600010,37,46,1170,Stanley,0
+2528,South Dakota,G4600030,37,46,1190,Sully,0
+2529,South Dakota,G4600050,37,46,1210,Todd,0
+2530,South Dakota,G4600070,37,46,1230,Tripp,0
+2531,South Dakota,G4600090,37,46,1250,Turner,0
+2532,South Dakota,G4600110,37,46,1270,Union,0
+2533,South Dakota,G4600130,37,46,1290,Walworth,0
+2534,South Dakota,G4600150,37,46,1310,Washabaugh,0
+2535,South Dakota,G4600170,37,46,1330,Washington,0
+2536,South Dakota,G4600190,37,46,1350,Yankton,0
+2537,South Dakota,G4600210,37,46,1370,Ziebach,0
+2538,Tennessee,G4600230,54,47,10,Anderson,0
+2539,Tennessee,G4600250,54,47,30,Bedford,0
+2540,Tennessee,G4600270,54,47,50,Benton,0
+2541,Tennessee,G4600290,54,47,70,Bledsoe,0
+2542,Tennessee,G4600310,54,47,90,Blount,0
+2543,Tennessee,G4600330,54,47,110,Bradley,0
+2544,Tennessee,G4600350,54,47,130,Campbell,0
+2545,Tennessee,G4600370,54,47,150,Cannon,0
+2546,Tennessee,G4600390,54,47,170,Carroll,0
+2547,Tennessee,G4600410,54,47,190,Carter,0
+2548,Tennessee,G4600430,54,47,210,Cheatham,0
+2549,Tennessee,G4600450,54,47,230,Chester,0
+2550,Tennessee,G4600470,54,47,250,Claiborne,0
+2551,Tennessee,G4600490,54,47,270,Clay,0
+2552,Tennessee,G4600510,54,47,290,Cocke,0
+2553,Tennessee,G4600530,54,47,310,Coffee,0
+2554,Tennessee,G4600550,54,47,330,Crockett,0
+2555,Tennessee,G4600570,54,47,350,Cumberland,0
+2556,Tennessee,G4600590,54,47,370,Davidson,0
+2557,Tennessee,G4600610,54,47,390,Decatur,0
+2558,Tennessee,G4600630,54,47,410,DeKalb,0
+2559,Tennessee,G4600650,54,47,430,Dickson,0
+2560,Tennessee,G4600670,54,47,450,Dyer,0
+2561,Tennessee,G4600690,54,47,470,Fayette,1
+2562,Tennessee,G4600710,54,47,490,Fentress,0
+2563,Tennessee,G4600730,54,47,510,Franklin,0
+2564,Tennessee,G4600750,54,47,530,Gibson,1
+2565,Tennessee,G4600770,54,47,550,Giles,0
+2566,Tennessee,G4600790,54,47,570,Grainger,0
+2567,Tennessee,G4600810,54,47,590,Greene,0
+2568,Tennessee,G4600830,54,47,610,Grundy,0
+2569,Tennessee,G4600850,54,47,630,Hamblen,0
+2570,Tennessee,G4600870,54,47,650,Hamilton,1
+2571,Tennessee,G4600890,54,47,670,Hancock,0
+2572,Tennessee,G4600910,54,47,690,Hardeman,1
+2573,Tennessee,G4600930,54,47,710,Hardin,0
+2574,Tennessee,G4600950,54,47,730,Hawkins,0
+2575,Tennessee,G4600970,54,47,750,Haywood,0
+2576,Tennessee,G4600990,54,47,770,Henderson,0
+2577,Tennessee,G4601010,54,47,790,Henry,0
+2578,Tennessee,G4601020,54,47,810,Hickman,0
+2579,Tennessee,G4601030,54,47,830,Houston,0
+2580,Tennessee,G4601050,54,47,850,Humphreys,0
+2581,Tennessee,G4601070,54,47,870,Jackson,0
+2582,Tennessee,G4601090,54,47,890,Jefferson,0
+2583,Tennessee,G4601110,54,47,910,Johnson,0
+2584,Tennessee,G4601130,54,47,930,Knox,0
+2585,Tennessee,G4601150,54,47,950,Lake,0
+2586,Tennessee,G4601170,54,47,970,Lauderdale,0
+2587,Tennessee,G4601190,54,47,990,Lawrence,0
+2588,Tennessee,G4601210,54,47,1010,Lewis,0
+2589,Tennessee,G4601230,54,47,1030,Lincoln,0
+2590,Tennessee,G4601250,54,47,1050,Loudon,0
+2591,Tennessee,G4601310,54,47,1110,Macon,0
+2592,Tennessee,G4601330,54,47,1130,Madison,1
+2593,Tennessee,G4601350,54,47,1150,Marion,0
+2594,Tennessee,G4601370,54,47,1170,Marshall,0
+2595,Tennessee,G4700010,54,47,1190,Maury,0
+2596,Tennessee,G4601270,54,47,1070,McMinn,0
+2597,Tennessee,G4601290,54,47,1090,McNairy,0
+2598,Tennessee,G4700030,54,47,1210,Meigs,0
+2599,Tennessee,G4700050,54,47,1230,Monroe,0
+2600,Tennessee,G4700070,54,47,1250,Montgomery,0
+2601,Tennessee,G4700090,54,47,1270,Moore,0
+2602,Tennessee,G4700110,54,47,1290,Morgan,0
+2603,Tennessee,G4700130,54,47,1310,Obion,0
+2604,Tennessee,G4700150,54,47,1330,Overton,0
+2605,Tennessee,G4700170,54,47,1350,Perry,0
+2606,Tennessee,G4700190,54,47,1370,Pickett,0
+2607,Tennessee,G4700210,54,47,1390,Polk,0
+2608,Tennessee,G4700230,54,47,1410,Putnam,0
+2609,Tennessee,G4700250,54,47,1430,Rhea,0
+2610,Tennessee,G4700270,54,47,1450,Roane,0
+2611,Tennessee,G4700290,54,47,1470,Robertson,0
+2612,Tennessee,G4700310,54,47,1490,Rutherford,0
+2613,Tennessee,G4700330,54,47,1510,Scott,0
+2614,Tennessee,G4700350,54,47,1530,Sequatchie,0
+2615,Tennessee,G4700370,54,47,1550,Sevier,0
+2616,Tennessee,G4700390,54,47,1570,Shelby,1
+2617,Tennessee,G4700410,54,47,1590,Smith,0
+2618,Tennessee,G4700430,54,47,1610,Stewart,0
+2619,Tennessee,G4700450,54,47,1630,Sullivan,0
+2620,Tennessee,G4700470,54,47,1650,Sumner,0
+2621,Tennessee,G4700490,54,47,1670,Tipton,0
+2622,Tennessee,G4700510,54,47,1690,Trousdale,0
+2623,Tennessee,G4700530,54,47,1710,Unicoi,0
+2624,Tennessee,G4700550,54,47,1730,Union,0
+2625,Tennessee,G4700570,54,47,1750,Van Buren,0
+2626,Tennessee,G4700590,54,47,1770,Warren,0
+2627,Tennessee,G4700610,54,47,1790,Washington,0
+2628,Tennessee,G4700630,54,47,1810,Wayne,0
+2629,Tennessee,G4700650,54,47,1830,Weakley,0
+2630,Tennessee,G4700670,54,47,1850,White,0
+2631,Tennessee,G4700690,54,47,1870,Williamson,0
+2632,Tennessee,G4700710,54,47,1890,Wilson,0
+2633,Texas,G4700730,49,48,10,Anderson,0
+2634,Texas,G4700750,49,48,30,Andrews,0
+2635,Texas,G4700770,49,48,50,Angelina,0
+2636,Texas,G4700790,49,48,70,Aransas,0
+2637,Texas,G4700810,49,48,90,Archer,0
+2638,Texas,G4700830,49,48,110,Armstrong,0
+2639,Texas,G4700850,49,48,130,Atascosa,0
+2640,Texas,G4700870,49,48,150,Austin,0
+2641,Texas,G4700890,49,48,170,Bailey,0
+2642,Texas,G4700910,49,48,190,Bandera,0
+2643,Texas,G4700930,49,48,210,Bastrop,0
+2644,Texas,G4700950,49,48,230,Baylor,0
+2645,Texas,G4700970,49,48,250,Bee,0
+2646,Texas,G4700990,49,48,270,Bell,0
+2647,Texas,G4701010,49,48,290,Bexar,0
+2648,Texas,G4701030,49,48,310,Blanco,0
+2649,Texas,G4701050,49,48,330,Borden,0
+2650,Texas,G4701070,49,48,350,Bosque,0
+2651,Texas,G4701090,49,48,370,Bowie,1
+2652,Texas,G4701110,49,48,390,Brazoria,0
+2653,Texas,G4701130,49,48,410,Brazos,0
+2654,Texas,G4701150,49,48,430,Brewster,0
+2655,Texas,G4701170,49,48,450,Briscoe,0
+2656,Texas,G4701190,49,48,470,Brooks,0
+2657,Texas,G4701210,49,48,490,Brown,0
+2658,Texas,G4701230,49,48,510,Burleson,0
+2659,Texas,G4701250,49,48,530,Burnet,0
+2660,Texas,G4701270,49,48,550,Caldwell,0
+2661,Texas,G4701290,49,48,570,Calhoun,0
+2662,Texas,G4701310,49,48,590,Callahan,0
+2663,Texas,G4701330,49,48,610,Cameron,0
+2664,Texas,G4701350,49,48,630,Camp,0
+2665,Texas,G4701370,49,48,650,Carson,0
+2666,Texas,G4701390,49,48,670,Cass,0
+2667,Texas,G4701410,49,48,690,Castro,0
+2668,Texas,G4701430,49,48,710,Chambers,0
+2669,Texas,G4701450,49,48,730,Cherokee,0
+2670,Texas,G4701470,49,48,750,Childress,0
+2671,Texas,G4701490,49,48,770,Clay,0
+2672,Texas,G4701510,49,48,790,Cochran,0
+2673,Texas,G4701530,49,48,810,Coke,0
+2674,Texas,G4701550,49,48,830,Coleman,0
+2675,Texas,G4701570,49,48,850,Collin,0
+2676,Texas,G4701590,49,48,870,Collingsworth,0
+2677,Texas,G4701610,49,48,890,Colorado,0
+2678,Texas,G4701630,49,48,910,Comal,0
+2679,Texas,G4701650,49,48,930,Comanche,0
+2680,Texas,G4701670,49,48,950,Concho,0
+2681,Texas,G4701690,49,48,970,Cooke,0
+2682,Texas,G4701710,49,48,990,Coryell,0
+2683,Texas,G4701730,49,48,1010,Cottle,0
+2684,Texas,G4701750,49,48,1030,Crane,0
+2685,Texas,G4701770,49,48,1050,Crockett,0
+2686,Texas,G4701790,49,48,1070,Crosby,0
+2687,Texas,G4701810,49,48,1090,Culberson,0
+2688,Texas,G4701830,49,48,1110,Dallam,0
+2689,Texas,G4701850,49,48,1130,Dallas,1
+2690,Texas,G4701870,49,48,1150,Dawson,0
+2691,Texas,G4701890,49,48,1170,Deaf Smith,0
+2692,Texas,G4800010,49,48,1190,Delta,0
+2693,Texas,G4800030,49,48,1210,Denton,0
+2694,Texas,G4800050,49,48,1230,DeWitt,0
+2695,Texas,G4800070,49,48,1250,Dickens,0
+2696,Texas,G4800090,49,48,1270,Dimmit,0
+2697,Texas,G4800110,49,48,1290,Donley,0
+2698,Texas,G4800130,49,48,1310,Duval,0
+2699,Texas,G4800150,49,48,1330,Eastland,0
+2700,Texas,G4800170,49,48,1350,Ector,0
+2701,Texas,G4800190,49,48,1370,Edwards,0
+2702,Texas,G4800230,49,48,1410,El Paso,0
+2703,Texas,G4800210,49,48,1390,Ellis,0
+2704,Texas,G4800250,49,48,1430,Erath,0
+2705,Texas,G4800270,49,48,1450,Falls,0
+2706,Texas,G4800290,49,48,1470,Fannin,0
+2707,Texas,G4800310,49,48,1490,Fayette,0
+2708,Texas,G4800330,49,48,1510,Fisher,0
+2709,Texas,G4800350,49,48,1530,Floyd,0
+2710,Texas,G4800370,49,48,1550,Foard,0
+2711,Texas,G4800390,49,48,1570,Fort Bend,0
+2712,Texas,G4800410,49,48,1590,Franklin,0
+2713,Texas,G4800430,49,48,1610,Freestone,0
+2714,Texas,G4800450,49,48,1630,Frio,0
+2715,Texas,G4800470,49,48,1650,Gaines,0
+2716,Texas,G4800490,49,48,1670,Galveston,1
+2717,Texas,G4800510,49,48,1690,Garza,0
+2718,Texas,G4800530,49,48,1710,Gillespie,0
+2719,Texas,G4800550,49,48,1730,Glasscock,0
+2720,Texas,G4800570,49,48,1750,Goliad,0
+2721,Texas,G4800590,49,48,1770,Gonzales,0
+2722,Texas,G4800610,49,48,1790,Gray,0
+2723,Texas,G4800630,49,48,1810,Grayson,0
+2724,Texas,G4800650,49,48,1830,Gregg,1
+2725,Texas,G4800670,49,48,1850,Grimes,0
+2726,Texas,G4800690,49,48,1870,Guadalupe,0
+2727,Texas,G4800710,49,48,1890,Hale,0
+2728,Texas,G4800730,49,48,1910,Hall,0
+2729,Texas,G4800750,49,48,1930,Hamilton,0
+2730,Texas,G4800770,49,48,1950,Hansford,0
+2731,Texas,G4800790,49,48,1970,Hardeman,0
+2732,Texas,G4800810,49,48,1990,Hardin,0
+2733,Texas,G4800830,49,48,2010,Harris,1
+2734,Texas,G4800850,49,48,2030,Harrison,1
+2735,Texas,G4800870,49,48,2050,Hartley,0
+2736,Texas,G4800890,49,48,2070,Haskell,0
+2737,Texas,G4800910,49,48,2090,Hays,0
+2738,Texas,G4800930,49,48,2110,Hemphill,0
+2739,Texas,G4800950,49,48,2130,Henderson,0
+2740,Texas,G4800970,49,48,2150,Hidalgo,0
+2741,Texas,G4800990,49,48,2170,Hill,0
+2742,Texas,G4801010,49,48,2190,Hockley,0
+2743,Texas,G4801030,49,48,2210,Hood,0
+2744,Texas,G4801050,49,48,2230,Hopkins,0
+2745,Texas,G4801070,49,48,2250,Houston,0
+2746,Texas,G4801090,49,48,2270,Howard,0
+2747,Texas,G4801110,49,48,2290,Hudspeth,0
+2748,Texas,G4801130,49,48,2310,Hunt,0
+2749,Texas,G4801150,49,48,2330,Hutchinson,0
+2750,Texas,G4801170,49,48,2350,Irion,0
+2751,Texas,G4801190,49,48,2370,Jack,0
+2752,Texas,G4801210,49,48,2390,Jackson,0
+2753,Texas,G4801230,49,48,2410,Jasper,1
+2754,Texas,G4801250,49,48,2430,Jeff Davis,0
+2755,Texas,G4801270,49,48,2450,Jefferson,1
+2756,Texas,G4801290,49,48,2470,Jim Hogg,0
+2757,Texas,G4801310,49,48,2490,Jim Wells,0
+2758,Texas,G4801330,49,48,2510,Johnson,0
+2759,Texas,G4801350,49,48,2530,Jones,0
+2760,Texas,G4801370,49,48,2550,Karnes,0
+2761,Texas,G4801390,49,48,2570,Kaufman,0
+2762,Texas,G4801410,49,48,2590,Kendall,0
+2763,Texas,G4801430,49,48,2610,Kenedy,0
+2764,Texas,G4801450,49,48,2630,Kent,0
+2765,Texas,G4801470,49,48,2650,Kerr,0
+2766,Texas,G4801490,49,48,2670,Kimble,0
+2767,Texas,G4801510,49,48,2690,King,0
+2768,Texas,G4801530,49,48,2710,Kinney,0
+2769,Texas,G4801550,49,48,2730,Kleberg,0
+2770,Texas,G4801570,49,48,2750,Knox,0
+2771,Texas,G4801650,49,48,2830,La Salle,0
+2772,Texas,G4801590,49,48,2770,Lamar,0
+2773,Texas,G4801610,49,48,2790,Lamb,0
+2774,Texas,G4801630,49,48,2810,Lampasas,0
+2775,Texas,G4801670,49,48,2850,Lavaca,0
+2776,Texas,G4801690,49,48,2870,Lee,0
+2777,Texas,G4801710,49,48,2890,Leon,0
+2778,Texas,G4801730,49,48,2910,Liberty,1
+2779,Texas,G4801750,49,48,2930,Limestone,0
+2780,Texas,G4801770,49,48,2950,Lipscomb,0
+2781,Texas,G4801790,49,48,2970,Live Oak,0
+2782,Texas,G4801810,49,48,2990,Llano,0
+2783,Texas,G4801830,49,48,3010,Loving,0
+2784,Texas,G4801850,49,48,3030,Lubbock,0
+2785,Texas,G4801870,49,48,3050,Lynn,0
+2786,Texas,G4801950,49,48,3130,Madison,0
+2787,Texas,G4801970,49,48,3150,Marion,0
+2788,Texas,G4801990,49,48,3170,Martin,0
+2789,Texas,G4802010,49,48,3190,Mason,0
+2790,Texas,G4802030,49,48,3210,Matagorda,0
+2791,Texas,G4802050,49,48,3230,Maverick,0
+2792,Texas,G4801890,49,48,3070,McCulloch,0
+2793,Texas,G4801910,49,48,3090,McLennan,0
+2794,Texas,G4801930,49,48,3110,McMullen,0
+2795,Texas,G4802070,49,48,3250,Medina,0
+2796,Texas,G4802090,49,48,3270,Menard,0
+2797,Texas,G4802110,49,48,3290,Midland,0
+2798,Texas,G4802130,49,48,3310,Milam,0
+2799,Texas,G4802150,49,48,3330,Mills,0
+2800,Texas,G4802170,49,48,3350,Mitchell,0
+2801,Texas,G4802190,49,48,3370,Montague,0
+2802,Texas,G4802210,49,48,3390,Montgomery,0
+2803,Texas,G4802230,49,48,3410,Moore,0
+2804,Texas,G4802250,49,48,3430,Morris,0
+2805,Texas,G4802270,49,48,3450,Motley,0
+2806,Texas,G4802290,49,48,3470,Nacogdoches,0
+2807,Texas,G4802310,49,48,3490,Navarro,0
+2808,Texas,G4802330,49,48,3510,Newton,0
+2809,Texas,G4802350,49,48,3530,Nolan,0
+2810,Texas,G4802370,49,48,3550,Nueces,0
+2811,Texas,G4802390,49,48,3570,Ochiltree,0
+2812,Texas,G4802410,49,48,3590,Oldham,0
+2813,Texas,G4802430,49,48,3610,Orange,0
+2814,Texas,G4802450,49,48,3630,Palo Pinto,0
+2815,Texas,G4802470,49,48,3650,Panola,0
+2816,Texas,G4802490,49,48,3670,Parker,0
+2817,Texas,G4802510,49,48,3690,Parmer,0
+2818,Texas,G4802530,49,48,3710,Pecos,0
+2819,Texas,G4802550,49,48,3730,Polk,0
+2820,Texas,G4802570,49,48,3750,Potter,0
+2821,Texas,G4802590,49,48,3770,Presidio,0
+2822,Texas,G4802610,49,48,3790,Rains,0
+2823,Texas,G4802630,49,48,3810,Randall,0
+2824,Texas,G4802650,49,48,3830,Reagan,0
+2825,Texas,G4802670,49,48,3850,Real,0
+2826,Texas,G4802690,49,48,3870,Red River,0
+2827,Texas,G4802710,49,48,3890,Reeves,0
+2828,Texas,G4802730,49,48,3910,Refugio,0
+2829,Texas,G4802750,49,48,3930,Roberts,0
+2830,Texas,G4802770,49,48,3950,Robertson,0
+2831,Texas,G4802790,49,48,3970,Rockwall,0
+2832,Texas,G4802810,49,48,3990,Runnels,0
+2833,Texas,G4802830,49,48,4010,Rusk,0
+2834,Texas,G4802850,49,48,4030,Sabine,0
+2835,Texas,G4802870,49,48,4050,San Augustine,0
+2836,Texas,G4802890,49,48,4070,San Jacinto,0
+2837,Texas,G4802910,49,48,4090,San Patricio,0
+2838,Texas,G4802930,49,48,4110,San Saba,0
+2839,Texas,G4802950,49,48,4130,Schleicher,0
+2840,Texas,G4802970,49,48,4150,Scurry,0
+2841,Texas,G4802990,49,48,4170,Shackelford,0
+2842,Texas,G4803010,49,48,4190,Shelby,0
+2843,Texas,G4803030,49,48,4210,Sherman,0
+2844,Texas,G4803050,49,48,4230,Smith,0
+2845,Texas,G4803070,49,48,4250,Somervell,0
+2846,Texas,G4803090,49,48,4270,Starr,0
+2847,Texas,G4803110,49,48,4290,Stephens,0
+2848,Texas,G4803130,49,48,4310,Sterling,0
+2849,Texas,G4803150,49,48,4330,Stonewall,0
+2850,Texas,G4803170,49,48,4350,Sutton,0
+2851,Texas,G4803190,49,48,4370,Swisher,0
+2852,Texas,G4803210,49,48,4390,Tarrant,1
+2853,Texas,G4803230,49,48,4410,Taylor,0
+2854,Texas,G4803250,49,48,4430,Terrell,0
+2855,Texas,G4803270,49,48,4450,Terry,0
+2856,Texas,G4803290,49,48,4470,Throckmorton,0
+2857,Texas,G4803310,49,48,4490,Titus,0
+2858,Texas,G4803330,49,48,4510,Tom Green,0
+2859,Texas,G4803350,49,48,4530,Travis,0
+2860,Texas,G4803370,49,48,4550,Trinity,0
+2861,Texas,G4803390,49,48,4570,Tyler,0
+2862,Texas,G4803410,49,48,4590,Upshur,0
+2863,Texas,G4803430,49,48,4610,Upton,0
+2864,Texas,G4803450,49,48,4630,Uvalde,0
+2865,Texas,G4803470,49,48,4650,Val Verde,0
+2866,Texas,G4803490,49,48,4670,Van Zandt,0
+2867,Texas,G4803510,49,48,4690,Victoria,0
+2868,Texas,G4803530,49,48,4710,Walker,0
+2869,Texas,G4803550,49,48,4730,Waller,1
+2870,Texas,G4803570,49,48,4750,Ward,0
+2871,Texas,G4803590,49,48,4770,Washington,0
+2872,Texas,G4803610,49,48,4790,Webb,0
+2873,Texas,G4803630,49,48,4810,Wharton,0
+2874,Texas,G4803650,49,48,4830,Wheeler,0
+2875,Texas,G4803670,49,48,4850,Wichita,0
+2876,Texas,G4803690,49,48,4870,Wilbarger,0
+2877,Texas,G4803710,49,48,4890,Willacy,0
+2878,Texas,G4803730,49,48,4910,Williamson,0
+2879,Texas,G4803750,49,48,4930,Wilson,0
+2880,Texas,G4803770,49,48,4950,Winkler,0
+2881,Texas,G4803790,49,48,4970,Wise,0
+2882,Texas,G4803810,49,48,4990,Wood,0
+2883,Texas,G4803830,49,48,5010,Yoakum,0
+2884,Texas,G4803850,49,48,5030,Young,0
+2885,Texas,G4803870,49,48,5050,Zapata,0
+2886,Texas,G4803890,49,48,5070,Zavala,0
+2887,Utah,G4803910,67,49,10,Beaver,0
+2888,Utah,G4803930,67,49,30,Box Elder,0
+2889,Utah,G4803950,67,49,50,Cache,0
+2890,Utah,G4803970,67,49,70,Carbon,0
+2891,Utah,G4803990,67,49,90,Daggett,0
+2892,Utah,G4804010,67,49,110,Davis,0
+2893,Utah,G4804030,67,49,130,Duchesne,0
+2894,Utah,G4804050,67,49,150,Emery,0
+2895,Utah,G4804070,67,49,170,Garfield,0
+2896,Utah,G4804090,67,49,190,Grand,0
+2897,Utah,G4804110,67,49,210,Iron,0
+2898,Utah,G4804130,67,49,230,Juab,0
+2899,Utah,G4804150,67,49,250,Kane,0
+2900,Utah,G4804170,67,49,270,Millard,0
+2901,Utah,G4804190,67,49,290,Morgan,0
+2902,Utah,G4804210,67,49,310,Piute,0
+2903,Utah,G4804230,67,49,330,Rich,0
+2904,Utah,G4804250,67,49,350,Salt Lake,0
+2905,Utah,G4804270,67,49,370,San Juan,0
+2906,Utah,G4804290,67,49,390,Sanpete,0
+2907,Utah,G4804310,67,49,410,Sevier,0
+2908,Utah,G4804330,67,49,430,Summit,0
+2909,Utah,G4804350,67,49,450,Tooele,0
+2910,Utah,G4804370,67,49,470,Uintah,0
+2911,Utah,G4804390,67,49,490,Utah,0
+2912,Utah,G4804410,67,49,510,Wasatch,0
+2913,Utah,G4804430,67,49,530,Washington,0
+2914,Utah,G4804450,67,49,550,Wayne,0
+2915,Utah,G4804470,67,49,570,Weber,0
+2916,Vermont,G4804490,6,50,10,Addison,0
+2917,Vermont,G4804510,6,50,30,Bennington,0
+2918,Vermont,G4804530,6,50,50,Caledonia,0
+2919,Vermont,G4804550,6,50,70,Chittenden,0
+2920,Vermont,G4804570,6,50,90,Essex,0
+2921,Vermont,G4804590,6,50,110,Franklin,0
+2922,Vermont,G4804610,6,50,130,Grand Isle,0
+2923,Vermont,G4804630,6,50,150,Lamoille,0
+2924,Vermont,G4804650,6,50,170,Orange,0
+2925,Vermont,G4804670,6,50,190,Orleans,0
+2926,Vermont,G4804690,6,50,210,Rutland,0
+2927,Vermont,G4804710,6,50,230,Washington,0
+2928,Vermont,G4804730,6,50,250,Windham,0
+2929,Vermont,G4804750,6,50,270,Windsor,0
+2930,Virginia,G4804770,40,51,10,Accomack,0
+2931,Virginia,G4804790,40,51,30,Albemarle,0
+2932,Virginia,G4804810,40,51,5100,Alexandria city,0
+2933,Virginia,G4804830,40,51,50,Alleghany,0
+2934,Virginia,G4804850,40,51,70,Amelia,0
+2935,Virginia,G4804870,40,51,90,Amherst,0
+2936,Virginia,G4804890,40,51,110,Appomattox,0
+2937,Virginia,G4804910,40,51,130,Arlington,0
+2938,Virginia,G4804930,40,51,150,Augusta,0
+2939,Virginia,G4804950,40,51,170,Bath,0
+2940,Virginia,G4804990,40,51,190,Bedford,0
+2941,Virginia,G4804970,40,51,5150,Bedford City,0
+2942,Virginia,G4805010,40,51,210,Bland,0
+2943,Virginia,G4805030,40,51,230,Botetourt,0
+2944,Virginia,G4805050,40,51,5200,Bristol City,0
+2945,Virginia,G4805070,40,51,250,Brunswick,0
+2946,Virginia,G4900010,40,51,270,Buchanan,0
+2947,Virginia,G4900030,40,51,290,Buckingham,1
+2948,Virginia,G4900050,40,51,5300,Buena Vista City,0
+2949,Virginia,G4900070,40,51,310,Campbell,0
+2950,Virginia,G4900090,40,51,330,Caroline,0
+2951,Virginia,G4900110,40,51,350,Carroll,0
+2952,Virginia,G4900130,40,51,360,Charles City,0
+2953,Virginia,G4900150,40,51,370,Charlotte,0
+2954,Virginia,G4900170,40,51,5400,Charlottesville City,0
+2955,Virginia,G4900190,40,51,5500,Chesapeake City,1
+2956,Virginia,G4900210,40,51,410,Chesterfield,1
+2957,Virginia,G4900230,40,51,430,Clarke,0
+2958,Virginia,G4900250,40,51,5600,Clifton Forge City,0
+2959,Virginia,G4900270,40,51,5700,Colonial Heights City,0
+2960,Virginia,G4900290,40,51,5800,Covington City,0
+2961,Virginia,G4900310,40,51,450,Craig,0
+2962,Virginia,G4900330,40,51,470,Culpeper,1
+2963,Virginia,G4900350,40,51,490,Cumberland,0
+2964,Virginia,G4900370,40,51,5900,Danville City,0
+2965,Virginia,G4900390,40,51,510,Dickenson,0
+2966,Virginia,G4900410,40,51,530,Dinwiddie,0
+2967,Virginia,G4900430,40,51,550,Elizabeth City,0
+2968,Virginia,G4900450,40,51,5950,Emporia City,0
+2969,Virginia,G4900470,40,51,570,Essex,0
+2970,Virginia,G4900510,40,51,590,Fairfax,0
+2971,Virginia,G4900490,40,51,6000,Fairfax City,0
+2972,Virginia,G4900530,40,51,6100,Falls Church City,0
+2973,Virginia,G4900550,40,51,610,Fauquier,0
+2974,Virginia,G4900570,40,51,630,Floyd,0
+2975,Virginia,G5000010,40,51,650,Fluvanna,0
+2976,Virginia,G5000050,40,51,670,Franklin,0
+2977,Virginia,G5000030,40,51,6200,Franklin City,0
+2978,Virginia,G5000070,40,51,690,Frederick,0
+2979,Virginia,G5000090,40,51,6300,Fredericksburg City,0
+2980,Virginia,G5000110,40,51,6400,Galax City,0
+2981,Virginia,G5000130,40,51,710,Giles,0
+2982,Virginia,G5000150,40,51,730,Gloucester,0
+2983,Virginia,G5000170,40,51,750,Goochland,0
+2984,Virginia,G5000190,40,51,770,Grayson,0
+2985,Virginia,G5000210,40,51,790,Greene,0
+2986,Virginia,G5000230,40,51,810,Greensville,0
+2987,Virginia,G5000250,40,51,830,Halifax,0
+2988,Virginia,G5000270,40,51,6500,Hampton City,1
+2989,Virginia,G5100010,40,51,850,Hanover,1
+2990,Virginia,G5100030,40,51,6600,Harrisonburg City,0
+2991,Virginia,G5105100,40,51,870,Henrico,0
+2992,Virginia,G5100050,40,51,890,Henry,0
+2993,Virginia,G5100070,40,51,910,Highland,0
+2994,Virginia,G5100090,40,51,6700,Hopewell City,0
+2995,Virginia,G5100110,40,51,930,Isle Of Wight,1
+2996,Virginia,G5100130,40,51,950,James City,0
+2997,Virginia,G5100150,40,51,970,King And Queen,1
+2998,Virginia,G5100170,40,51,990,King George,1
+2999,Virginia,G5105150,40,51,1010,King William,0
+3000,Virginia,G5100190,40,51,1030,Lancaster,0
+3001,Virginia,G5100210,40,51,1050,Lee,0
+3002,Virginia,G5100230,,51,6780,Lexington City,0
+3003,Virginia,G5105200,40,51,1070,Loudoun,0
+3004,Virginia,G5100250,40,51,1090,Louisa,0
+3005,Virginia,G5100270,40,51,1110,Lunenburg,0
+3006,Virginia,G5100290,40,51,6800,Lynchburg City,0
+3007,Virginia,G5105300,40,51,1130,Madison,0
+3008,Virginia,G5100310,,51,6830,Manassas City,0
+3009,Virginia,G5100330,,51,6850,Manassas Park City,0
+3010,Virginia,G5100350,40,51,6900,Martinsville City,0
+3011,Virginia,G5100360,40,51,1150,Mathews,0
+3012,Virginia,G5100370,40,51,1170,Mecklenburg,0
+3013,Virginia,G5105400,40,51,1190,Middlesex,0
+3014,Virginia,G5105500,40,51,1210,Montgomery,0
+3015,Virginia,G5100410,40,51,1230,Nansemond,0
+3016,Virginia,G5100430,40,51,1250,Nelson,1
+3017,Virginia,G5105600,40,51,1270,New Kent,0
+3018,Virginia,G5105700,40,51,7000,Newport News City,1
+3019,Virginia,G5100450,40,51,7100,Norfolk City,1
+3020,Virginia,G5100470,40,51,1310,Northampton,0
+3021,Virginia,G5100490,40,51,1330,Northumberland,0
+3022,Virginia,G5105900,,51,7200,Norton City,0
+3023,Virginia,G5100510,40,51,1350,Nottoway,0
+3024,Virginia,G5100530,40,51,1370,Orange,0
+3025,Virginia,G5100550,40,51,1390,Page,0
+3026,Virginia,G5105950,40,51,1410,Patrick,0
+3027,Virginia,G5100570,40,51,7300,Petersburg City,0
+3028,Virginia,G5106000,40,51,1430,Pittsylvania,1
+3029,Virginia,G5100590,,51,7350,Poquoson City,0
+3030,Virginia,G5106100,40,51,7400,Portsmouth City,1
+3031,Virginia,G5100610,40,51,1450,Powhatan,0
+3032,Virginia,G5100630,40,51,1470,Prince Edward,0
+3033,Virginia,G5100650,40,51,1490,Prince George,0
+3034,Virginia,G5100670,40,51,1530,Prince William,0
+3035,Virginia,G5100690,40,51,1550,Pulaski,0
+3036,Virginia,G5106300,40,51,7500,Radford City,0
+3037,Virginia,G5106400,40,51,1570,Rappahannock,0
+3038,Virginia,G5100730,40,51,1590,Richmond,0
+3039,Virginia,G5100710,40,51,7600,Richmond City,1
+3040,Virginia,G5100770,40,51,1610,Roanoke,0
+3041,Virginia,G5100750,40,51,7700,Roanoke City,1
+3042,Virginia,G5100790,40,51,1630,Rockbridge,0
+3043,Virginia,G5100810,40,51,1650,Rockingham,0
+3044,Virginia,G5100830,40,51,1670,Russell,0
+3045,Virginia,G5106500,40,51,7750,Salem City,1
+3046,Virginia,G5100850,40,51,1690,Scott,0
+3047,Virginia,G5106600,40,51,1710,Shenandoah,0
+3048,Virginia,G5100870,40,51,1730,Smyth,0
+3049,Virginia,G5106700,40,51,1750,Southampton,0
+3050,Virginia,G5100930,40,51,1770,Spotsylvania,1
+3051,Virginia,G5100950,40,51,1790,Stafford,0
+3052,Virginia,G5100970,40,51,7900,Staunton City,0
+3053,Virginia,G5100990,40,51,8000,Suffolk City,1
+3054,Virginia,G5101010,40,51,1810,Surry,0
+3055,Virginia,G5101030,40,51,1830,Sussex,0
+3056,Virginia,G5101050,40,51,1850,Tazewell,0
+3057,Virginia,G5106780,40,51,8100,Virginia Beach City,1
+3058,Virginia,G5101070,40,51,1870,Warren,0
+3059,Virginia,G5101090,40,51,1890,Warwick,0
+3060,Virginia,G5101110,40,51,1910,Washington,0
+3061,Virginia,G5106800,41,51,8200,Waynesboro City,0
+3062,Virginia,G5101130,40,51,1930,Westmoreland,1
+3063,Virginia,G5106830,40,51,8300,Williamsburg City,0
+3064,Virginia,G5106850,40,51,8400,Winchester City,0
+3065,Virginia,G5106900,40,51,1950,Wise,0
+3066,Virginia,G5101150,40,51,1970,Wythe,0
+3067,Virginia,G5101170,40,51,1990,York,1
+3068,Washington,G5101210,73,53,10,Adams,0
+3069,Washington,G5101230,73,53,30,Asotin,0
+3070,Washington,G5101250,73,53,50,Benton,0
+3071,Washington,G5101270,73,53,70,Chelan,0
+3072,Washington,G5107000,73,53,90,Clallam,0
+3073,Washington,G5101290,73,53,110,Clark,0
+3074,Washington,G5107100,73,53,130,Columbia,0
+3075,Washington,G5101310,73,53,150,Cowlitz,0
+3076,Washington,G5101330,73,53,170,Douglas,0
+3077,Washington,G5107200,73,53,190,Ferry,0
+3078,Washington,G5101350,73,53,210,Franklin,0
+3079,Washington,G5101370,73,53,230,Garfield,0
+3080,Washington,G5101390,73,53,250,Grant,0
+3081,Washington,G5101410,73,53,270,Grays Harbor,0
+3082,Washington,G5107300,73,53,290,Island,0
+3083,Washington,G5101430,73,53,310,Jefferson,0
+3084,Washington,G5107350,73,53,330,King,1
+3085,Washington,G5107400,73,53,350,Kitsap,0
+3086,Washington,G5101450,73,53,370,Kittitas,0
+3087,Washington,G5101470,73,53,390,Klickitat,0
+3088,Washington,G5101490,73,53,410,Lewis,0
+3089,Washington,G5101510,73,53,430,Lincoln,0
+3090,Washington,G5101530,73,53,450,Mason,0
+3091,Washington,G5101550,73,53,470,Okanogan,0
+3092,Washington,G5107500,73,53,490,Pacific,0
+3093,Washington,G5101570,73,53,510,Pend Oreille,0
+3094,Washington,G5107600,73,53,530,Pierce,0
+3095,Washington,G5101590,73,53,550,San Juan,0
+3096,Washington,G5107700,73,53,570,Skagit,0
+3097,Washington,G5101610,73,53,590,Skamania,0
+3098,Washington,G5101630,73,53,610,Snohomish,0
+3099,Washington,G5101650,73,53,630,Spokane,0
+3100,Washington,G5101670,73,53,650,Stevens,0
+3101,Washington,G5107750,73,53,670,Thurston,0
+3102,Washington,G5101690,73,53,690,Wahkiakum,0
+3103,Washington,G5101710,73,53,710,Walla Walla,0
+3104,Washington,G5101730,73,53,730,Whatcom,0
+3105,Washington,G5107800,73,53,750,Whitman,0
+3106,Washington,G5107805,73,53,770,Yakima,0
+3107,West Virginia,G5101750,56,54,10,Barbour,0
+3108,West Virginia,G5101770,56,54,30,Berkeley,0
+3109,West Virginia,G5101790,56,54,50,Boone,0
+3110,West Virginia,G5107900,56,54,70,Braxton,0
+3111,West Virginia,G5108000,56,54,90,Brooke,0
+3112,West Virginia,G5101810,56,54,110,Cabell,0
+3113,West Virginia,G5101830,56,54,130,Calhoun,0
+3114,West Virginia,G5101850,56,54,150,Clay,0
+3115,West Virginia,G5108100,56,54,170,Doddridge,0
+3116,West Virginia,G5101870,56,54,190,Fayette,0
+3117,West Virginia,G5101890,56,54,210,Gilmer,0
+3118,West Virginia,G5101910,56,54,230,Grant,0
+3119,West Virginia,G5108200,56,54,250,Greenbrier,0
+3120,West Virginia,G5101930,56,54,270,Hampshire,0
+3121,West Virginia,G5108300,56,54,290,Hancock,0
+3122,West Virginia,G5108400,56,54,310,Hardy,0
+3123,West Virginia,G5101950,56,54,330,Harrison,0
+3124,West Virginia,G5101970,56,54,350,Jackson,0
+3125,West Virginia,G5101990,56,54,370,Jefferson,0
+3126,West Virginia,G5108999,56,54,390,Kanawha,0
+3127,West Virginia,G5300010,56,54,410,Lewis,0
+3128,West Virginia,G5300030,56,54,430,Lincoln,0
+3129,West Virginia,G5300050,56,54,450,Logan,0
+3130,West Virginia,G5300090,56,54,490,Marion,0
+3131,West Virginia,G5300110,56,54,510,Marshall,0
+3132,West Virginia,G5300130,56,54,530,Mason,0
+3133,West Virginia,G5300070,56,54,470,McDowell,0
+3134,West Virginia,G5300150,56,54,550,Mercer,0
+3135,West Virginia,G5300170,56,54,570,Mineral,0
+3136,West Virginia,G5300190,56,54,590,Mingo,0
+3137,West Virginia,G5300210,56,54,610,Monongalia,0
+3138,West Virginia,G5300230,56,54,630,Monroe,0
+3139,West Virginia,G5300250,56,54,650,Morgan,0
+3140,West Virginia,G5300270,56,54,670,Nicholas,0
+3141,West Virginia,G5300290,56,54,690,Ohio,0
+3142,West Virginia,G5300310,56,54,710,Pendleton,0
+3143,West Virginia,G5300330,56,54,730,Pleasants,0
+3144,West Virginia,G5300350,56,54,750,Pocahontas,0
+3145,West Virginia,G5300370,56,54,770,Preston,0
+3146,West Virginia,G5300390,56,54,790,Putnam,0
+3147,West Virginia,G5300410,56,54,810,Raleigh,0
+3148,West Virginia,G5300430,56,54,830,Randolph,0
+3149,West Virginia,G5300450,56,54,850,Ritchie,0
+3150,West Virginia,G5300470,56,54,870,Roane,0
+3151,West Virginia,G5300490,56,54,890,Summers,0
+3152,West Virginia,G5300510,56,54,910,Taylor,0
+3153,West Virginia,G5300530,56,54,930,Tucker,0
+3154,West Virginia,G5300550,56,54,950,Tyler,0
+3155,West Virginia,G5300570,56,54,970,Upshur,0
+3156,West Virginia,G5300590,56,54,990,Wayne,0
+3157,West Virginia,G5300610,56,54,1010,Webster,0
+3158,West Virginia,G5300630,56,54,1030,Wetzel,0
+3159,West Virginia,G5300650,56,54,1050,Wirt,0
+3160,West Virginia,G5300670,56,54,1070,Wood,0
+3161,West Virginia,G5300690,56,54,1090,Wyoming,0
+3162,Wisconsin,G5300710,25,55,10,Adams,0
+3163,Wisconsin,G5300730,25,55,30,Ashland,0
+3164,Wisconsin,G5300750,25,55,50,Barron,0
+3165,Wisconsin,G5300770,25,55,70,Bayfield,0
+3166,Wisconsin,G5400010,25,55,90,Brown,0
+3167,Wisconsin,G5400030,25,55,110,Buffalo,0
+3168,Wisconsin,G5400050,25,55,130,Burnett,0
+3169,Wisconsin,G5400070,25,55,150,Calumet,0
+3170,Wisconsin,G5400090,25,55,170,Chippewa,0
+3171,Wisconsin,G5400110,25,55,190,Clark,0
+3172,Wisconsin,G5400130,25,55,210,Columbia,0
+3173,Wisconsin,G5400150,25,55,230,Crawford,0
+3174,Wisconsin,G5400170,25,55,250,Dane,0
+3175,Wisconsin,G5400190,25,55,270,Dodge,0
+3176,Wisconsin,G5400210,25,55,290,Door,0
+3177,Wisconsin,G5400230,25,55,310,Douglas,0
+3178,Wisconsin,G5400250,25,55,330,Dunn,0
+3179,Wisconsin,G5400270,25,55,350,Eau Claire,0
+3180,Wisconsin,G5400290,25,55,370,Florence,0
+3181,Wisconsin,G5400310,25,55,390,Fond du Lac,0
+3182,Wisconsin,G5400330,25,55,410,Forest,0
+3183,Wisconsin,G5400350,25,55,430,Grant,0
+3184,Wisconsin,G5400370,25,55,450,Green,0
+3185,Wisconsin,G5400390,25,55,470,Green Lake,0
+3186,Wisconsin,G5400410,25,55,490,Iowa,0
+3187,Wisconsin,G5400430,25,55,510,Iron,0
+3188,Wisconsin,G5400450,25,55,530,Jackson,0
+3189,Wisconsin,G5400470,25,55,550,Jefferson,0
+3190,Wisconsin,G5400490,25,55,570,Juneau,0
+3191,Wisconsin,G5400510,25,55,590,Kenosha,0
+3192,Wisconsin,G5400530,25,55,610,Kewaunee,0
+3193,Wisconsin,G5400550,25,55,630,La Crosse,0
+3194,Wisconsin,G5400570,25,55,650,Lafayette,0
+3195,Wisconsin,G5400590,25,55,670,Langlade,0
+3196,Wisconsin,G5400610,25,55,690,Lincoln,0
+3197,Wisconsin,G5400630,25,55,710,Manitowoc,0
+3198,Wisconsin,G5400650,25,55,730,Marathon,0
+3199,Wisconsin,G5400670,25,55,750,Marinette,0
+3200,Wisconsin,G5400690,25,55,770,Marquette,0
+3201,Wisconsin,G5400710,,55,780,Menominee,0
+3202,Wisconsin,G5400730,25,55,790,Milwaukee,1
+3203,Wisconsin,G5400750,25,55,810,Monroe,0
+3204,Wisconsin,G5400770,25,55,830,Oconto,0
+3205,Wisconsin,G5400790,25,55,850,Oneida,0
+3206,Wisconsin,G5400810,25,55,870,Outagamie,0
+3207,Wisconsin,G5400830,25,55,890,Ozaukee,0
+3208,Wisconsin,G5400850,25,55,910,Pepin,0
+3209,Wisconsin,G5400870,25,55,930,Pierce,0
+3210,Wisconsin,G5400890,25,55,950,Polk,0
+3211,Wisconsin,G5400910,25,55,970,Portage,0
+3212,Wisconsin,G5400930,25,55,990,Price,0
+3213,Wisconsin,G5400950,25,55,1010,Racine,0
+3214,Wisconsin,G5400970,25,55,1030,Richland,0
+3215,Wisconsin,G5400990,25,55,1050,Rock,0
+3216,Wisconsin,G5401010,25,55,1070,Rusk,0
+3217,Wisconsin,G5401050,25,55,1110,Sauk,0
+3218,Wisconsin,G5401070,25,55,1130,Sawyer,0
+3219,Wisconsin,G5401090,25,55,1150,Shawano,0
+3220,Wisconsin,G5500010,25,55,1170,Sheboygan,0
+3221,Wisconsin,G5401030,25,55,1090,St Croix,0
+3222,Wisconsin,G5500030,25,55,1190,Taylor,0
+3223,Wisconsin,G5500050,25,55,1210,Trempealeau,0
+3224,Wisconsin,G5500070,25,55,1230,Vernon,0
+3225,Wisconsin,G5500090,25,55,1250,Vilas,0
+3226,Wisconsin,G5500110,25,55,1270,Walworth,0
+3227,Wisconsin,G5500130,25,55,1290,Washburn,0
+3228,Wisconsin,G5500150,25,55,1310,Washington,0
+3229,Wisconsin,G5500170,25,55,1330,Waukesha,0
+3230,Wisconsin,G5500190,25,55,1350,Waupaca,0
+3231,Wisconsin,G5500210,25,55,1370,Waushara,0
+3232,Wisconsin,G5500230,25,55,1390,Winnebago,0
+3233,Wisconsin,G5500250,25,55,1410,Wood,0
+3234,Wyoming,G5500270,68,56,10,Albany,0
+3235,Wyoming,G5500290,68,56,30,Big Horn,0
+3236,Wyoming,G5500310,68,56,50,Campbell,0
+3237,Wyoming,G5500330,68,56,70,Carbon,0
+3238,Wyoming,G5500350,68,56,90,Converse,0
+3239,Wyoming,G5500370,68,56,110,Crook,0
+3240,Wyoming,G5500390,68,56,130,Fremont,0
+3241,Wyoming,G5500410,68,56,150,Goshen,0
+3242,Wyoming,G5500430,68,56,170,Hot Springs,0
+3243,Wyoming,G5500450,68,56,190,Johnson,0
+3244,Wyoming,G5500470,68,56,210,Laramie,0
+3245,Wyoming,G5500490,68,56,230,Lincoln,0
+3246,Wyoming,G5500510,68,56,250,Natrona,0
+3247,Wyoming,G5500530,68,56,270,Niobrara,0
+3248,Wyoming,G5500550,68,56,290,Park,0
+3249,Wyoming,G5500570,68,56,310,Platte,0
+3250,Wyoming,G5500590,68,56,330,Sheridan,0
+3251,Wyoming,G5500610,68,56,350,Sublette,0
+3252,Wyoming,G5500630,68,56,370,Sweetwater,0
+3253,Wyoming,G5500650,68,56,390,Teton,0
+3254,Wyoming,G5500670,68,56,410,Uinta,0
+3255,Wyoming,G5500690,68,56,430,Washakie,0
+3256,Wyoming,G5500710,68,56,450,Weston,0
+3257,Wyoming,G5500730,68,56,470,Yellowstone National Park,0

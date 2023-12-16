@@ -1,0 +1,3243 @@
+STATE,ALLCOUNTIES,Time 1,Time 2,Time 3
+Alabama,Autauga,Naur,Yes,Yes
+Alabama,Baldwin,Naur,Yes,Yes
+Alabama,Barbour,Naur,Yes,Yes
+Alabama,Bibb,Naur,Yes,Yes
+Alabama,Blount,Naur,Yes,Yes
+Alabama,Bullock,Naur,Yes,Yes
+Alabama,Butler,Naur,Yes,Yes
+Alabama,Calhoun,Naur,Yes,Yes
+Alabama,Chambers,Naur,Yes,Yes
+Alabama,Cherokee,Naur,Yes,Yes
+Alabama,Chilton,Naur,Yes,Yes
+Alabama,Choctaw,Naur,Yes,Yes
+Alabama,Clarke,Naur,Yes,Yes
+Alabama,Clay,Naur,Yes,Yes
+Alabama,Cleburne,Naur,Yes,Yes
+Alabama,Coffee,Naur,Yes,Yes
+Alabama,Colbert,Naur,Yes,Yes
+Alabama,Conecuh,Naur,Yes,Yes
+Alabama,Coosa,Naur,Yes,Yes
+Alabama,Covington,Naur,Yes,Yes
+Alabama,Crenshaw,Naur,Yes,Yes
+Alabama,Cullman,Naur,Yes,Yes
+Alabama,Dale,Naur,Yes,Yes
+Alabama,Dallas,Naur,Yes,Yes
+Alabama,DeKalb,Naur,Yes,Yes
+Alabama,Elmore,Naur,Yes,Yes
+Alabama,Escambia,Naur,Yes,Yes
+Alabama,Etowah,Naur,Yes,Yes
+Alabama,Fayette,Naur,Yes,Yes
+Alabama,Franklin,Naur,Yes,Yes
+Alabama,Geneva,Naur,Yes,Yes
+Alabama,Greene,Naur,Yes,Yes
+Alabama,Hale,Naur,Yes,Yes
+Alabama,Henry,Naur,Yes,Yes
+Alabama,Houston,Naur,Yes,Yes
+Alabama,Jackson,Naur,Yes,Yes
+Alabama,Jefferson,Yes,Yes,Yes
+Alabama,Lamar,Naur,Yes,Yes
+Alabama,Lauderdale,Naur,Yes,Yes
+Alabama,Lawrence,Naur,Yes,Yes
+Alabama,Lee,Naur,Yes,Yes
+Alabama,Limestone,Naur,Yes,Yes
+Alabama,Lowndes,Naur,Yes,Yes
+Alabama,Macon,Naur,Yes,Yes
+Alabama,Madison,Naur,Yes,Yes
+Alabama,Marengo,Naur,Yes,Yes
+Alabama,Marion,Naur,Yes,Yes
+Alabama,Marshall,Naur,Yes,Yes
+Alabama,Mobile,Yes,Yes,Yes
+Alabama,Monroe,Naur,Yes,Yes
+Alabama,Montgomery,Naur,Yes,Yes
+Alabama,Morgan,Naur,Yes,Yes
+Alabama,Perry,Naur,Yes,Yes
+Alabama,Pickens,Naur,Yes,Yes
+Alabama,Pike,Naur,Yes,Yes
+Alabama,Randolph,Naur,Yes,Yes
+Alabama,Russell,Naur,Yes,Yes
+Alabama,Shelby,Naur,Yes,Yes
+Alabama,St Clair,Naur,Yes,Yes
+Alabama,Sumter,Naur,Yes,Yes
+Alabama,Talladega,Naur,Yes,Yes
+Alabama,Tallapoosa,Naur,Yes,Yes
+Alabama,Tuscaloosa,Naur,Yes,Yes
+Alabama,Walker,Naur,Yes,Yes
+Alabama,Washington,Naur,Yes,Yes
+Alabama,Wilcox,Naur,Yes,Yes
+Alabama,Winston,Naur,Yes,Yes
+Alaska,Aleutian Islands,Naur,Yes,Yes
+Alaska,Aleutians East,Naur,Yes,Yes
+Alaska,Aleutians West,Naur,Yes,Yes
+Alaska,Anchorage,Naur,Yes,Yes
+Alaska,Barrow,Naur,Yes,Yes
+Alaska,Bethel,Naur,Yes,Yes
+Alaska,Bristol Bay Borough,Naur,Yes,Yes
+Alaska,Bristol Bay Division,Naur,Yes,Yes
+Alaska,Chugach Census Area,Naur,Yes,Yes
+Alaska,Copper River Census Area,Naur,Yes,Yes
+Alaska,Cordova-McCarthy,Naur,Yes,Yes
+Alaska,Denali,Naur,Yes,Yes
+Alaska,Dillingham,Naur,Yes,Yes
+Alaska,Fairbanks North Star,Naur,Yes,Yes
+Alaska,Haines,Naur,Yes,Yes
+Alaska,Hoonah-Angoon Census Area,Naur,Yes,Yes
+Alaska,Juneau,Naur,Yes,Yes
+Alaska,Kenai Peninsula,Naur,Yes,Yes
+Alaska,Kenai-Cook Inlet,Naur,Yes,Yes
+Alaska,Ketchikan Gateway,Naur,Yes,Yes
+Alaska,Kobuk,Naur,Yes,Yes
+Alaska,Kodiak Island,Naur,Yes,Yes
+Alaska,Kusilvak Census Area,Naur,Yes,Yes
+Alaska,Kuskokwim,Naur,Yes,Yes
+Alaska,Lake And Peninsula,Naur,Yes,Yes
+Alaska,Matanuska-Susitna,Naur,Yes,Yes
+Alaska,Nome,Naur,Yes,Yes
+Alaska,North Slope,Naur,Yes,Yes
+Alaska,Northwest Arctic,Naur,Yes,Yes
+Alaska,Outer Ketchikan,Naur,Yes,Yes
+Alaska,Petersburg Borough,Naur,Yes,Yes
+Alaska,Prince Of Wales,Naur,Yes,Yes
+Alaska,Prince of Wales-Hyder Census Area,Naur,Yes,Yes
+Alaska,Prince Of Wales-Outer Ketchikan,Naur,Yes,Yes
+Alaska,Seward,Naur,Yes,Yes
+Alaska,Sitka,Naur,Yes,Yes
+Alaska,Skagway Municipality,Naur,Yes,Yes
+Alaska,Skagway-Hoonah-Angoon,Naur,Yes,Yes
+Alaska,Skagway-Yakutat-Angoon,Naur,Yes,Yes
+Alaska,Southeast Fairbanks,Naur,Yes,Yes
+Alaska,Upper Yukon,Naur,Yes,Yes
+Alaska,Valdez-Chitina-Whittier,Naur,Yes,Yes
+Alaska,Valdez-Cordova,Naur,Yes,Yes
+Alaska,Wade Hampton,Naur,Yes,Yes
+Alaska,Wrangell City and Borough,Naur,Yes,Yes
+Alaska,Wrangell-Petersburg,Naur,Yes,Yes
+Alaska,Yakutat,Naur,Yes,Yes
+Alaska,Yukon-Koyukuk,Naur,Yes,Yes
+Alaska Territory,First Judicial Dist,Naur,Yes,Yes
+Alaska Territory,Fourth Judicial Dist,Naur,Yes,Yes
+Alaska Territory,Second Judicial Dist,Naur,Yes,Yes
+Alaska Territory,Third Judicial Dist,Naur,Yes,Yes
+Arizona,Apache,Naur,Yes,Yes
+Arizona,Cochise,Naur,Yes,Yes
+Arizona,Coconino,Naur,Yes,Yes
+Arizona,Gila,Naur,Yes,Yes
+Arizona,Graham,Naur,Yes,Yes
+Arizona,Greenlee,Naur,Yes,Yes
+Arizona,La Paz,Naur,Yes,Yes
+Arizona,Maricopa,Yes,Yes,Yes
+Arizona,Mohave,Naur,Yes,Yes
+Arizona,Navajo,Naur,Yes,Yes
+Arizona,Pima,Naur,Yes,Yes
+Arizona,Pinal,Naur,Yes,Yes
+Arizona,Santa Cruz,Naur,Yes,Yes
+Arizona,Yavapai,Naur,Yes,Yes
+Arizona,Yuma,Naur,Yes,Yes
+Arkansas,Arkansas,Naur,Yes,Yes
+Arkansas,Ashley,Naur,Naur,Yes
+Arkansas,Baxter,Naur,Naur,Yes
+Arkansas,Benton,Naur,Naur,Yes
+Arkansas,Boone,Naur,Naur,Yes
+Arkansas,Bradley,Naur,Naur,Yes
+Arkansas,Calhoun,Naur,Naur,Yes
+Arkansas,Carroll,Naur,Naur,Yes
+Arkansas,Chicot,Naur,Yes,Yes
+Arkansas,Clark,Naur,Naur,Yes
+Arkansas,Clay,Naur,Yes,Yes
+Arkansas,Cleburne,Naur,Yes,Yes
+Arkansas,Cleveland,Naur,Yes,Yes
+Arkansas,Columbia,Naur,Naur,Yes
+Arkansas,Conway,Naur,Yes,Yes
+Arkansas,Craighead,Naur,Yes,Yes
+Arkansas,Crawford,Naur,Naur,Yes
+Arkansas,Crittenden,Naur,Yes,Yes
+Arkansas,Cross,Naur,Yes,Yes
+Arkansas,Dallas,Naur,Yes,Yes
+Arkansas,Desha,Naur,Yes,Yes
+Arkansas,Drew,Naur,Yes,Yes
+Arkansas,Faulkner,Naur,Yes,Yes
+Arkansas,Franklin,Naur,Naur,Yes
+Arkansas,Fulton,Naur,Yes,Yes
+Arkansas,Garland,Naur,Naur,Yes
+Arkansas,Grant,Naur,Yes,Yes
+Arkansas,Greene,Naur,Yes,Yes
+Arkansas,Hempstead,Naur,Naur,Yes
+Arkansas,Hot Spring,Naur,Naur,Yes
+Arkansas,Howard,Naur,Naur,Yes
+Arkansas,Independence,Naur,Yes,Yes
+Arkansas,Izard,Naur,Yes,Yes
+Arkansas,Jackson,Naur,Yes,Yes
+Arkansas,Jefferson,Naur,Yes,Yes
+Arkansas,Johnson,Naur,Naur,Yes
+Arkansas,Lafayette,Naur,Naur,Yes
+Arkansas,Lawrence,Naur,Yes,Yes
+Arkansas,Lee,Naur,Yes,Yes
+Arkansas,Lincoln,Naur,Yes,Yes
+Arkansas,Little River,Naur,Naur,Yes
+Arkansas,Logan,Naur,Naur,Yes
+Arkansas,Lonoke,Naur,Yes,Yes
+Arkansas,Madison,Naur,Naur,Yes
+Arkansas,Marion,Naur,Naur,Yes
+Arkansas,Miller,Naur,Naur,Yes
+Arkansas,Mississippi,Naur,Yes,Yes
+Arkansas,Monroe,Naur,Yes,Yes
+Arkansas,Montgomery,Naur,Naur,Yes
+Arkansas,Nevada,Naur,Naur,Yes
+Arkansas,Newton,Naur,Naur,Yes
+Arkansas,Ouachita,Naur,Naur,Yes
+Arkansas,Perry,Naur,Yes,Yes
+Arkansas,Phillips,Naur,Yes,Yes
+Arkansas,Pike,Naur,Naur,Yes
+Arkansas,Poinsett,Naur,Yes,Yes
+Arkansas,Polk,Naur,Naur,Yes
+Arkansas,Pope,Naur,Yes,Yes
+Arkansas,Prairie,Naur,Yes,Yes
+Arkansas,Pulaski,Yes,Yes,Yes
+Arkansas,Randolph,Naur,Yes,Yes
+Arkansas,Saline,Naur,Yes,Yes
+Arkansas,Scott,Naur,Naur,Yes
+Arkansas,Searcy,Naur,Naur,Yes
+Arkansas,Sebastian,Naur,Naur,Yes
+Arkansas,Sevier,Naur,Naur,Yes
+Arkansas,Sharp,Naur,Yes,Yes
+Arkansas,St Francis,Naur,Yes,Yes
+Arkansas,Stone,Naur,Yes,Yes
+Arkansas,Union,Naur,Yes,Yes
+Arkansas,Van Buren,Naur,Yes,Yes
+Arkansas,Washington,Naur,Naur,Yes
+Arkansas,White,Naur,Yes,Yes
+Arkansas,Woodruff,Naur,Yes,Yes
+Arkansas,Yell,Naur,Yes,Yes
+California,Alameda,Yes,Yes,Naur
+California,Alpine,Naur,Yes,Naur
+California,Amador,Naur,Yes,Naur
+California,Butte,Naur,Yes,Naur
+California,Calaveras,Naur,Yes,Naur
+California,Colusa,Naur,Yes,Naur
+California,Contra Costa,Yes,Yes,Naur
+California,Del Norte,Naur,Naur,Naur
+California,El Dorado,Naur,Yes,Naur
+California,Fresno,Yes,Yes,Naur
+California,Glenn,Naur,Yes,Naur
+California,Humboldt,Naur,Naur,Naur
+California,Imperial,Naur,Naur,Naur
+California,Inyo,Naur,Yes,Naur
+California,Kern,Naur,Yes,Naur
+California,Kings,Naur,Yes,Naur
+California,Lake,Naur,Naur,Naur
+California,Lassen,Naur,Yes,Naur
+California,Los Angeles,Yes,Yes,Naur
+California,Madera,Naur,Yes,Naur
+California,Marin,Naur,Naur,Naur
+California,Mariposa,Naur,Yes,Naur
+California,Mendocino,Naur,Naur,Naur
+California,Merced,Naur,Yes,Naur
+California,Modoc,Naur,Yes,Naur
+California,Mono,Naur,Yes,Naur
+California,Monterey,Naur,Yes,Naur
+California,Napa,Naur,Naur,Naur
+California,Nevada,Naur,Yes,Naur
+California,Orange,Naur,Naur,Naur
+California,Placer,Naur,Yes,Naur
+California,Plumas,Naur,Yes,Naur
+California,Riverside,Naur,Yes,Naur
+California,Sacramento,Yes,Yes,Naur
+California,San Benito,Naur,Naur,Naur
+California,San Bernardino,Naur,Yes,Naur
+California,San Diego,Yes,Yes,Naur
+California,San Francisco,Naur,Naur,Naur
+California,San Joaquin,Yes,Yes,Naur
+California,San Luis Obispo,Naur,Naur,Naur
+California,San Mateo,Yes,Naur,Naur
+California,Santa Barbara,Naur,Naur,Naur
+California,Santa Clara,Yes,Naur,Naur
+California,Santa Cruz,Naur,Naur,Naur
+California,Shasta,Naur,Yes,Naur
+California,Sierra,Naur,Yes,Naur
+California,Siskiyou,Naur,Yes,Naur
+California,Solano,Naur,Yes,Yes
+California,Sonoma,Naur,Naur,Naur
+California,Stanislaus,Naur,Yes,Naur
+California,Sutter,Naur,Yes,Naur
+California,Tehama,Naur,Yes,Naur
+California,Trinity,Naur,Yes,Naur
+California,Tulare,Naur,Yes,Naur
+California,Tuolumne,Naur,Yes,Naur
+California,Ventura,Naur,Naur,Naur
+California,Yolo,Yes,Yes,Naur
+California,Yuba,Naur,Yes,Naur
+Colorado,Adams,Yes,Yes,Naur
+Colorado,Alamosa,Naur,Yes,Naur
+Colorado,Arapahoe,Yes,Yes,Naur
+Colorado,Archuleta,Naur,Yes,Naur
+Colorado,Baca,Naur,Yes,Naur
+Colorado,Bent,Naur,Yes,Naur
+Colorado,Boulder,Naur,Yes,Naur
+Colorado,Broomfield County,Naur,Yes,Naur
+Colorado,Chaffee,Naur,Yes,Naur
+Colorado,Cheyenne,Naur,Yes,Naur
+Colorado,Clear Creek,Naur,Yes,Naur
+Colorado,Conejos,Naur,Yes,Naur
+Colorado,Costilla,Naur,Yes,Naur
+Colorado,Crowley,Naur,Yes,Naur
+Colorado,Custer,Naur,Yes,Naur
+Colorado,Delta,Naur,Yes,Naur
+Colorado,Denver,Naur,Yes,Naur
+Colorado,Dolores,Naur,Yes,Naur
+Colorado,Douglas,Naur,Yes,Naur
+Colorado,Eagle,Naur,Yes,Naur
+Colorado,El Paso,Naur,Yes,Naur
+Colorado,Elbert,Naur,Yes,Naur
+Colorado,Fremont,Naur,Yes,Naur
+Colorado,Garfield,Naur,Yes,Naur
+Colorado,Gilpin,Naur,Yes,Naur
+Colorado,Grand,Naur,Yes,Naur
+Colorado,Gunnison,Naur,Yes,Naur
+Colorado,Hinsdale,Naur,Yes,Naur
+Colorado,Huerfano,Naur,Yes,Naur
+Colorado,Jackson,Naur,Yes,Naur
+Colorado,Jefferson,Yes,Yes,Naur
+Colorado,Kiowa,Naur,Yes,Naur
+Colorado,Kit Carson,Naur,Yes,Naur
+Colorado,La Plata,Naur,Yes,Naur
+Colorado,Lake,Naur,Yes,Naur
+Colorado,Larimer,Naur,Yes,Naur
+Colorado,Las Animas,Naur,Yes,Naur
+Colorado,Lincoln,Naur,Yes,Naur
+Colorado,Logan,Naur,Yes,Naur
+Colorado,Mesa,Naur,Yes,Naur
+Colorado,Mineral,Naur,Yes,Naur
+Colorado,Moffat,Naur,Yes,Naur
+Colorado,Montezuma,Naur,Yes,Naur
+Colorado,Montrose,Naur,Yes,Naur
+Colorado,Morgan,Naur,Yes,Naur
+Colorado,Otero,Naur,Yes,Naur
+Colorado,Ouray,Naur,Yes,Naur
+Colorado,Park,Naur,Yes,Naur
+Colorado,Phillips,Naur,Yes,Naur
+Colorado,Pitkin,Naur,Yes,Naur
+Colorado,Prowers,Naur,Yes,Naur
+Colorado,Pueblo,Yes,Yes,Naur
+Colorado,Rio Blanco,Naur,Yes,Naur
+Colorado,Rio Grande,Naur,Yes,Naur
+Colorado,Routt County,Naur,Yes,Naur
+Colorado,Saguache,Naur,Yes,Naur
+Colorado,San Juan,Naur,Yes,Naur
+Colorado,San Miguel,Naur,Yes,Naur
+Colorado,Sedgwick,Naur,Yes,Naur
+Colorado,Summit,Naur,Yes,Naur
+Colorado,Teller,Naur,Yes,Naur
+Colorado,Washington,Naur,Yes,Naur
+Colorado,Weld,Naur,Yes,Naur
+Colorado,Yuma,Naur,Yes,Naur
+Connecticut,Fairfield,Yes,Yes,Naur
+Connecticut,Hartford,Yes,Yes,Yes
+Connecticut,Litchfield,Yes,Yes,Naur
+Connecticut,Middlesex,Naur,Yes,Naur
+Connecticut,New Haven,Yes,Yes,Yes
+Connecticut,New London,Naur,Yes,Naur
+Connecticut,Tolland,Naur,Yes,Naur
+Connecticut,Windham,Naur,Yes,Naur
+Delaware,Kent,Naur,Yes,Yes
+Delaware,New Castle,Naur,Yes,Yes
+Delaware,Sussex,Naur,Yes,Naur
+District Of Columbia,District Of Columbia,Naur,Yes,Yes
+Florida,Alachua,Naur,Yes,Yes
+Florida,Baker,Naur,Yes,Yes
+Florida,Bay,Naur,Yes,Yes
+Florida,Bradford,Naur,Yes,Yes
+Florida,Brevard,Naur,Yes,Yes
+Florida,Broward,Naur,Yes,Yes
+Florida,Calhoun,Naur,Yes,Yes
+Florida,Charlotte,Naur,Yes,Yes
+Florida,Citrus,Naur,Yes,Yes
+Florida,Clay,Naur,Yes,Yes
+Florida,Collier,Naur,Yes,Yes
+Florida,Columbia,Naur,Yes,Yes
+Florida,Dade,Naur,Yes,Yes
+Florida,DeSoto,Naur,Yes,Yes
+Florida,Dixie,Naur,Yes,Yes
+Florida,Duval,Yes,Yes,Yes
+Florida,Escambia,Naur,Yes,Yes
+Florida,Flagler,Naur,Yes,Yes
+Florida,Franklin,Naur,Yes,Yes
+Florida,Gadsden,Naur,Yes,Yes
+Florida,Gilchrist,Naur,Yes,Yes
+Florida,Glades,Naur,Yes,Yes
+Florida,Gulf,Naur,Yes,Yes
+Florida,Hamilton,Naur,Yes,Yes
+Florida,Hardee,Naur,Yes,Yes
+Florida,Hendry,Naur,Yes,Yes
+Florida,Hernando,Naur,Yes,Yes
+Florida,Highlands,Naur,Naur,Yes
+Florida,Hillsborough,Yes,Yes,Yes
+Florida,Holmes,Naur,Yes,Yes
+Florida,Indian River,Naur,Naur,Yes
+Florida,Jackson,Naur,Yes,Yes
+Florida,Jefferson,Naur,Yes,Yes
+Florida,Lafayette,Naur,Yes,Yes
+Florida,Lake,Naur,Yes,Yes
+Florida,Lee,Naur,Yes,Yes
+Florida,Leon,Naur,Yes,Yes
+Florida,Levy,Naur,Yes,Yes
+Florida,Liberty,Naur,Yes,Yes
+Florida,Madison,Naur,Yes,Yes
+Florida,Manatee,Naur,Yes,Yes
+Florida,Marion,Naur,Yes,Yes
+Florida,Martin,Naur,Naur,Yes
+Florida,Miami-Dade County,Naur,Yes,Yes
+Florida,Monroe,Naur,Naur,Yes
+Florida,Nassau,Naur,Yes,Yes
+Florida,Okaloosa,Naur,Yes,Yes
+Florida,Okeechobee,Naur,Naur,Yes
+Florida,Orange,Naur,Yes,Yes
+Florida,Osceola,Naur,Yes,Yes
+Florida,Palm Beach,Naur,Yes,Yes
+Florida,Pasco,Naur,Yes,Yes
+Florida,Pinellas,Yes,Yes,Yes
+Florida,Polk,Naur,Yes,Yes
+Florida,Putnam,Naur,Yes,Yes
+Florida,Santa Rosa,Naur,Yes,Yes
+Florida,Sarasota,Naur,Yes,Yes
+Florida,Seminole,Naur,Yes,Yes
+Florida,St Johns,Naur,Yes,Yes
+Florida,St Lucie,Naur,Naur,Yes
+Florida,Sumter,Naur,Yes,Yes
+Florida,Suwannee,Naur,Yes,Yes
+Florida,Taylor,Naur,Yes,Yes
+Florida,Union,Naur,Yes,Yes
+Florida,Volusia,Naur,Yes,Yes
+Florida,Wakulla,Naur,Yes,Yes
+Florida,Walton,Naur,Yes,Yes
+Florida,Washington,Naur,Yes,Yes
+Georgia,Appling,Naur,Yes,Yes
+Georgia,Atkinson,Naur,Yes,Yes
+Georgia,Bacon,Naur,Yes,Yes
+Georgia,Baker,Naur,Yes,Yes
+Georgia,Baldwin,Naur,Yes,Yes
+Georgia,Banks,Naur,Naur,Yes
+Georgia,Barrow,Naur,Naur,Yes
+Georgia,Bartow,Naur,Naur,Yes
+Georgia,Ben Hill,Naur,Yes,Yes
+Georgia,Berrien,Naur,Yes,Yes
+Georgia,Bibb,Naur,Yes,Yes
+Georgia,Bleckley,Naur,Yes,Yes
+Georgia,Brantley,Naur,Yes,Yes
+Georgia,Brooks,Naur,Yes,Yes
+Georgia,Bryan,Naur,Yes,Yes
+Georgia,Bulloch,Naur,Yes,Yes
+Georgia,Burke,Naur,Yes,Yes
+Georgia,Butts,Naur,Yes,Yes
+Georgia,Calhoun,Naur,Yes,Yes
+Georgia,Camden,Naur,Yes,Yes
+Georgia,Candler,Naur,Yes,Yes
+Georgia,Carroll,Naur,Naur,Yes
+Georgia,Catoosa,Naur,Naur,Yes
+Georgia,Charlton,Naur,Yes,Yes
+Georgia,Chatham,Naur,Yes,Yes
+Georgia,Chattahoochee,Naur,Yes,Yes
+Georgia,Chattooga,Naur,Naur,Yes
+Georgia,Cherokee,Naur,Naur,Yes
+Georgia,Clarke,Naur,Yes,Yes
+Georgia,Clay,Naur,Yes,Yes
+Georgia,Clayton,Yes,Naur,Yes
+Georgia,Clinch,Naur,Yes,Yes
+Georgia,Cobb,Naur,Naur,Yes
+Georgia,Coffee,Naur,Yes,Yes
+Georgia,Colquitt,Naur,Yes,Yes
+Georgia,Columbia,Naur,Yes,Yes
+Georgia,Cook,Naur,Yes,Yes
+Georgia,Coweta,Naur,Naur,Yes
+Georgia,Crawford,Naur,Yes,Yes
+Georgia,Crisp,Naur,Yes,Yes
+Georgia,Dade,Naur,Naur,Yes
+Georgia,Dawson,Naur,Naur,Yes
+Georgia,Decatur,Naur,Yes,Yes
+Georgia,DeKalb,Yes,Naur,Yes
+Georgia,Dodge,Naur,Yes,Yes
+Georgia,Dooly,Naur,Yes,Yes
+Georgia,Dougherty,Naur,Yes,Yes
+Georgia,Douglas,Naur,Naur,Yes
+Georgia,Early,Naur,Yes,Yes
+Georgia,Echols,Naur,Yes,Yes
+Georgia,Effingham,Naur,Yes,Yes
+Georgia,Elbert,Naur,Yes,Yes
+Georgia,Emanuel,Naur,Yes,Yes
+Georgia,Evans,Naur,Yes,Yes
+Georgia,Fannin,Naur,Naur,Yes
+Georgia,Fayette,Naur,Naur,Yes
+Georgia,Floyd,Naur,Naur,Yes
+Georgia,Forsyth,Naur,Naur,Yes
+Georgia,Franklin,Naur,Yes,Yes
+Georgia,Fulton,Naur,Naur,Yes
+Georgia,Gilmer,Naur,Naur,Yes
+Georgia,Glascock,Naur,Yes,Yes
+Georgia,Glynn,Naur,Yes,Yes
+Georgia,Gordon,Naur,Naur,Yes
+Georgia,Grady,Naur,Yes,Yes
+Georgia,Greene,Naur,Yes,Yes
+Georgia,Gwinnett,Naur,Naur,Yes
+Georgia,Habersham,Naur,Naur,Yes
+Georgia,Hall,Naur,Naur,Yes
+Georgia,Hancock,Naur,Yes,Yes
+Georgia,Haralson,Naur,Naur,Yes
+Georgia,Harris,Naur,Yes,Yes
+Georgia,Hart,Naur,Yes,Yes
+Georgia,Heard,Naur,Naur,Yes
+Georgia,Henry,Naur,Naur,Yes
+Georgia,Houston,Naur,Yes,Yes
+Georgia,Irwin,Naur,Yes,Yes
+Georgia,Jackson,Naur,Naur,Yes
+Georgia,Jasper,Naur,Yes,Yes
+Georgia,Jeff Davis,Naur,Yes,Yes
+Georgia,Jefferson,Naur,Yes,Yes
+Georgia,Jenkins,Naur,Yes,Yes
+Georgia,Johnson,Naur,Yes,Yes
+Georgia,Jones,Naur,Yes,Yes
+Georgia,Lamar,Naur,Yes,Yes
+Georgia,Lanier,Naur,Yes,Yes
+Georgia,Laurens,Naur,Yes,Yes
+Georgia,Lee,Naur,Yes,Yes
+Georgia,Liberty,Naur,Yes,Yes
+Georgia,Lincoln,Naur,Yes,Yes
+Georgia,Long,Naur,Yes,Yes
+Georgia,Lowndes,Naur,Yes,Yes
+Georgia,Lumpkin,Naur,Naur,Yes
+Georgia,Macon,Naur,Yes,Yes
+Georgia,Madison,Naur,Yes,Yes
+Georgia,Marion,Naur,Yes,Yes
+Georgia,McDuffie,Naur,Yes,Yes
+Georgia,McIntosh,Naur,Yes,Yes
+Georgia,Meriwether,Naur,Naur,Yes
+Georgia,Miller,Naur,Yes,Yes
+Georgia,Milton,Naur,Yes,Yes
+Georgia,Mitchell,Naur,Yes,Yes
+Georgia,Monroe,Naur,Yes,Yes
+Georgia,Montgomery,Naur,Yes,Yes
+Georgia,Morgan,Naur,Yes,Yes
+Georgia,Murray,Naur,Naur,Yes
+Georgia,Muscogee,Naur,Yes,Yes
+Georgia,Newton,Naur,Naur,Yes
+Georgia,Oconee,Naur,Yes,Yes
+Georgia,Oglethorpe,Naur,Yes,Yes
+Georgia,Paulding,Naur,Naur,Yes
+Georgia,Peach,Naur,Yes,Yes
+Georgia,Pickens,Naur,Naur,Yes
+Georgia,Pierce,Naur,Yes,Yes
+Georgia,Pike,Naur,Naur,Yes
+Georgia,Polk,Naur,Yes,Yes
+Georgia,Pulaski,Naur,Yes,Yes
+Georgia,Putnam,Naur,Yes,Yes
+Georgia,Quitman,Naur,Yes,Yes
+Georgia,Rabun,Naur,Naur,Yes
+Georgia,Randolph,Naur,Yes,Yes
+Georgia,Richmond,Naur,Yes,Yes
+Georgia,Rockdale,Naur,Naur,Yes
+Georgia,Schley,Naur,Yes,Yes
+Georgia,Screven,Naur,Yes,Yes
+Georgia,Seminole,Naur,Yes,Yes
+Georgia,Spalding,Naur,Naur,Yes
+Georgia,Stephens,Naur,Naur,Yes
+Georgia,Stewart,Naur,Yes,Yes
+Georgia,Sumter,Naur,Yes,Yes
+Georgia,Talbot,Naur,Yes,Yes
+Georgia,Taliaferro,Naur,Yes,Yes
+Georgia,Tattnall,Naur,Yes,Yes
+Georgia,Taylor,Naur,Yes,Yes
+Georgia,Telfair,Naur,Yes,Yes
+Georgia,Terrell,Naur,Yes,Yes
+Georgia,Thomas,Naur,Yes,Yes
+Georgia,Tift,Naur,Yes,Yes
+Georgia,Toombs,Naur,Yes,Yes
+Georgia,Towns,Naur,Naur,Yes
+Georgia,Treutlen,Naur,Yes,Yes
+Georgia,Troup,Naur,Naur,Yes
+Georgia,Turner,Naur,Yes,Yes
+Georgia,Twiggs,Naur,Yes,Yes
+Georgia,Union,Naur,Naur,Yes
+Georgia,Upson,Naur,Yes,Yes
+Georgia,Walker,Yes,Naur,Yes
+Georgia,Walton,Naur,Yes,Yes
+Georgia,Ware,Naur,Yes,Yes
+Georgia,Warren,Naur,Yes,Yes
+Georgia,Washington,Naur,Yes,Yes
+Georgia,Wayne,Naur,Yes,Yes
+Georgia,Webster,Naur,Yes,Yes
+Georgia,Wheeler,Naur,Yes,Yes
+Georgia,White,Naur,Naur,Yes
+Georgia,Whitfield,Naur,Naur,Yes
+Georgia,Wilcox,Naur,Yes,Yes
+Georgia,Wilkes,Naur,Yes,Yes
+Georgia,Wilkinson,Naur,Yes,Yes
+Georgia,Worth,Naur,Yes,Yes
+Hawaii,Hawaii,Naur,Yes,Yes
+Hawaii,Honolulu,Naur,Yes,Yes
+Hawaii,Kalawao,Naur,Yes,Yes
+Hawaii,Kauai,Naur,Yes,Yes
+Hawaii,Maui,Naur,Yes,Yes
+Idaho,Ada,Naur,Yes,Yes
+Idaho,Adams,Naur,Yes,Yes
+Idaho,Bannock,Naur,Yes,Yes
+Idaho,Bear Lake,Naur,Yes,Yes
+Idaho,Benewah,Naur,Yes,Yes
+Idaho,Bingham,Naur,Yes,Yes
+Idaho,Blaine,Naur,Yes,Yes
+Idaho,Boise,Naur,Yes,Yes
+Idaho,Bonner,Naur,Yes,Yes
+Idaho,Bonneville,Naur,Yes,Yes
+Idaho,Boundary,Naur,Yes,Yes
+Idaho,Butte,Naur,Yes,Yes
+Idaho,Camas,Naur,Yes,Yes
+Idaho,Canyon,Naur,Yes,Yes
+Idaho,Caribou,Naur,Yes,Yes
+Idaho,Cassia,Naur,Yes,Yes
+Idaho,Clark,Naur,Yes,Yes
+Idaho,Clearwater,Naur,Yes,Yes
+Idaho,Custer,Naur,Yes,Yes
+Idaho,Elmore,Naur,Yes,Yes
+Idaho,Franklin,Naur,Yes,Yes
+Idaho,Fremont,Naur,Yes,Yes
+Idaho,Gem,Naur,Yes,Yes
+Idaho,Gooding,Naur,Yes,Yes
+Idaho,Idaho,Naur,Yes,Yes
+Idaho,Jefferson,Naur,Yes,Yes
+Idaho,Jerome,Naur,Yes,Yes
+Idaho,Kootenai,Naur,Yes,Yes
+Idaho,Latah,Naur,Yes,Yes
+Idaho,Lemhi,Naur,Yes,Yes
+Idaho,Lewis,Naur,Yes,Yes
+Idaho,Lincoln,Naur,Yes,Yes
+Idaho,Madison,Naur,Yes,Yes
+Idaho,Minidoka,Naur,Yes,Yes
+Idaho,Nez Perce,Naur,Yes,Yes
+Idaho,Oneida,Naur,Yes,Yes
+Idaho,Owyhee,Naur,Yes,Yes
+Idaho,Payette,Naur,Yes,Yes
+Idaho,Power,Naur,Yes,Yes
+Idaho,Shoshone,Naur,Yes,Yes
+Idaho,Teton,Naur,Yes,Yes
+Idaho,Twin Falls,Naur,Yes,Yes
+Idaho,Valley,Naur,Yes,Yes
+Idaho,Washington,Naur,Yes,Yes
+Idaho,Yellowstone National Park,Naur,Yes,Yes
+Illinois,Adams,Naur,Yes,Naur
+Illinois,Alexander,Naur,Yes,Yes
+Illinois,Bond,Naur,Yes,Naur
+Illinois,Boone,Naur,Naur,Naur
+Illinois,Brown,Naur,Yes,Naur
+Illinois,Bureau,Naur,Yes,Naur
+Illinois,Calhoun,Naur,Yes,Naur
+Illinois,Carroll,Naur,Naur,Naur
+Illinois,Cass,Naur,Yes,Naur
+Illinois,Champaign,Naur,Yes,Naur
+Illinois,Christian,Naur,Yes,Naur
+Illinois,Clark,Naur,Yes,Naur
+Illinois,Clay,Naur,Yes,Naur
+Illinois,Clinton,Naur,Yes,Naur
+Illinois,Coles,Naur,Yes,Naur
+Illinois,Cook,Yes,Yes,Yes
+Illinois,Crawford,Naur,Yes,Naur
+Illinois,Cumberland,Naur,Yes,Naur
+Illinois,De Witt,Naur,Yes,Naur
+Illinois,DeKalb,Naur,Naur,Naur
+Illinois,Douglas,Naur,Yes,Naur
+Illinois,Dupage,Naur,Naur,Naur
+Illinois,Edgar,Naur,Yes,Naur
+Illinois,Edwards,Naur,Yes,Naur
+Illinois,Effingham,Naur,Yes,Naur
+Illinois,Fayette,Naur,Yes,Naur
+Illinois,Ford,Naur,Yes,Naur
+Illinois,Franklin,Naur,Yes,Naur
+Illinois,Fulton,Naur,Yes,Naur
+Illinois,Gallatin,Naur,Yes,Naur
+Illinois,Greene,Naur,Yes,Naur
+Illinois,Grundy,Naur,Naur,Naur
+Illinois,Hamilton,Naur,Yes,Naur
+Illinois,Hancock,Naur,Yes,Naur
+Illinois,Hardin,Naur,Yes,Naur
+Illinois,Henderson,Naur,Yes,Naur
+Illinois,Henry,Naur,Yes,Naur
+Illinois,Iroquois,Naur,Yes,Naur
+Illinois,Jackson,Naur,Yes,Naur
+Illinois,Jasper,Naur,Yes,Naur
+Illinois,Jefferson,Naur,Yes,Naur
+Illinois,Jersey,Naur,Yes,Naur
+Illinois,Jo Daviess,Naur,Naur,Naur
+Illinois,Johnson,Naur,Yes,Naur
+Illinois,Kane,Yes,Naur,Naur
+Illinois,Kankakee,Naur,Yes,Yes
+Illinois,Kendall,Yes,Naur,Naur
+Illinois,Knox,Naur,Yes,Naur
+Illinois,La Salle,Naur,Naur,Naur
+Illinois,Lake,Yes,Yes,Naur
+Illinois,Lawrence,Naur,Yes,Naur
+Illinois,Lee,Naur,Naur,Naur
+Illinois,Livingston,Naur,Yes,Naur
+Illinois,Logan,Naur,Yes,Naur
+Illinois,Macon,Yes,Yes,Yes
+Illinois,Macoupin,Naur,Yes,Naur
+Illinois,Madison,Yes,Yes,Naur
+Illinois,Marion,Naur,Yes,Naur
+Illinois,Marshall,Naur,Yes,Naur
+Illinois,Mason,Naur,Yes,Naur
+Illinois,Massac,Naur,Yes,Naur
+Illinois,McDonough,Naur,Yes,Naur
+Illinois,McHenry,Naur,Naur,Naur
+Illinois,McLean,Naur,Yes,Naur
+Illinois,Menard,Naur,Yes,Naur
+Illinois,Mercer,Naur,Yes,Naur
+Illinois,Monroe,Naur,Yes,Naur
+Illinois,Montgomery,Naur,Yes,Naur
+Illinois,Morgan,Naur,Yes,Naur
+Illinois,Moultrie,Naur,Yes,Naur
+Illinois,Ogle,Naur,Naur,Naur
+Illinois,Peoria,Yes,Yes,Yes
+Illinois,Perry,Naur,Yes,Naur
+Illinois,Piatt,Naur,Yes,Naur
+Illinois,Pike,Naur,Yes,Naur
+Illinois,Pope,Naur,Yes,Naur
+Illinois,Pulaski,Naur,Yes,Naur
+Illinois,Putnam,Naur,Yes,Naur
+Illinois,Randolph,Naur,Yes,Naur
+Illinois,Richland,Naur,Yes,Naur
+Illinois,Rock Island,Naur,Yes,Naur
+Illinois,Saline,Naur,Yes,Naur
+Illinois,Sangamon,Naur,Yes,Naur
+Illinois,Schuyler,Naur,Yes,Naur
+Illinois,Scott,Naur,Yes,Naur
+Illinois,Shelby,Naur,Yes,Naur
+Illinois,St Clair,Yes,Yes,Yes
+Illinois,Stark,Naur,Yes,Naur
+Illinois,Stephenson,Naur,Naur,Naur
+Illinois,Tazewell,Yes,Yes,Naur
+Illinois,Union,Naur,Yes,Naur
+Illinois,Vermilion,Naur,Yes,Yes
+Illinois,Wabash,Naur,Yes,Naur
+Illinois,Warren,Naur,Yes,Naur
+Illinois,Washington,Naur,Yes,Naur
+Illinois,Wayne,Naur,Yes,Naur
+Illinois,White,Naur,Yes,Naur
+Illinois,Whiteside,Naur,Naur,Naur
+Illinois,Will,Yes,Yes,Naur
+Illinois,Williamson,Naur,Yes,Naur
+Illinois,Winnebago,Yes,Yes,Yes
+Illinois,Woodford,Naur,Yes,Naur
+Indiana,Adams,Naur,Yes,Yes
+Indiana,Allen,Yes,Yes,Yes
+Indiana,Bartholomew,Naur,Yes,Yes
+Indiana,Benton,Naur,Yes,Yes
+Indiana,Blackford,Naur,Yes,Yes
+Indiana,Boone,Naur,Yes,Yes
+Indiana,Brown,Naur,Yes,Yes
+Indiana,Carroll,Naur,Yes,Yes
+Indiana,Cass,Naur,Yes,Yes
+Indiana,Clark,Naur,Yes,Yes
+Indiana,Clay,Naur,Yes,Yes
+Indiana,Clinton,Naur,Yes,Yes
+Indiana,Crawford,Naur,Yes,Yes
+Indiana,Daviess,Naur,Yes,Yes
+Indiana,Dearborn,Naur,Yes,Yes
+Indiana,Decatur,Naur,Yes,Yes
+Indiana,DeKalb,Naur,Yes,Yes
+Indiana,Delaware,Yes,Yes,Yes
+Indiana,Dubois,Naur,Yes,Yes
+Indiana,Elkhart,Naur,Yes,Yes
+Indiana,Fayette,Naur,Yes,Yes
+Indiana,Floyd,Naur,Yes,Yes
+Indiana,Fountain,Naur,Yes,Yes
+Indiana,Franklin,Naur,Yes,Yes
+Indiana,Fulton,Naur,Yes,Yes
+Indiana,Gibson,Naur,Yes,Yes
+Indiana,Grant,Naur,Yes,Yes
+Indiana,Greene,Naur,Yes,Yes
+Indiana,Hamilton,Naur,Yes,Yes
+Indiana,Hancock,Naur,Yes,Yes
+Indiana,Harrison,Naur,Yes,Yes
+Indiana,Hendricks,Naur,Yes,Yes
+Indiana,Henry,Naur,Yes,Yes
+Indiana,Howard,Naur,Yes,Yes
+Indiana,Huntington,Naur,Yes,Yes
+Indiana,Jackson,Naur,Yes,Yes
+Indiana,Jasper,Naur,Yes,Yes
+Indiana,Jay,Naur,Yes,Yes
+Indiana,Jefferson,Naur,Yes,Yes
+Indiana,Jennings,Naur,Yes,Yes
+Indiana,Johnson,Naur,Yes,Yes
+Indiana,Knox,Naur,Yes,Yes
+Indiana,Kosciusko,Naur,Yes,Yes
+Indiana,Lagrange,Naur,Yes,Yes
+Indiana,Lake,Yes,Yes,Yes
+Indiana,LaPorte,Naur,Yes,Yes
+Indiana,Lawrence,Naur,Yes,Yes
+Indiana,Madison,Naur,Yes,Yes
+Indiana,Marion,Naur,Yes,Yes
+Indiana,Marshall,Naur,Yes,Yes
+Indiana,Martin,Naur,Yes,Yes
+Indiana,Miami,Naur,Yes,Yes
+Indiana,Monroe,Naur,Yes,Yes
+Indiana,Montgomery,Naur,Yes,Yes
+Indiana,Morgan,Naur,Yes,Yes
+Indiana,Newton,Naur,Yes,Yes
+Indiana,Noble,Naur,Yes,Yes
+Indiana,Ohio,Naur,Yes,Yes
+Indiana,Orange,Naur,Yes,Yes
+Indiana,Owen,Naur,Yes,Yes
+Indiana,Parke,Naur,Yes,Yes
+Indiana,Perry,Naur,Yes,Yes
+Indiana,Pike,Naur,Yes,Yes
+Indiana,Porter,Yes,Yes,Yes
+Indiana,Posey,Naur,Yes,Yes
+Indiana,Pulaski,Naur,Yes,Yes
+Indiana,Putnam,Naur,Yes,Yes
+Indiana,Randolph,Naur,Yes,Yes
+Indiana,Ripley,Naur,Yes,Yes
+Indiana,Rush,Naur,Yes,Yes
+Indiana,Scott,Naur,Yes,Yes
+Indiana,Shelby,Naur,Yes,Yes
+Indiana,Spencer,Naur,Yes,Yes
+Indiana,St Joseph,Yes,Yes,Yes
+Indiana,Starke,Naur,Yes,Yes
+Indiana,Steuben,Naur,Yes,Yes
+Indiana,Sullivan,Naur,Yes,Yes
+Indiana,Switzerland,Naur,Yes,Yes
+Indiana,Tippecanoe,Naur,Yes,Yes
+Indiana,Tipton,Naur,Yes,Yes
+Indiana,Union,Naur,Yes,Yes
+Indiana,Vanderburgh,Naur,Yes,Yes
+Indiana,Vermillion,Naur,Yes,Yes
+Indiana,Vigo,Yes,Yes,Yes
+Indiana,Wabash,Naur,Yes,Yes
+Indiana,Warren,Naur,Yes,Yes
+Indiana,Warrick,Naur,Yes,Yes
+Indiana,Washington,Naur,Yes,Yes
+Indiana,Wayne,Naur,Yes,Yes
+Indiana,Wells,Naur,Yes,Yes
+Indiana,White,Naur,Yes,Yes
+Indiana,Whitley,Naur,Yes,Yes
+Iowa,Adair,Naur,Yes,Yes
+Iowa,Adams,Naur,Yes,Yes
+Iowa,Allamakee,Naur,Yes,Yes
+Iowa,Appanoose,Naur,Yes,Yes
+Iowa,Audubon,Naur,Yes,Yes
+Iowa,Benton,Naur,Yes,Yes
+Iowa,Black Hawk,Yes,Yes,Yes
+Iowa,Boone,Naur,Yes,Yes
+Iowa,Bremer,Naur,Yes,Yes
+Iowa,Buchanan,Naur,Yes,Yes
+Iowa,Buena Vista,Naur,Yes,Yes
+Iowa,Butler,Naur,Yes,Yes
+Iowa,Calhoun,Naur,Yes,Yes
+Iowa,Carroll,Naur,Yes,Yes
+Iowa,Cass,Naur,Yes,Yes
+Iowa,Cedar,Naur,Yes,Yes
+Iowa,Cerro Gordo,Naur,Yes,Yes
+Iowa,Cherokee,Naur,Yes,Yes
+Iowa,Chickasaw,Naur,Yes,Yes
+Iowa,Clarke,Naur,Yes,Yes
+Iowa,Clay,Naur,Yes,Yes
+Iowa,Clayton,Naur,Yes,Yes
+Iowa,Clinton,Naur,Yes,Yes
+Iowa,Crawford,Naur,Yes,Yes
+Iowa,Dallas,Naur,Yes,Yes
+Iowa,Davis,Naur,Yes,Yes
+Iowa,Decatur,Naur,Yes,Yes
+Iowa,Delaware,Naur,Yes,Yes
+Iowa,Des Moines,Naur,Yes,Yes
+Iowa,Dickinson,Naur,Yes,Yes
+Iowa,Dubuque,Yes,Yes,Yes
+Iowa,Emmet,Naur,Yes,Yes
+Iowa,Fayette,Naur,Yes,Yes
+Iowa,Floyd,Naur,Yes,Yes
+Iowa,Franklin,Naur,Yes,Yes
+Iowa,Fremont,Naur,Yes,Yes
+Iowa,Greene,Naur,Yes,Yes
+Iowa,Grundy,Naur,Yes,Yes
+Iowa,Guthrie,Naur,Yes,Yes
+Iowa,Hamilton,Naur,Yes,Yes
+Iowa,Hancock,Naur,Yes,Yes
+Iowa,Hardin,Naur,Yes,Yes
+Iowa,Harrison,Naur,Yes,Yes
+Iowa,Henry,Naur,Yes,Yes
+Iowa,Howard,Naur,Yes,Yes
+Iowa,Humboldt,Naur,Yes,Yes
+Iowa,Ida,Naur,Yes,Yes
+Iowa,Iowa,Naur,Yes,Yes
+Iowa,Jackson,Naur,Yes,Yes
+Iowa,Jasper,Naur,Yes,Yes
+Iowa,Jefferson,Naur,Yes,Yes
+Iowa,Johnson,Naur,Yes,Yes
+Iowa,Jones,Naur,Yes,Yes
+Iowa,Keokuk,Naur,Yes,Yes
+Iowa,Kossuth,Naur,Yes,Yes
+Iowa,Lee,Naur,Yes,Yes
+Iowa,Linn,Naur,Yes,Yes
+Iowa,Louisa,Naur,Yes,Yes
+Iowa,Lucas,Naur,Yes,Yes
+Iowa,Lyon,Naur,Yes,Yes
+Iowa,Madison,Naur,Yes,Yes
+Iowa,Mahaska,Naur,Yes,Yes
+Iowa,Marion,Naur,Yes,Yes
+Iowa,Marshall,Naur,Yes,Yes
+Iowa,Mills,Naur,Yes,Yes
+Iowa,Mitchell,Naur,Yes,Yes
+Iowa,Monona,Naur,Yes,Yes
+Iowa,Monroe,Naur,Yes,Yes
+Iowa,Montgomery,Naur,Yes,Yes
+Iowa,Muscatine,Naur,Yes,Yes
+Iowa,O Brien,Naur,Yes,Yes
+Iowa,Osceola,Naur,Yes,Yes
+Iowa,Page,Naur,Yes,Yes
+Iowa,Palo Alto,Naur,Yes,Yes
+Iowa,Plymouth,Yes,Yes,Yes
+Iowa,Pocahontas,Naur,Yes,Yes
+Iowa,Polk,Naur,Yes,Yes
+Iowa,Pottawattamie,Yes,Yes,Yes
+Iowa,Poweshiek,Naur,Yes,Yes
+Iowa,Ringgold,Naur,Yes,Yes
+Iowa,Sac,Naur,Yes,Yes
+Iowa,Scott,Yes,Yes,Yes
+Iowa,Shelby,Naur,Yes,Yes
+Iowa,Sioux,Naur,Yes,Yes
+Iowa,Story,Naur,Yes,Yes
+Iowa,Tama,Naur,Yes,Yes
+Iowa,Taylor,Naur,Yes,Yes
+Iowa,Union,Naur,Yes,Yes
+Iowa,Van Buren,Naur,Yes,Yes
+Iowa,Wapello,Naur,Yes,Yes
+Iowa,Warren,Naur,Yes,Yes
+Iowa,Washington,Naur,Yes,Yes
+Iowa,Wayne,Naur,Yes,Yes
+Iowa,Webster,Naur,Yes,Yes
+Iowa,Winnebago,Naur,Yes,Yes
+Iowa,Winneshiek,Naur,Yes,Yes
+Iowa,Woodbury,Yes,Yes,Yes
+Iowa,Worth,Naur,Yes,Yes
+Iowa,Wright,Naur,Yes,Yes
+Kansas,Allen,Naur,Yes,Yes
+Kansas,Anderson,Naur,Yes,Yes
+Kansas,Atchison,Naur,Yes,Yes
+Kansas,Barber,Naur,Yes,Yes
+Kansas,Barton,Naur,Yes,Yes
+Kansas,Bourbon,Naur,Yes,Yes
+Kansas,Brown,Naur,Yes,Yes
+Kansas,Butler,Naur,Yes,Yes
+Kansas,Chase,Naur,Yes,Yes
+Kansas,Chautauqua,Naur,Yes,Yes
+Kansas,Cherokee,Naur,Yes,Yes
+Kansas,Cheyenne,Naur,Yes,Yes
+Kansas,Clark,Naur,Yes,Yes
+Kansas,Clay,Naur,Yes,Yes
+Kansas,Cloud,Naur,Yes,Yes
+Kansas,Coffey,Naur,Yes,Yes
+Kansas,Comanche,Naur,Yes,Yes
+Kansas,Cowley,Naur,Yes,Yes
+Kansas,Crawford,Naur,Yes,Yes
+Kansas,Decatur,Naur,Yes,Yes
+Kansas,Dickinson,Naur,Yes,Yes
+Kansas,Doniphan,Naur,Yes,Yes
+Kansas,Douglas,Naur,Yes,Yes
+Kansas,Edwards,Naur,Yes,Yes
+Kansas,Elk,Naur,Yes,Yes
+Kansas,Ellis,Naur,Yes,Yes
+Kansas,Ellsworth,Naur,Yes,Yes
+Kansas,Finney,Naur,Yes,Yes
+Kansas,Ford,Naur,Yes,Yes
+Kansas,Franklin,Naur,Yes,Yes
+Kansas,Geary,Naur,Yes,Yes
+Kansas,Gove,Naur,Yes,Yes
+Kansas,Graham,Naur,Yes,Yes
+Kansas,Grant,Naur,Yes,Yes
+Kansas,Gray,Naur,Yes,Yes
+Kansas,Greeley,Naur,Yes,Yes
+Kansas,Greenwood,Naur,Yes,Yes
+Kansas,Hamilton,Naur,Yes,Yes
+Kansas,Harper,Naur,Yes,Yes
+Kansas,Harvey,Naur,Yes,Yes
+Kansas,Haskell,Naur,Yes,Yes
+Kansas,Hodgeman,Naur,Yes,Yes
+Kansas,Jackson,Naur,Yes,Yes
+Kansas,Jefferson,Naur,Yes,Yes
+Kansas,Jewell,Naur,Yes,Yes
+Kansas,Johnson,Yes,Yes,Yes
+Kansas,Kearny,Naur,Yes,Yes
+Kansas,Kingman,Naur,Yes,Yes
+Kansas,Kiowa,Naur,Yes,Yes
+Kansas,Labette,Naur,Yes,Yes
+Kansas,Lane,Naur,Yes,Yes
+Kansas,Leavenworth,Naur,Yes,Yes
+Kansas,Lincoln,Naur,Yes,Yes
+Kansas,Linn,Naur,Yes,Yes
+Kansas,Logan,Naur,Yes,Yes
+Kansas,Lyon,Naur,Yes,Yes
+Kansas,Marion,Naur,Yes,Yes
+Kansas,Marshall,Naur,Yes,Yes
+Kansas,McPherson,Naur,Yes,Yes
+Kansas,Meade,Naur,Yes,Yes
+Kansas,Miami,Naur,Yes,Yes
+Kansas,Mitchell,Naur,Yes,Yes
+Kansas,Montgomery,Naur,Yes,Yes
+Kansas,Morris,Naur,Yes,Yes
+Kansas,Morton,Naur,Yes,Yes
+Kansas,Nemaha,Naur,Yes,Yes
+Kansas,Neosho,Naur,Yes,Yes
+Kansas,Ness,Naur,Yes,Yes
+Kansas,Norton,Naur,Yes,Yes
+Kansas,Osage,Naur,Yes,Yes
+Kansas,Osborne,Naur,Yes,Yes
+Kansas,Ottawa,Naur,Yes,Yes
+Kansas,Pawnee,Naur,Yes,Yes
+Kansas,Phillips,Naur,Yes,Yes
+Kansas,Pottawatomie,Naur,Yes,Yes
+Kansas,Pratt,Naur,Yes,Yes
+Kansas,Rawlins,Naur,Yes,Yes
+Kansas,Reno,Naur,Yes,Yes
+Kansas,Republic,Naur,Yes,Yes
+Kansas,Rice,Naur,Yes,Yes
+Kansas,Riley,Naur,Yes,Yes
+Kansas,Rooks,Naur,Yes,Yes
+Kansas,Rush,Naur,Yes,Yes
+Kansas,Russell,Naur,Yes,Yes
+Kansas,Saline,Naur,Yes,Yes
+Kansas,Scott,Naur,Yes,Yes
+Kansas,Sedgwick,Naur,Yes,Yes
+Kansas,Seward,Naur,Yes,Yes
+Kansas,Shawnee,Naur,Yes,Yes
+Kansas,Sheridan,Naur,Yes,Yes
+Kansas,Sherman,Naur,Yes,Yes
+Kansas,Smith,Naur,Yes,Yes
+Kansas,Stafford,Naur,Yes,Yes
+Kansas,Stanton,Naur,Yes,Yes
+Kansas,Stevens,Naur,Yes,Yes
+Kansas,Sumner,Naur,Yes,Yes
+Kansas,Thomas,Naur,Yes,Yes
+Kansas,Trego,Naur,Yes,Yes
+Kansas,Wabaunsee,Naur,Yes,Yes
+Kansas,Wallace,Naur,Yes,Yes
+Kansas,Washington,Naur,Yes,Yes
+Kansas,Wichita,Naur,Yes,Yes
+Kansas,Wilson,Naur,Yes,Yes
+Kansas,Woodson,Naur,Yes,Yes
+Kansas,Wyandotte,Yes,Yes,Yes
+Kentucky,Adair,Naur,Yes,Yes
+Kentucky,Allen,Naur,Yes,Yes
+Kentucky,Anderson,Naur,Yes,Yes
+Kentucky,Ballard,Naur,Yes,Yes
+Kentucky,Barren,Naur,Yes,Yes
+Kentucky,Bath,Naur,Yes,Yes
+Kentucky,Bell,Naur,Yes,Yes
+Kentucky,Boone,Naur,Yes,Yes
+Kentucky,Bourbon,Naur,Yes,Yes
+Kentucky,Boyd,Naur,Yes,Yes
+Kentucky,Boyle,Naur,Yes,Yes
+Kentucky,Bracken,Naur,Yes,Yes
+Kentucky,Breathitt,Naur,Yes,Yes
+Kentucky,Breckinridge,Naur,Yes,Yes
+Kentucky,Bullitt,Naur,Yes,Yes
+Kentucky,Butler,Naur,Yes,Yes
+Kentucky,Caldwell,Naur,Yes,Yes
+Kentucky,Calloway,Naur,Yes,Yes
+Kentucky,Campbell,Yes,Yes,Yes
+Kentucky,Carlisle,Naur,Yes,Yes
+Kentucky,Carroll,Naur,Yes,Yes
+Kentucky,Carter,Naur,Yes,Yes
+Kentucky,Casey,Naur,Yes,Yes
+Kentucky,Christian,Naur,Yes,Yes
+Kentucky,Clark,Naur,Yes,Yes
+Kentucky,Clay,Naur,Yes,Yes
+Kentucky,Clinton,Naur,Yes,Yes
+Kentucky,Crittenden,Naur,Yes,Yes
+Kentucky,Cumberland,Naur,Yes,Yes
+Kentucky,Daviess,Naur,Yes,Yes
+Kentucky,Edmonson,Naur,Yes,Yes
+Kentucky,Elliott,Naur,Yes,Yes
+Kentucky,Estill,Naur,Yes,Yes
+Kentucky,Fayette,Naur,Yes,Yes
+Kentucky,Fleming,Naur,Yes,Yes
+Kentucky,Floyd,Naur,Yes,Yes
+Kentucky,Franklin,Naur,Yes,Yes
+Kentucky,Fulton,Naur,Yes,Yes
+Kentucky,Gallatin,Naur,Yes,Yes
+Kentucky,Garrard,Naur,Yes,Yes
+Kentucky,Grant,Naur,Yes,Yes
+Kentucky,Graves,Naur,Yes,Yes
+Kentucky,Grayson,Naur,Yes,Yes
+Kentucky,Green,Naur,Yes,Yes
+Kentucky,Greenup,Naur,Yes,Yes
+Kentucky,Hancock,Naur,Yes,Yes
+Kentucky,Hardin,Naur,Yes,Yes
+Kentucky,Harlan,Naur,Yes,Yes
+Kentucky,Harrison,Naur,Yes,Yes
+Kentucky,Hart,Naur,Yes,Yes
+Kentucky,Henderson,Yes,Yes,Yes
+Kentucky,Henry,Naur,Yes,Yes
+Kentucky,Hickman,Naur,Yes,Yes
+Kentucky,Hopkins,Naur,Yes,Yes
+Kentucky,Jackson,Naur,Yes,Yes
+Kentucky,Jefferson,Naur,Yes,Yes
+Kentucky,Jessamine,Naur,Yes,Yes
+Kentucky,Johnson,Naur,Yes,Yes
+Kentucky,Kenton,Yes,Yes,Yes
+Kentucky,Knott,Naur,Yes,Yes
+Kentucky,Knox,Naur,Yes,Yes
+Kentucky,Larue,Naur,Yes,Yes
+Kentucky,Laurel,Naur,Yes,Yes
+Kentucky,Lawrence,Naur,Yes,Yes
+Kentucky,Lee,Naur,Yes,Yes
+Kentucky,Leslie,Naur,Yes,Yes
+Kentucky,Letcher,Naur,Yes,Yes
+Kentucky,Lewis,Naur,Yes,Yes
+Kentucky,Lincoln,Naur,Yes,Yes
+Kentucky,Livingston,Naur,Yes,Yes
+Kentucky,Logan,Naur,Yes,Yes
+Kentucky,Lyon,Naur,Yes,Yes
+Kentucky,Madison,Naur,Yes,Yes
+Kentucky,Magoffin,Naur,Yes,Yes
+Kentucky,Marion,Naur,Yes,Yes
+Kentucky,Marshall,Naur,Yes,Yes
+Kentucky,Martin,Naur,Yes,Yes
+Kentucky,Mason,Naur,Yes,Yes
+Kentucky,McCracken,Naur,Yes,Yes
+Kentucky,McCreary,Naur,Yes,Yes
+Kentucky,McLean,Naur,Yes,Yes
+Kentucky,Meade,Naur,Yes,Yes
+Kentucky,Menifee,Naur,Yes,Yes
+Kentucky,Mercer,Naur,Yes,Yes
+Kentucky,Metcalfe,Naur,Yes,Yes
+Kentucky,Monroe,Naur,Yes,Yes
+Kentucky,Montgomery,Naur,Yes,Yes
+Kentucky,Morgan,Naur,Yes,Yes
+Kentucky,Muhlenberg,Naur,Yes,Yes
+Kentucky,Nelson,Naur,Yes,Yes
+Kentucky,Nicholas,Naur,Yes,Yes
+Kentucky,Ohio,Naur,Yes,Yes
+Kentucky,Oldham,Naur,Yes,Yes
+Kentucky,Owen,Naur,Yes,Yes
+Kentucky,Owsley,Naur,Yes,Yes
+Kentucky,Pendleton,Naur,Yes,Yes
+Kentucky,Perry,Naur,Yes,Yes
+Kentucky,Pike,Naur,Yes,Yes
+Kentucky,Powell,Naur,Yes,Yes
+Kentucky,Pulaski,Naur,Yes,Yes
+Kentucky,Robertson,Naur,Yes,Yes
+Kentucky,Rockcastle,Naur,Yes,Yes
+Kentucky,Rowan,Naur,Yes,Yes
+Kentucky,Russell,Naur,Yes,Yes
+Kentucky,Scott,Naur,Yes,Yes
+Kentucky,Shelby,Naur,Yes,Yes
+Kentucky,Simpson,Naur,Yes,Yes
+Kentucky,Spencer,Naur,Yes,Yes
+Kentucky,Taylor,Naur,Yes,Yes
+Kentucky,Todd,Naur,Yes,Yes
+Kentucky,Trigg,Naur,Yes,Yes
+Kentucky,Trimble,Naur,Yes,Yes
+Kentucky,Union,Naur,Yes,Yes
+Kentucky,Warren,Naur,Yes,Yes
+Kentucky,Washington,Naur,Yes,Yes
+Kentucky,Wayne,Naur,Yes,Yes
+Kentucky,Webster,Naur,Yes,Yes
+Kentucky,Whitley,Naur,Yes,Yes
+Kentucky,Wolfe,Naur,Yes,Yes
+Kentucky,Woodford,Naur,Yes,Yes
+Louisiana,Acadia,Naur,Yes,Yes
+Louisiana,Allen,Naur,Yes,Yes
+Louisiana,Ascension,Naur,Yes,Yes
+Louisiana,Assumption,Naur,Naur,Yes
+Louisiana,Avoyelles,Naur,Yes,Yes
+Louisiana,Beauregard,Naur,Yes,Yes
+Louisiana,Bienville,Naur,Yes,Yes
+Louisiana,Bossier,Yes,Yes,Yes
+Louisiana,Caddo,Yes,Yes,Yes
+Louisiana,Calcasieu,Naur,Yes,Yes
+Louisiana,Caldwell,Naur,Yes,Yes
+Louisiana,Cameron,Naur,Yes,Yes
+Louisiana,Catahoula,Naur,Yes,Yes
+Louisiana,Claiborne,Naur,Yes,Yes
+Louisiana,Concordia,Naur,Yes,Yes
+Louisiana,De Soto,Naur,Yes,Yes
+Louisiana,East Baton Rouge,Naur,Yes,Yes
+Louisiana,East Carroll,Naur,Yes,Yes
+Louisiana,East Feliciana,Naur,Yes,Yes
+Louisiana,Evangeline,Naur,Yes,Yes
+Louisiana,Franklin,Naur,Yes,Yes
+Louisiana,Grant,Naur,Yes,Yes
+Louisiana,Iberia,Naur,Yes,Yes
+Louisiana,Iberville,Naur,Yes,Yes
+Louisiana,Jackson,Naur,Yes,Yes
+Louisiana,Jefferson,Yes,Naur,Yes
+Louisiana,Jefferson Davis,Naur,Yes,Yes
+Louisiana,La Salle,Naur,Yes,Yes
+Louisiana,Lafayette,Naur,Yes,Yes
+Louisiana,Lafourche,Naur,Naur,Yes
+Louisiana,Lincoln,Naur,Yes,Yes
+Louisiana,Livingston,Naur,Yes,Yes
+Louisiana,Madison,Naur,Yes,Yes
+Louisiana,Morehouse,Naur,Yes,Yes
+Louisiana,Natchitoches,Naur,Yes,Yes
+Louisiana,Orleans,Yes,Yes,Yes
+Louisiana,Ouachita,Naur,Yes,Yes
+Louisiana,Plaquemines,Naur,Naur,Yes
+Louisiana,Pointe Coupee,Naur,Yes,Yes
+Louisiana,Rapides,Naur,Yes,Yes
+Louisiana,Red River,Naur,Yes,Yes
+Louisiana,Richland,Naur,Yes,Yes
+Louisiana,Sabine,Naur,Yes,Yes
+Louisiana,St Bernard,Yes,Naur,Yes
+Louisiana,St Charles,Naur,Naur,Yes
+Louisiana,St Helena,Naur,Yes,Yes
+Louisiana,St James,Naur,Naur,Yes
+Louisiana,St John The Baptist,Naur,Naur,Yes
+Louisiana,St Landry,Naur,Yes,Yes
+Louisiana,St Martin,Naur,Yes,Yes
+Louisiana,St Mary,Naur,Yes,Yes
+Louisiana,St Tammany,Naur,Yes,Yes
+Louisiana,Tangipahoa,Naur,Yes,Yes
+Louisiana,Tensas,Naur,Yes,Yes
+Louisiana,Terrebonne,Naur,Naur,Yes
+Louisiana,Union,Naur,Yes,Yes
+Louisiana,Vermilion,Naur,Yes,Yes
+Louisiana,Vernon,Naur,Yes,Yes
+Louisiana,Washington,Naur,Naur,Yes
+Louisiana,Webster,Naur,Yes,Yes
+Louisiana,West Baton Rouge,Naur,Yes,Yes
+Louisiana,West Carroll,Naur,Yes,Yes
+Louisiana,West Feliciana,Naur,Yes,Yes
+Louisiana,Winn,Naur,Yes,Yes
+Maine,Androscoggin,Naur,Yes,Yes
+Maine,Aroostook,Naur,Yes,Yes
+Maine,Cumberland,Naur,Yes,Yes
+Maine,Franklin,Naur,Yes,Yes
+Maine,Hancock,Naur,Yes,Yes
+Maine,Kennebec,Naur,Yes,Yes
+Maine,Knox,Naur,Yes,Yes
+Maine,Lincoln,Naur,Yes,Yes
+Maine,Oxford,Naur,Yes,Yes
+Maine,Penobscot,Naur,Yes,Yes
+Maine,Piscataquis,Naur,Yes,Yes
+Maine,Sagadahoc,Naur,Yes,Yes
+Maine,Somerset,Naur,Yes,Yes
+Maine,Waldo,Naur,Yes,Yes
+Maine,Washington,Naur,Yes,Yes
+Maine,York,Naur,Yes,Yes
+Maryland,Allegany,Naur,Naur,Yes
+Maryland,Anne Arundel,Yes,Yes,Yes
+Maryland,Baltimore,Yes,Yes,Yes
+Maryland,Baltimore City,Yes,Yes,Yes
+Maryland,Calvert,Naur,Naur,Yes
+Maryland,Caroline,Naur,Naur,Yes
+Maryland,Carroll,Naur,Naur,Yes
+Maryland,Cecil,Naur,Yes,Yes
+Maryland,Charles,Naur,Yes,Yes
+Maryland,Dorchester,Naur,Naur,Yes
+Maryland,Frederick,Naur,Naur,Yes
+Maryland,Garrett,Naur,Naur,Yes
+Maryland,Harford,Naur,Naur,Yes
+Maryland,Howard,Naur,Naur,Yes
+Maryland,Kent,Naur,Naur,Yes
+Maryland,Montgomery,Naur,Naur,Yes
+Maryland,Prince Georges,Naur,Yes,Yes
+Maryland,Queen Anne's,Naur,Naur,Yes
+Maryland,Somerset,Naur,Naur,Yes
+Maryland,St Mary's,Naur,Yes,Yes
+Maryland,Talbot,Naur,Naur,Yes
+Maryland,Washington,Naur,Naur,Yes
+Maryland,Wicomico,Naur,Naur,Yes
+Maryland,Worcester,Naur,Naur,Yes
+Massachusetts,Barnstable,Naur,Naur,Naur
+Massachusetts,Berkshire,Naur,Naur,Naur
+Massachusetts,Bristol,Yes,Naur,Naur
+Massachusetts,Dukes,Naur,Naur,Naur
+Massachusetts,Essex,Yes,Naur,Naur
+Massachusetts,Franklin,Naur,Naur,Naur
+Massachusetts,Hampden,Yes,Yes,Naur
+Massachusetts,Hampshire,Yes,Naur,Naur
+Massachusetts,Middlesex,Yes,Naur,Naur
+Massachusetts,Nantucket,Naur,Naur,Naur
+Massachusetts,Norfolk,Yes,Naur,Naur
+Massachusetts,Plymouth,Yes,Naur,Naur
+Massachusetts,Suffolk,Yes,Naur,Naur
+Massachusetts,Worcester,Naur,Naur,Naur
+Michigan,Alcona,Naur,Naur,Naur
+Michigan,Alger,Naur,Naur,Naur
+Michigan,Allegan,Naur,Naur,Naur
+Michigan,Alpena,Naur,Naur,Naur
+Michigan,Antrim,Naur,Naur,Naur
+Michigan,Arenac,Naur,Naur,Naur
+Michigan,Baraga,Naur,Naur,Naur
+Michigan,Barry,Naur,Naur,Naur
+Michigan,Bay,Yes,Naur,Naur
+Michigan,Benzie,Naur,Naur,Naur
+Michigan,Berrien,Naur,Yes,Naur
+Michigan,Branch,Naur,Naur,Naur
+Michigan,Calhoun,Yes,Naur,Naur
+Michigan,Cass,Naur,Naur,Naur
+Michigan,Charlevoix,Naur,Naur,Naur
+Michigan,Cheboygan,Naur,Naur,Naur
+Michigan,Chippewa,Naur,Naur,Naur
+Michigan,Clare,Naur,Naur,Naur
+Michigan,Clinton,Yes,Naur,Naur
+Michigan,Crawford,Naur,Naur,Naur
+Michigan,Delta,Naur,Naur,Naur
+Michigan,Dickinson,Naur,Naur,Naur
+Michigan,Eaton,Yes,Naur,Naur
+Michigan,Emmet,Naur,Naur,Naur
+Michigan,Genesee,Yes,Yes,Naur
+Michigan,Gladwin,Naur,Naur,Naur
+Michigan,Gogebic,Naur,Naur,Naur
+Michigan,Grand Traverse,Naur,Naur,Naur
+Michigan,Gratiot,Naur,Naur,Naur
+Michigan,Hillsdale,Naur,Naur,Naur
+Michigan,Houghton,Naur,Naur,Naur
+Michigan,Huron,Naur,Naur,Naur
+Michigan,Ingham,Yes,Naur,Naur
+Michigan,Ionia,Naur,Naur,Naur
+Michigan,Iosco,Naur,Naur,Naur
+Michigan,Iron,Naur,Naur,Naur
+Michigan,Isabella,Naur,Naur,Naur
+Michigan,Jackson,Yes,Naur,Naur
+Michigan,Kalamazoo,Yes,Naur,Naur
+Michigan,Kalkaska,Naur,Naur,Naur
+Michigan,Kent,Yes,Yes,Naur
+Michigan,Keweenaw,Naur,Naur,Naur
+Michigan,Lake,Naur,Naur,Naur
+Michigan,Lapeer,Naur,Naur,Naur
+Michigan,Leelanau,Naur,Naur,Naur
+Michigan,Lenawee,Naur,Naur,Naur
+Michigan,Livingston,Naur,Naur,Naur
+Michigan,Luce,Naur,Naur,Naur
+Michigan,Mackinac,Naur,Naur,Naur
+Michigan,Macomb,Yes,Naur,Naur
+Michigan,Manistee,Naur,Naur,Naur
+Michigan,Marquette,Naur,Naur,Naur
+Michigan,Mason,Naur,Naur,Naur
+Michigan,Mecosta,Naur,Naur,Naur
+Michigan,Menominee,Naur,Naur,Naur
+Michigan,Midland,Naur,Naur,Naur
+Michigan,Missaukee,Naur,Naur,Naur
+Michigan,Monroe,Yes,Naur,Naur
+Michigan,Montcalm,Naur,Naur,Naur
+Michigan,Montmorency,Naur,Naur,Naur
+Michigan,Muskegon,Yes,Naur,Naur
+Michigan,Newaygo,Naur,Naur,Naur
+Michigan,Oakland,Yes,Yes,Naur
+Michigan,Oceana,Naur,Naur,Naur
+Michigan,Ogemaw,Naur,Naur,Naur
+Michigan,Ontonagon,Naur,Naur,Naur
+Michigan,Osceola,Naur,Naur,Naur
+Michigan,Oscoda,Naur,Naur,Naur
+Michigan,Otsego,Naur,Naur,Naur
+Michigan,Ottawa,Naur,Naur,Naur
+Michigan,Presque Isle,Naur,Naur,Naur
+Michigan,Roscommon,Naur,Naur,Naur
+Michigan,Saginaw,Yes,Naur,Naur
+Michigan,Sanilac,Naur,Naur,Naur
+Michigan,Schoolcraft,Naur,Naur,Naur
+Michigan,Shiawassee,Naur,Naur,Naur
+Michigan,St Clair,Naur,Naur,Naur
+Michigan,St Joseph,Naur,Naur,Naur
+Michigan,Tuscola,Naur,Naur,Naur
+Michigan,Van Buren,Naur,Naur,Naur
+Michigan,Washtenaw,Naur,Naur,Naur
+Michigan,Wayne,Naur,Yes,Yes
+Michigan,Wexford,Naur,Naur,Naur
+Minnesota,Aitkin,Naur,Yes,Naur
+Minnesota,Anoka,Naur,Yes,Naur
+Minnesota,Becker,Naur,Yes,Naur
+Minnesota,Beltrami,Naur,Yes,Naur
+Minnesota,Benton,Naur,Yes,Naur
+Minnesota,Big Stone,Naur,Yes,Naur
+Minnesota,Blue Earth,Naur,Yes,Naur
+Minnesota,Brown,Naur,Yes,Naur
+Minnesota,Carlton,Naur,Yes,Naur
+Minnesota,Carver,Naur,Yes,Naur
+Minnesota,Cass,Naur,Yes,Naur
+Minnesota,Chippewa,Naur,Yes,Naur
+Minnesota,Chisago,Naur,Yes,Naur
+Minnesota,Clay,Naur,Yes,Naur
+Minnesota,Clearwater,Naur,Yes,Naur
+Minnesota,Cook,Naur,Yes,Naur
+Minnesota,Cottonwood,Naur,Yes,Naur
+Minnesota,Crow Wing,Naur,Yes,Naur
+Minnesota,Dakota,Naur,Yes,Naur
+Minnesota,Dodge,Naur,Yes,Naur
+Minnesota,Douglas,Naur,Yes,Naur
+Minnesota,Faribault,Naur,Yes,Naur
+Minnesota,Fillmore,Naur,Yes,Naur
+Minnesota,Freeborn,Naur,Yes,Naur
+Minnesota,Goodhue,Naur,Yes,Naur
+Minnesota,Grant,Naur,Yes,Naur
+Minnesota,Hennepin,Naur,Yes,Yes
+Minnesota,Houston,Naur,Yes,Naur
+Minnesota,Hubbard,Naur,Yes,Naur
+Minnesota,Isanti,Naur,Yes,Naur
+Minnesota,Itasca,Naur,Yes,Naur
+Minnesota,Jackson,Naur,Yes,Naur
+Minnesota,Kanabec,Naur,Yes,Naur
+Minnesota,Kandiyohi,Naur,Yes,Naur
+Minnesota,Kittson,Naur,Yes,Naur
+Minnesota,Koochiching,Naur,Yes,Naur
+Minnesota,Lac Qui Parle,Naur,Yes,Naur
+Minnesota,Lake,Naur,Yes,Naur
+Minnesota,Lake Of The Woods,Naur,Yes,Naur
+Minnesota,Le Sueur,Naur,Yes,Naur
+Minnesota,Lincoln,Naur,Yes,Naur
+Minnesota,Lyon,Naur,Yes,Naur
+Minnesota,Mahnomen,Naur,Yes,Naur
+Minnesota,Marshall,Naur,Yes,Naur
+Minnesota,Martin,Naur,Yes,Naur
+Minnesota,McLeod,Naur,Yes,Naur
+Minnesota,Meeker,Naur,Yes,Naur
+Minnesota,Mille Lacs,Naur,Yes,Naur
+Minnesota,Morrison,Naur,Yes,Naur
+Minnesota,Mower,Naur,Yes,Naur
+Minnesota,Murray,Naur,Yes,Naur
+Minnesota,Nicollet,Naur,Yes,Naur
+Minnesota,Nobles,Naur,Yes,Naur
+Minnesota,Norman,Naur,Yes,Naur
+Minnesota,Olmsted,Yes,Yes,Naur
+Minnesota,Otter Tail,Naur,Yes,Naur
+Minnesota,Pennington,Naur,Yes,Naur
+Minnesota,Pine,Naur,Yes,Naur
+Minnesota,Pipestone,Naur,Yes,Naur
+Minnesota,Polk,Naur,Yes,Naur
+Minnesota,Pope,Naur,Yes,Naur
+Minnesota,Ramsey,Naur,Yes,Yes
+Minnesota,Red Lake,Naur,Yes,Naur
+Minnesota,Redwood,Naur,Yes,Naur
+Minnesota,Renville,Naur,Yes,Naur
+Minnesota,Rice,Naur,Yes,Naur
+Minnesota,Rock,Naur,Yes,Naur
+Minnesota,Roseau,Naur,Yes,Naur
+Minnesota,Scott,Naur,Yes,Naur
+Minnesota,Sherburne,Naur,Yes,Naur
+Minnesota,Sibley,Naur,Yes,Naur
+Minnesota,St Louis,Yes,Yes,Naur
+Minnesota,Stearns,Naur,Yes,Naur
+Minnesota,Steele,Naur,Yes,Naur
+Minnesota,Stevens,Naur,Yes,Naur
+Minnesota,Swift,Naur,Yes,Naur
+Minnesota,Todd,Naur,Yes,Naur
+Minnesota,Traverse,Naur,Yes,Naur
+Minnesota,Wabasha,Naur,Yes,Naur
+Minnesota,Wadena,Naur,Yes,Naur
+Minnesota,Waseca,Naur,Yes,Naur
+Minnesota,Washington,Naur,Yes,Naur
+Minnesota,Watonwan,Naur,Yes,Naur
+Minnesota,Wilkin,Naur,Yes,Naur
+Minnesota,Winona,Naur,Yes,Naur
+Minnesota,Wright,Naur,Yes,Naur
+Minnesota,Yellow Medicine,Naur,Yes,Naur
+Mississippi,Adams,Naur,Yes,Yes
+Mississippi,Alcorn,Naur,Yes,Yes
+Mississippi,Amite,Naur,Yes,Yes
+Mississippi,Attala,Naur,Yes,Yes
+Mississippi,Benton,Naur,Yes,Yes
+Mississippi,Bolivar,Naur,Yes,Yes
+Mississippi,Calhoun,Naur,Yes,Yes
+Mississippi,Carroll,Naur,Yes,Yes
+Mississippi,Chickasaw,Naur,Yes,Yes
+Mississippi,Choctaw,Naur,Yes,Yes
+Mississippi,Claiborne,Naur,Yes,Yes
+Mississippi,Clarke,Naur,Yes,Yes
+Mississippi,Clay,Naur,Yes,Yes
+Mississippi,Coahoma,Naur,Yes,Yes
+Mississippi,Copiah,Naur,Yes,Yes
+Mississippi,Covington,Naur,Yes,Yes
+Mississippi,DeSoto,Naur,Yes,Yes
+Mississippi,Forrest,Naur,Yes,Yes
+Mississippi,Franklin,Naur,Yes,Yes
+Mississippi,George,Naur,Yes,Yes
+Mississippi,Greene,Naur,Yes,Yes
+Mississippi,Grenada,Naur,Yes,Yes
+Mississippi,Hancock,Naur,Yes,Yes
+Mississippi,Harrison,Naur,Yes,Yes
+Mississippi,Hinds,Yes,Yes,Yes
+Mississippi,Holmes,Naur,Yes,Yes
+Mississippi,Humphreys,Naur,Yes,Yes
+Mississippi,Issaquena,Naur,Yes,Yes
+Mississippi,Itawamba,Naur,Yes,Yes
+Mississippi,Jackson,Naur,Yes,Yes
+Mississippi,Jasper,Naur,Yes,Yes
+Mississippi,Jefferson,Naur,Yes,Yes
+Mississippi,Jefferson Davis,Naur,Yes,Yes
+Mississippi,Jones,Naur,Yes,Yes
+Mississippi,Kemper,Naur,Yes,Yes
+Mississippi,Lafayette,Naur,Yes,Yes
+Mississippi,Lamar,Naur,Yes,Yes
+Mississippi,Lauderdale,Naur,Yes,Yes
+Mississippi,Lawrence,Naur,Yes,Yes
+Mississippi,Leake,Naur,Yes,Yes
+Mississippi,Lee,Naur,Yes,Yes
+Mississippi,Leflore,Naur,Yes,Yes
+Mississippi,Lincoln,Naur,Yes,Yes
+Mississippi,Lowndes,Naur,Yes,Yes
+Mississippi,Madison,Naur,Yes,Yes
+Mississippi,Marion,Naur,Yes,Yes
+Mississippi,Marshall,Naur,Yes,Yes
+Mississippi,Monroe,Naur,Yes,Yes
+Mississippi,Montgomery,Naur,Yes,Yes
+Mississippi,Neshoba,Naur,Yes,Yes
+Mississippi,Newton,Naur,Yes,Yes
+Mississippi,Noxubee,Naur,Yes,Yes
+Mississippi,Oktibbeha,Naur,Yes,Yes
+Mississippi,Panola,Naur,Yes,Yes
+Mississippi,Pearl River,Naur,Yes,Yes
+Mississippi,Perry,Naur,Yes,Yes
+Mississippi,Pike,Naur,Yes,Yes
+Mississippi,Pontotoc,Naur,Yes,Yes
+Mississippi,Prentiss,Naur,Yes,Yes
+Mississippi,Quitman,Naur,Yes,Yes
+Mississippi,Rankin,Yes,Yes,Yes
+Mississippi,Scott,Naur,Yes,Yes
+Mississippi,Sharkey,Naur,Yes,Yes
+Mississippi,Simpson,Naur,Yes,Yes
+Mississippi,Smith,Naur,Yes,Yes
+Mississippi,Stone,Naur,Yes,Yes
+Mississippi,Sunflower,Naur,Yes,Yes
+Mississippi,Tallahatchie,Naur,Yes,Yes
+Mississippi,Tate,Naur,Yes,Yes
+Mississippi,Tippah,Naur,Yes,Yes
+Mississippi,Tishomingo,Naur,Yes,Yes
+Mississippi,Tunica,Naur,Yes,Yes
+Mississippi,Union,Naur,Yes,Yes
+Mississippi,Walthall,Naur,Yes,Yes
+Mississippi,Warren,Naur,Yes,Yes
+Mississippi,Washington,Naur,Yes,Yes
+Mississippi,Wayne,Naur,Yes,Yes
+Mississippi,Webster,Naur,Yes,Yes
+Mississippi,Wilkinson,Naur,Yes,Yes
+Mississippi,Winston,Naur,Yes,Yes
+Mississippi,Yalobusha,Naur,Yes,Yes
+Mississippi,Yazoo,Naur,Yes,Yes
+Missouri,Adair,Naur,Naur,Yes
+Missouri,Andrew,Naur,Yes,Yes
+Missouri,Atchison,Naur,Yes,Yes
+Missouri,Audrain,Naur,Naur,Yes
+Missouri,Barry,Naur,Yes,Yes
+Missouri,Barton,Naur,Yes,Yes
+Missouri,Bates,Naur,Yes,Yes
+Missouri,Benton,Naur,Yes,Yes
+Missouri,Bollinger,Naur,Naur,Yes
+Missouri,Boone,Naur,Yes,Yes
+Missouri,Buchanan,Yes,Yes,Yes
+Missouri,Butler,Naur,Naur,Yes
+Missouri,Caldwell,Naur,Yes,Yes
+Missouri,Callaway,Naur,Yes,Yes
+Missouri,Camden,Naur,Yes,Yes
+Missouri,Cape Girardeau,Naur,Naur,Yes
+Missouri,Carroll,Naur,Yes,Yes
+Missouri,Carter,Naur,Naur,Yes
+Missouri,Cass,Naur,Yes,Yes
+Missouri,Cedar,Naur,Yes,Yes
+Missouri,Chariton,Naur,Naur,Yes
+Missouri,Christian,Naur,Yes,Yes
+Missouri,Clark,Naur,Naur,Yes
+Missouri,Clay,Yes,Yes,Yes
+Missouri,Clinton,Naur,Yes,Yes
+Missouri,Cole,Naur,Yes,Yes
+Missouri,Cooper,Naur,Yes,Yes
+Missouri,Crawford,Naur,Naur,Yes
+Missouri,Dade,Naur,Yes,Yes
+Missouri,Dallas,Naur,Yes,Yes
+Missouri,Daviess,Naur,Yes,Yes
+Missouri,DeKalb,Naur,Yes,Yes
+Missouri,Dent,Naur,Naur,Yes
+Missouri,Douglas,Naur,Yes,Yes
+Missouri,Dunklin,Naur,Naur,Yes
+Missouri,Franklin,Naur,Naur,Yes
+Missouri,Gasconade,Naur,Naur,Yes
+Missouri,Gentry,Naur,Yes,Yes
+Missouri,Greene,Yes,Yes,Yes
+Missouri,Grundy,Naur,Yes,Yes
+Missouri,Harrison,Naur,Yes,Yes
+Missouri,Henry,Naur,Yes,Yes
+Missouri,Hickory,Naur,Yes,Yes
+Missouri,Holt,Naur,Yes,Yes
+Missouri,Howard,Naur,Yes,Yes
+Missouri,Howell,Naur,Yes,Yes
+Missouri,Iron,Naur,Naur,Yes
+Missouri,Jackson,Yes,Yes,Yes
+Missouri,Jasper,Naur,Yes,Yes
+Missouri,Jefferson,Naur,Naur,Yes
+Missouri,Johnson,Naur,Yes,Yes
+Missouri,Knox,Naur,Naur,Yes
+Missouri,Laclede,Naur,Yes,Yes
+Missouri,Lafayette,Naur,Yes,Yes
+Missouri,Lawrence,Naur,Yes,Yes
+Missouri,Lewis,Naur,Naur,Yes
+Missouri,Lincoln,Naur,Naur,Yes
+Missouri,Linn,Naur,Naur,Yes
+Missouri,Livingston,Naur,Yes,Yes
+Missouri,Macon,Naur,Naur,Yes
+Missouri,Madison,Naur,Naur,Yes
+Missouri,Maries,Naur,Naur,Yes
+Missouri,Marion,Naur,Naur,Yes
+Missouri,McDonald,Naur,Yes,Yes
+Missouri,Mercer,Naur,Yes,Yes
+Missouri,Miller,Naur,Yes,Yes
+Missouri,Mississippi,Naur,Naur,Yes
+Missouri,Moniteau,Naur,Yes,Yes
+Missouri,Monroe,Naur,Naur,Yes
+Missouri,Montgomery,Naur,Naur,Yes
+Missouri,Morgan,Naur,Yes,Yes
+Missouri,New Madrid,Naur,Naur,Yes
+Missouri,Newton,Naur,Yes,Yes
+Missouri,Nodaway,Naur,Yes,Yes
+Missouri,Oregon,Naur,Yes,Yes
+Missouri,Osage,Naur,Yes,Yes
+Missouri,Ozark,Naur,Yes,Yes
+Missouri,Pemiscot,Naur,Naur,Yes
+Missouri,Perry,Naur,Naur,Yes
+Missouri,Pettis,Naur,Yes,Yes
+Missouri,Phelps,Naur,Naur,Yes
+Missouri,Pike,Naur,Naur,Yes
+Missouri,Platte,Naur,Yes,Yes
+Missouri,Polk,Naur,Yes,Yes
+Missouri,Pulaski,Naur,Yes,Yes
+Missouri,Putnam,Naur,Yes,Yes
+Missouri,Ralls,Naur,Naur,Yes
+Missouri,Randolph,Naur,Naur,Yes
+Missouri,Ray,Naur,Yes,Yes
+Missouri,Reynolds,Naur,Naur,Yes
+Missouri,Ripley,Naur,Naur,Yes
+Missouri,Saline,Naur,Yes,Yes
+Missouri,Schuyler,Naur,Naur,Yes
+Missouri,Scotland,Naur,Naur,Yes
+Missouri,Scott,Naur,Yes,Yes
+Missouri,Shannon,Naur,Naur,Yes
+Missouri,Shelby,Naur,Naur,Yes
+Missouri,St Charles,Naur,Naur,Yes
+Missouri,St Clair,Naur,Yes,Yes
+Missouri,St Francois,Naur,Naur,Yes
+Missouri,St Louis,Yes,Yes,Yes
+Missouri,St Louis City,Yes,Naur,Yes
+Missouri,Ste Genevieve,Naur,Naur,Yes
+Missouri,Stoddard,Naur,Naur,Yes
+Missouri,Stone,Naur,Yes,Yes
+Missouri,Sullivan,Naur,Yes,Yes
+Missouri,Taney,Naur,Yes,Yes
+Missouri,Texas,Naur,Yes,Yes
+Missouri,Vernon,Naur,Yes,Yes
+Missouri,Warren,Naur,Naur,Yes
+Missouri,Washington,Naur,Naur,Yes
+Missouri,Wayne,Naur,Naur,Yes
+Missouri,Webster,Naur,Yes,Yes
+Missouri,Worth,Naur,Yes,Yes
+Missouri,Wright,Naur,Yes,Yes
+Montana,Beaverhead,Naur,Yes,Yes
+Montana,Big Horn,Naur,Yes,Yes
+Montana,Blaine,Naur,Yes,Yes
+Montana,Broadwater,Naur,Yes,Yes
+Montana,Carbon,Naur,Yes,Yes
+Montana,Carter,Naur,Yes,Yes
+Montana,Cascade,Naur,Yes,Yes
+Montana,Chouteau,Naur,Yes,Yes
+Montana,Custer,Naur,Yes,Yes
+Montana,Daniels,Naur,Yes,Yes
+Montana,Dawson,Naur,Yes,Yes
+Montana,Deer Lodge,Naur,Yes,Yes
+Montana,Fallon,Naur,Yes,Yes
+Montana,Fergus,Naur,Yes,Yes
+Montana,Flathead,Naur,Yes,Yes
+Montana,Gallatin,Naur,Yes,Yes
+Montana,Garfield,Naur,Yes,Yes
+Montana,Glacier,Naur,Yes,Yes
+Montana,Golden Valley,Naur,Yes,Yes
+Montana,Granite,Naur,Yes,Yes
+Montana,Hill,Naur,Yes,Yes
+Montana,Jefferson,Naur,Yes,Yes
+Montana,Judith Basin,Naur,Yes,Yes
+Montana,Lake,Naur,Yes,Yes
+Montana,Lewis And Clark,Naur,Yes,Yes
+Montana,Liberty,Naur,Yes,Yes
+Montana,Lincoln,Naur,Yes,Yes
+Montana,Madison,Naur,Yes,Yes
+Montana,McCone,Naur,Yes,Yes
+Montana,Meagher,Naur,Yes,Yes
+Montana,Mineral,Naur,Yes,Yes
+Montana,Missoula,Naur,Yes,Yes
+Montana,Musselshell,Naur,Yes,Yes
+Montana,Park,Naur,Yes,Yes
+Montana,Petroleum,Naur,Yes,Yes
+Montana,Phillips,Naur,Yes,Yes
+Montana,Pondera,Naur,Yes,Yes
+Montana,Powder River,Naur,Yes,Yes
+Montana,Powell,Naur,Yes,Yes
+Montana,Prairie,Naur,Yes,Yes
+Montana,Ravalli,Naur,Yes,Yes
+Montana,Richland,Naur,Yes,Yes
+Montana,Roosevelt,Naur,Yes,Yes
+Montana,Rosebud,Naur,Yes,Yes
+Montana,Sanders,Naur,Yes,Yes
+Montana,Sheridan,Naur,Yes,Yes
+Montana,Silver Bow,Naur,Yes,Yes
+Montana,Stillwater,Naur,Yes,Yes
+Montana,Sweet Grass,Naur,Yes,Yes
+Montana,Teton,Naur,Yes,Yes
+Montana,Toole,Naur,Yes,Yes
+Montana,Treasure,Naur,Yes,Yes
+Montana,Valley,Naur,Yes,Yes
+Montana,Wheatland,Naur,Yes,Yes
+Montana,Wibaux,Naur,Yes,Yes
+Montana,Yellowstone,Naur,Yes,Yes
+Montana,Yellowstone National Park,Naur,Yes,Yes
+Nebraska,Adams,Naur,Yes,Yes
+Nebraska,Antelope,Naur,Yes,Yes
+Nebraska,Arthur,Naur,Yes,Yes
+Nebraska,Banner,Naur,Yes,Yes
+Nebraska,Blaine,Naur,Yes,Yes
+Nebraska,Boone,Naur,Yes,Yes
+Nebraska,Box Butte,Naur,Yes,Yes
+Nebraska,Boyd,Naur,Yes,Yes
+Nebraska,Brown,Naur,Yes,Yes
+Nebraska,Buffalo,Naur,Yes,Yes
+Nebraska,Burt,Naur,Yes,Yes
+Nebraska,Butler,Naur,Yes,Yes
+Nebraska,Cass,Naur,Yes,Yes
+Nebraska,Cedar,Naur,Yes,Yes
+Nebraska,Chase,Naur,Yes,Yes
+Nebraska,Cherry,Naur,Yes,Yes
+Nebraska,Cheyenne,Naur,Yes,Yes
+Nebraska,Clay,Naur,Yes,Yes
+Nebraska,Colfax,Naur,Yes,Yes
+Nebraska,Cuming,Naur,Yes,Yes
+Nebraska,Custer,Naur,Yes,Yes
+Nebraska,Dakota,Naur,Yes,Yes
+Nebraska,Dawes,Naur,Yes,Yes
+Nebraska,Dawson,Naur,Yes,Yes
+Nebraska,Deuel,Naur,Yes,Yes
+Nebraska,Dixon,Naur,Yes,Yes
+Nebraska,Dodge,Naur,Yes,Yes
+Nebraska,Douglas,Yes,Yes,Yes
+Nebraska,Dundy,Naur,Yes,Yes
+Nebraska,Fillmore,Naur,Yes,Yes
+Nebraska,Franklin,Naur,Yes,Yes
+Nebraska,Frontier,Naur,Yes,Yes
+Nebraska,Furnas,Naur,Yes,Yes
+Nebraska,Gage,Naur,Yes,Yes
+Nebraska,Garden,Naur,Yes,Yes
+Nebraska,Garfield,Naur,Yes,Yes
+Nebraska,Gosper,Naur,Yes,Yes
+Nebraska,Grant,Naur,Yes,Yes
+Nebraska,Greeley,Naur,Yes,Yes
+Nebraska,Hall,Naur,Yes,Yes
+Nebraska,Hamilton,Naur,Yes,Yes
+Nebraska,Harlan,Naur,Yes,Yes
+Nebraska,Hayes,Naur,Yes,Yes
+Nebraska,Hitchcock,Naur,Yes,Yes
+Nebraska,Holt,Naur,Yes,Yes
+Nebraska,Hooker,Naur,Yes,Yes
+Nebraska,Howard,Naur,Yes,Yes
+Nebraska,Jefferson,Naur,Yes,Yes
+Nebraska,Johnson,Naur,Yes,Yes
+Nebraska,Kearney,Naur,Yes,Yes
+Nebraska,Keith,Naur,Yes,Yes
+Nebraska,Keya Paha,Naur,Yes,Yes
+Nebraska,Kimball,Naur,Yes,Yes
+Nebraska,Knox,Naur,Yes,Yes
+Nebraska,Lancaster,Naur,Yes,Yes
+Nebraska,Lincoln,Naur,Yes,Yes
+Nebraska,Logan,Naur,Yes,Yes
+Nebraska,Loup,Naur,Yes,Yes
+Nebraska,Madison,Naur,Yes,Yes
+Nebraska,McPherson,Naur,Yes,Yes
+Nebraska,Merrick,Naur,Yes,Yes
+Nebraska,Morrill,Naur,Yes,Yes
+Nebraska,Nance,Naur,Yes,Yes
+Nebraska,Nemaha,Naur,Yes,Yes
+Nebraska,Nuckolls,Naur,Yes,Yes
+Nebraska,Otoe,Naur,Yes,Yes
+Nebraska,Pawnee,Naur,Yes,Yes
+Nebraska,Perkins,Naur,Yes,Yes
+Nebraska,Phelps,Naur,Yes,Yes
+Nebraska,Pierce,Naur,Yes,Yes
+Nebraska,Platte,Naur,Yes,Yes
+Nebraska,Polk,Naur,Yes,Yes
+Nebraska,Red Willow,Naur,Yes,Yes
+Nebraska,Richardson,Naur,Yes,Yes
+Nebraska,Rock,Naur,Yes,Yes
+Nebraska,Saline,Naur,Yes,Yes
+Nebraska,Sarpy,Yes,Yes,Yes
+Nebraska,Saunders,Naur,Yes,Yes
+Nebraska,Scotts Bluff,Naur,Yes,Yes
+Nebraska,Seward,Naur,Yes,Yes
+Nebraska,Sheridan,Naur,Yes,Yes
+Nebraska,Sherman,Naur,Yes,Yes
+Nebraska,Sioux,Naur,Yes,Yes
+Nebraska,Stanton,Naur,Yes,Yes
+Nebraska,Thayer,Naur,Yes,Yes
+Nebraska,Thomas,Naur,Yes,Yes
+Nebraska,Thurston,Naur,Yes,Yes
+Nebraska,Valley,Naur,Yes,Yes
+Nebraska,Washington,Naur,Yes,Yes
+Nebraska,Wayne,Naur,Yes,Yes
+Nebraska,Webster,Naur,Yes,Yes
+Nebraska,Wheeler,Naur,Yes,Yes
+Nebraska,York,Naur,Yes,Yes
+Nevada,Carson City,Naur,Yes,Naur
+Nevada,Churchill,Naur,Yes,Naur
+Nevada,Clark,Naur,Yes,Yes
+Nevada,Douglas,Naur,Yes,Naur
+Nevada,Elko,Naur,Yes,Naur
+Nevada,Esmeralda,Naur,Yes,Naur
+Nevada,Eureka,Naur,Yes,Naur
+Nevada,Humboldt,Naur,Yes,Naur
+Nevada,Lander,Naur,Yes,Naur
+Nevada,Lincoln,Naur,Yes,Naur
+Nevada,Lyon,Naur,Yes,Naur
+Nevada,Mineral,Naur,Yes,Naur
+Nevada,Nye,Naur,Yes,Naur
+Nevada,Ormsby,Naur,Yes,Naur
+Nevada,Pershing,Naur,Yes,Naur
+Nevada,Storey,Naur,Yes,Naur
+Nevada,Washoe,Naur,Yes,Naur
+Nevada,White Pine,Naur,Yes,Naur
+New Hampshire,Belknap,Naur,Yes,Yes
+New Hampshire,Carroll,Naur,Yes,Yes
+New Hampshire,Cheshire,Naur,Yes,Yes
+New Hampshire,Coos,Naur,Yes,Yes
+New Hampshire,Grafton,Naur,Yes,Yes
+New Hampshire,Hillsborough,Yes,Yes,Yes
+New Hampshire,Merrimack,Yes,Yes,Yes
+New Hampshire,Rockingham,Naur,Yes,Yes
+New Hampshire,Strafford,Naur,Yes,Yes
+New Hampshire,Sullivan,Naur,Yes,Yes
+New Jersey,Atlantic,Yes,Yes,Naur
+New Jersey,Bergen,Yes,Yes,Naur
+New Jersey,Burlington,Naur,Yes,Yes
+New Jersey,Camden,Yes,Yes,Naur
+New Jersey,Cape May,Naur,Yes,Naur
+New Jersey,Cumberland,Naur,Yes,Naur
+New Jersey,Essex,Yes,Yes,Yes
+New Jersey,Gloucester,Naur,Yes,Naur
+New Jersey,Hudson,Yes,Yes,Naur
+New Jersey,Hunterdon,Naur,Yes,Naur
+New Jersey,Mercer,Yes,Yes,Naur
+New Jersey,Middlesex,Yes,Yes,Naur
+New Jersey,Monmouth,Naur,Yes,Naur
+New Jersey,Morris,Yes,Yes,Naur
+New Jersey,Ocean,Naur,Yes,Naur
+New Jersey,Passaic,Yes,Yes,Naur
+New Jersey,Salem,Naur,Yes,Naur
+New Jersey,Somerset,Yes,Yes,Naur
+New Jersey,Sussex,Naur,Yes,Naur
+New Jersey,Union,Yes,Yes,Yes
+New Jersey,Warren,Naur,Yes,Naur
+New Mexico,Bernalillo,Naur,Yes,Yes
+New Mexico,Catron,Naur,Yes,Yes
+New Mexico,Chaves,Naur,Yes,Yes
+New Mexico,Cibola,Naur,Yes,Yes
+New Mexico,Colfax,Naur,Yes,Yes
+New Mexico,Curry,Naur,Yes,Yes
+New Mexico,De Baca,Naur,Yes,Yes
+New Mexico,Dona Ana,Naur,Yes,Yes
+New Mexico,Eddy,Naur,Yes,Yes
+New Mexico,Grant,Naur,Yes,Yes
+New Mexico,Guadalupe,Naur,Yes,Yes
+New Mexico,Harding,Naur,Yes,Yes
+New Mexico,Hidalgo,Naur,Yes,Yes
+New Mexico,Lea,Naur,Yes,Yes
+New Mexico,Lincoln,Naur,Yes,Yes
+New Mexico,Los Alamos,Naur,Yes,Yes
+New Mexico,Luna,Naur,Yes,Yes
+New Mexico,McKinley,Naur,Yes,Yes
+New Mexico,Mora,Naur,Yes,Yes
+New Mexico,Otero,Naur,Yes,Yes
+New Mexico,Quay,Naur,Yes,Yes
+New Mexico,Rio Arriba,Naur,Yes,Yes
+New Mexico,Roosevelt,Naur,Yes,Yes
+New Mexico,San Juan,Naur,Yes,Yes
+New Mexico,San Miguel,Naur,Yes,Yes
+New Mexico,Sandoval,Naur,Yes,Yes
+New Mexico,Santa Fe,Naur,Yes,Yes
+New Mexico,Sierra,Naur,Yes,Yes
+New Mexico,Socorro,Naur,Yes,Yes
+New Mexico,Taos,Naur,Yes,Yes
+New Mexico,Torrance,Naur,Yes,Yes
+New Mexico,Union,Naur,Yes,Yes
+New Mexico,Valencia,Naur,Yes,Yes
+New York,Albany,Yes,Yes,Yes
+New York,Allegany,Naur,Yes,Yes
+New York,Bronx,Yes,Naur,Yes
+New York,Broome,Yes,Yes,Yes
+New York,Cattaraugus,Naur,Yes,Yes
+New York,Cayuga,Naur,Yes,Yes
+New York,Chautauqua,Naur,Yes,Yes
+New York,Chemung,Yes,Yes,Yes
+New York,Chenango,Naur,Yes,Yes
+New York,Clinton,Naur,Yes,Yes
+New York,Columbia,Naur,Yes,Yes
+New York,Cortland,Naur,Yes,Yes
+New York,Delaware,Naur,Yes,Yes
+New York,Dutchess,Yes,Naur,Yes
+New York,Erie,Yes,Yes,Yes
+New York,Essex,Naur,Yes,Yes
+New York,Franklin,Naur,Yes,Yes
+New York,Fulton,Naur,Yes,Yes
+New York,Genesee,Naur,Yes,Yes
+New York,Greene,Naur,Yes,Yes
+New York,Hamilton,Naur,Yes,Yes
+New York,Herkimer,Yes,Yes,Yes
+New York,Jefferson,Naur,Yes,Yes
+New York,Kings,Yes,Naur,Yes
+New York,Lewis,Naur,Yes,Yes
+New York,Livingston,Naur,Yes,Yes
+New York,Madison,Naur,Yes,Yes
+New York,Monroe,Yes,Yes,Yes
+New York,Montgomery,Naur,Yes,Yes
+New York,Nassau,Yes,Yes,Yes
+New York,New York,Yes,Naur,Yes
+New York,Niagara,Yes,Yes,Yes
+New York,Oneida,Yes,Yes,Yes
+New York,Onondaga,Yes,Yes,Yes
+New York,Ontario,Naur,Yes,Yes
+New York,Orange,Naur,Naur,Yes
+New York,Orleans,Naur,Yes,Yes
+New York,Oswego,Naur,Yes,Yes
+New York,Otsego,Naur,Yes,Yes
+New York,Putnam,Naur,Naur,Yes
+New York,Queens,Yes,Yes,Yes
+New York,Rensselaer,Yes,Yes,Yes
+New York,Richmond,Yes,Naur,Yes
+New York,Rockland,Naur,Yes,Yes
+New York,Saratoga,Yes,Yes,Yes
+New York,Schenectady,Yes,Yes,Yes
+New York,Schoharie,Naur,Yes,Yes
+New York,Schuyler,Naur,Yes,Yes
+New York,Seneca,Naur,Yes,Yes
+New York,St Lawrence,Naur,Yes,Yes
+New York,Steuben,Naur,Yes,Yes
+New York,Suffolk,Naur,Yes,Yes
+New York,Sullivan,Naur,Naur,Yes
+New York,Tioga,Naur,Yes,Yes
+New York,Tompkins,Naur,Yes,Yes
+New York,Ulster,Naur,Yes,Yes
+New York,Warren,Naur,Yes,Yes
+New York,Washington,Naur,Yes,Yes
+New York,Wayne,Naur,Yes,Yes
+New York,Westchester,Yes,Yes,Yes
+New York,Wyoming,Naur,Yes,Yes
+New York,Yates,Naur,Yes,Yes
+North Carolina,Alamance,Naur,Naur,Yes
+North Carolina,Alexander,Naur,Yes,Yes
+North Carolina,Alleghany,Naur,Yes,Yes
+North Carolina,Anson,Naur,Yes,Yes
+North Carolina,Ashe,Naur,Yes,Yes
+North Carolina,Avery,Naur,Yes,Yes
+North Carolina,Beaufort,Naur,Yes,Yes
+North Carolina,Bertie,Naur,Yes,Yes
+North Carolina,Bladen,Naur,Yes,Yes
+North Carolina,Brunswick,Naur,Yes,Yes
+North Carolina,Buncombe,Naur,Yes,Yes
+North Carolina,Burke,Naur,Yes,Yes
+North Carolina,Cabarrus,Naur,Naur,Yes
+North Carolina,Caldwell,Naur,Yes,Yes
+North Carolina,Camden,Naur,Yes,Yes
+North Carolina,Carteret,Naur,Yes,Yes
+North Carolina,Caswell,Naur,Naur,Yes
+North Carolina,Catawba,Naur,Yes,Yes
+North Carolina,Chatham,Naur,Naur,Yes
+North Carolina,Cherokee,Naur,Yes,Yes
+North Carolina,Chowan,Naur,Yes,Yes
+North Carolina,Clay,Naur,Yes,Yes
+North Carolina,Cleveland,Naur,Yes,Yes
+North Carolina,Columbus,Naur,Yes,Yes
+North Carolina,Craven,Naur,Yes,Yes
+North Carolina,Cumberland,Naur,Yes,Yes
+North Carolina,Currituck,Naur,Yes,Yes
+North Carolina,Dare,Naur,Yes,Yes
+North Carolina,Davidson,Naur,Naur,Yes
+North Carolina,Davie,Naur,Naur,Yes
+North Carolina,Duplin,Naur,Yes,Yes
+North Carolina,Durham,Yes,Naur,Yes
+North Carolina,Edgecombe,Naur,Yes,Yes
+North Carolina,Forsyth,Yes,Naur,Yes
+North Carolina,Franklin,Naur,Yes,Yes
+North Carolina,Gaston,Naur,Yes,Yes
+North Carolina,Gates,Naur,Yes,Yes
+North Carolina,Graham,Naur,Yes,Yes
+North Carolina,Granville,Naur,Yes,Yes
+North Carolina,Greene,Naur,Yes,Yes
+North Carolina,Guilford,Yes,Naur,Yes
+North Carolina,Halifax,Naur,Yes,Yes
+North Carolina,Harnett,Naur,Yes,Yes
+North Carolina,Haywood,Naur,Yes,Yes
+North Carolina,Henderson,Naur,Yes,Yes
+North Carolina,Hertford,Naur,Yes,Yes
+North Carolina,Hoke,Naur,Naur,Yes
+North Carolina,Hyde,Naur,Yes,Yes
+North Carolina,Iredell,Naur,Yes,Yes
+North Carolina,Jackson,Naur,Yes,Yes
+North Carolina,Johnston,Naur,Yes,Yes
+North Carolina,Jones,Naur,Yes,Yes
+North Carolina,Lee,Naur,Naur,Yes
+North Carolina,Lenoir,Naur,Yes,Yes
+North Carolina,Lincoln,Naur,Yes,Yes
+North Carolina,Macon,Naur,Yes,Yes
+North Carolina,Madison,Naur,Yes,Yes
+North Carolina,Martin,Naur,Yes,Yes
+North Carolina,McDowell,Naur,Yes,Yes
+North Carolina,Mecklenburg,Yes,Yes,Yes
+North Carolina,Mitchell,Naur,Yes,Yes
+North Carolina,Montgomery,Naur,Naur,Yes
+North Carolina,Moore,Naur,Yes,Yes
+North Carolina,Nash,Naur,Yes,Yes
+North Carolina,New Hanover,Naur,Yes,Yes
+North Carolina,Northampton,Naur,Yes,Yes
+North Carolina,Onslow,Naur,Yes,Yes
+North Carolina,Orange,Naur,Naur,Yes
+North Carolina,Pamlico,Naur,Yes,Yes
+North Carolina,Pasquotank,Naur,Yes,Yes
+North Carolina,Pender,Naur,Yes,Yes
+North Carolina,Perquimans,Naur,Yes,Yes
+North Carolina,Person,Naur,Naur,Yes
+North Carolina,Pitt,Naur,Yes,Yes
+North Carolina,Polk,Naur,Yes,Yes
+North Carolina,Randolph,Naur,Naur,Yes
+North Carolina,Richmond,Naur,Yes,Yes
+North Carolina,Robeson,Naur,Yes,Yes
+North Carolina,Rockingham,Naur,Naur,Yes
+North Carolina,Rowan,Naur,Yes,Yes
+North Carolina,Rutherford,Naur,Yes,Yes
+North Carolina,Sampson,Naur,Yes,Yes
+North Carolina,Scotland,Naur,Naur,Yes
+North Carolina,Stanly,Naur,Naur,Yes
+North Carolina,Stokes,Naur,Naur,Yes
+North Carolina,Surry,Naur,Naur,Yes
+North Carolina,Swain,Naur,Yes,Yes
+North Carolina,Transylvania,Naur,Yes,Yes
+North Carolina,Tyrrell,Naur,Yes,Yes
+North Carolina,Union,Naur,Yes,Yes
+North Carolina,Vance,Naur,Yes,Yes
+North Carolina,Wake,Naur,Yes,Yes
+North Carolina,Warren,Naur,Yes,Yes
+North Carolina,Washington,Naur,Yes,Yes
+North Carolina,Watauga,Naur,Yes,Yes
+North Carolina,Wayne,Naur,Yes,Yes
+North Carolina,Wilkes,Naur,Yes,Yes
+North Carolina,Wilson,Naur,Yes,Yes
+North Carolina,Yadkin,Naur,Naur,Yes
+North Carolina,Yancey,Naur,Yes,Yes
+North Dakota,Adams,Naur,Yes,Yes
+North Dakota,Barnes,Naur,Yes,Yes
+North Dakota,Benson,Naur,Yes,Yes
+North Dakota,Billings,Naur,Yes,Yes
+North Dakota,Bottineau,Naur,Yes,Yes
+North Dakota,Bowman,Naur,Yes,Yes
+North Dakota,Burke,Naur,Yes,Yes
+North Dakota,Burleigh,Naur,Yes,Yes
+North Dakota,Cass,Naur,Yes,Yes
+North Dakota,Cavalier,Naur,Yes,Yes
+North Dakota,Dickey,Naur,Yes,Yes
+North Dakota,Divide,Naur,Yes,Yes
+North Dakota,Dunn,Naur,Yes,Yes
+North Dakota,Eddy,Naur,Yes,Yes
+North Dakota,Emmons,Naur,Yes,Yes
+North Dakota,Foster,Naur,Yes,Yes
+North Dakota,Golden Valley,Naur,Yes,Yes
+North Dakota,Grand Forks,Naur,Yes,Yes
+North Dakota,Grant,Naur,Yes,Yes
+North Dakota,Griggs,Naur,Yes,Yes
+North Dakota,Hettinger,Naur,Yes,Yes
+North Dakota,Kidder,Naur,Yes,Yes
+North Dakota,LaMoure,Naur,Yes,Yes
+North Dakota,Logan,Naur,Yes,Yes
+North Dakota,McHenry,Naur,Yes,Yes
+North Dakota,McIntosh,Naur,Yes,Yes
+North Dakota,McKenzie,Naur,Yes,Yes
+North Dakota,McLean,Naur,Yes,Yes
+North Dakota,Mercer,Naur,Yes,Yes
+North Dakota,Morton,Naur,Yes,Yes
+North Dakota,Mountrail,Naur,Yes,Yes
+North Dakota,Nelson,Naur,Yes,Yes
+North Dakota,Oliver,Naur,Yes,Yes
+North Dakota,Pembina,Naur,Yes,Yes
+North Dakota,Pierce,Naur,Yes,Yes
+North Dakota,Ramsey,Naur,Yes,Yes
+North Dakota,Ransom,Naur,Yes,Yes
+North Dakota,Renville,Naur,Yes,Yes
+North Dakota,Richland,Naur,Yes,Yes
+North Dakota,Rolette,Naur,Yes,Yes
+North Dakota,Sargent,Naur,Yes,Yes
+North Dakota,Sheridan,Naur,Yes,Yes
+North Dakota,Sioux,Naur,Yes,Yes
+North Dakota,Slope,Naur,Yes,Yes
+North Dakota,Stark,Naur,Yes,Yes
+North Dakota,Steele,Naur,Yes,Yes
+North Dakota,Stutsman,Naur,Yes,Yes
+North Dakota,Towner,Naur,Yes,Yes
+North Dakota,Traill,Naur,Yes,Yes
+North Dakota,Walsh,Naur,Yes,Yes
+North Dakota,Ward,Naur,Yes,Yes
+North Dakota,Wells,Naur,Yes,Yes
+North Dakota,Williams,Naur,Yes,Yes
+Ohio,Adams,Naur,Naur,Yes
+Ohio,Allen,Yes,Naur,Yes
+Ohio,Ashland,Naur,Naur,Yes
+Ohio,Ashtabula,Naur,Naur,Yes
+Ohio,Athens,Naur,Naur,Yes
+Ohio,Auglaize,Naur,Naur,Yes
+Ohio,Belmont,Naur,Naur,Yes
+Ohio,Brown,Naur,Naur,Yes
+Ohio,Butler,Yes,Naur,Yes
+Ohio,Carroll,Naur,Naur,Yes
+Ohio,Champaign,Naur,Naur,Yes
+Ohio,Clark,Yes,Naur,Yes
+Ohio,Clermont,Naur,Naur,Yes
+Ohio,Clinton,Naur,Naur,Yes
+Ohio,Columbiana,Naur,Naur,Yes
+Ohio,Coshocton,Naur,Naur,Yes
+Ohio,Crawford,Naur,Naur,Yes
+Ohio,Cuyahoga,Naur,Yes,Yes
+Ohio,Darke,Naur,Naur,Yes
+Ohio,Defiance,Naur,Naur,Yes
+Ohio,Delaware,Naur,Naur,Yes
+Ohio,Erie,Naur,Naur,Yes
+Ohio,Fairfield,Naur,Naur,Yes
+Ohio,Fayette,Naur,Naur,Yes
+Ohio,Franklin,Yes,Yes,Yes
+Ohio,Fulton,Naur,Naur,Yes
+Ohio,Gallia,Naur,Naur,Yes
+Ohio,Geauga,Naur,Naur,Yes
+Ohio,Greene,Naur,Naur,Yes
+Ohio,Guernsey,Naur,Naur,Yes
+Ohio,Hamilton,Naur,Yes,Yes
+Ohio,Hancock,Naur,Naur,Yes
+Ohio,Hardin,Naur,Naur,Yes
+Ohio,Harrison,Naur,Naur,Yes
+Ohio,Henry,Naur,Naur,Yes
+Ohio,Highland,Naur,Naur,Yes
+Ohio,Hocking,Naur,Naur,Yes
+Ohio,Holmes,Naur,Naur,Yes
+Ohio,Huron,Naur,Naur,Yes
+Ohio,Jackson,Naur,Naur,Yes
+Ohio,Jefferson,Naur,Naur,Yes
+Ohio,Knox,Naur,Naur,Yes
+Ohio,Lake,Naur,Naur,Yes
+Ohio,Lawrence,Naur,Naur,Yes
+Ohio,Licking,Naur,Naur,Yes
+Ohio,Logan,Naur,Naur,Yes
+Ohio,Lorain,Yes,Yes,Yes
+Ohio,Lucas,Yes,Naur,Yes
+Ohio,Madison,Naur,Naur,Yes
+Ohio,Mahoning,Yes,Naur,Yes
+Ohio,Marion,Naur,Naur,Yes
+Ohio,Medina,Naur,Naur,Yes
+Ohio,Meigs,Naur,Naur,Yes
+Ohio,Mercer,Naur,Naur,Yes
+Ohio,Miami,Naur,Naur,Yes
+Ohio,Monroe,Naur,Naur,Yes
+Ohio,Montgomery,Naur,Yes,Yes
+Ohio,Morgan,Naur,Naur,Yes
+Ohio,Morrow,Naur,Naur,Yes
+Ohio,Muskingum,Naur,Naur,Yes
+Ohio,Noble,Naur,Naur,Yes
+Ohio,Ottawa,Naur,Naur,Yes
+Ohio,Paulding,Naur,Naur,Yes
+Ohio,Perry,Naur,Naur,Yes
+Ohio,Pickaway,Naur,Naur,Yes
+Ohio,Pike,Naur,Naur,Yes
+Ohio,Portage,Naur,Naur,Yes
+Ohio,Preble,Naur,Naur,Yes
+Ohio,Putnam,Naur,Naur,Yes
+Ohio,Richland,Naur,Naur,Yes
+Ohio,Ross,Naur,Naur,Yes
+Ohio,Sandusky,Naur,Naur,Yes
+Ohio,Scioto,Yes,Naur,Yes
+Ohio,Seneca,Naur,Naur,Yes
+Ohio,Shelby,Naur,Naur,Yes
+Ohio,Stark,Yes,Naur,Yes
+Ohio,Summit,Yes,Naur,Yes
+Ohio,Trumbull,Yes,Naur,Yes
+Ohio,Tuscarawas,Naur,Naur,Yes
+Ohio,Union,Naur,Naur,Yes
+Ohio,Van Wert,Naur,Naur,Yes
+Ohio,Vinton,Naur,Naur,Yes
+Ohio,Warren,Naur,Naur,Yes
+Ohio,Washington,Naur,Naur,Yes
+Ohio,Wayne,Naur,Naur,Yes
+Ohio,Williams,Naur,Naur,Yes
+Ohio,Wood,Yes,Naur,Yes
+Ohio,Wyandot,Naur,Naur,Yes
+Oklahoma,Adair,Naur,Yes,Naur
+Oklahoma,Alfalfa,Naur,Yes,Naur
+Oklahoma,Atoka,Naur,Yes,Naur
+Oklahoma,Beaver,Naur,Yes,Naur
+Oklahoma,Beckham,Naur,Yes,Naur
+Oklahoma,Blaine,Naur,Yes,Naur
+Oklahoma,Bryan,Naur,Yes,Naur
+Oklahoma,Caddo,Naur,Yes,Naur
+Oklahoma,Canadian,Naur,Yes,Naur
+Oklahoma,Carter,Naur,Yes,Naur
+Oklahoma,Cherokee,Naur,Yes,Naur
+Oklahoma,Choctaw,Naur,Yes,Naur
+Oklahoma,Cimarron,Naur,Yes,Naur
+Oklahoma,Cleveland,Naur,Yes,Naur
+Oklahoma,Coal,Naur,Yes,Naur
+Oklahoma,Comanche,Naur,Yes,Yes
+Oklahoma,Cotton,Naur,Yes,Naur
+Oklahoma,Craig,Naur,Yes,Naur
+Oklahoma,Creek,Naur,Yes,Naur
+Oklahoma,Custer,Naur,Yes,Naur
+Oklahoma,Delaware,Naur,Yes,Naur
+Oklahoma,Dewey,Naur,Yes,Naur
+Oklahoma,Ellis,Naur,Yes,Naur
+Oklahoma,Garfield,Naur,Yes,Naur
+Oklahoma,Garvin,Naur,Yes,Naur
+Oklahoma,Grady,Naur,Yes,Naur
+Oklahoma,Grant,Naur,Yes,Naur
+Oklahoma,Greer,Naur,Yes,Naur
+Oklahoma,Harmon,Naur,Yes,Naur
+Oklahoma,Harper,Naur,Yes,Naur
+Oklahoma,Haskell,Naur,Yes,Naur
+Oklahoma,Hughes,Naur,Yes,Naur
+Oklahoma,Jackson,Naur,Yes,Naur
+Oklahoma,Jefferson,Naur,Yes,Naur
+Oklahoma,Johnston,Naur,Yes,Naur
+Oklahoma,Kay,Naur,Yes,Naur
+Oklahoma,Kingfisher,Naur,Yes,Naur
+Oklahoma,Kiowa,Naur,Yes,Naur
+Oklahoma,Latimer,Naur,Yes,Naur
+Oklahoma,Le Flore,Naur,Yes,Naur
+Oklahoma,Lincoln,Naur,Yes,Naur
+Oklahoma,Logan,Naur,Yes,Naur
+Oklahoma,Love,Naur,Yes,Naur
+Oklahoma,Major,Naur,Yes,Naur
+Oklahoma,Marshall,Naur,Yes,Naur
+Oklahoma,Mayes,Naur,Yes,Naur
+Oklahoma,McClain,Naur,Yes,Naur
+Oklahoma,McCurtain,Naur,Yes,Naur
+Oklahoma,McIntosh,Naur,Yes,Naur
+Oklahoma,Murray,Naur,Yes,Naur
+Oklahoma,Muskogee,Naur,Yes,Naur
+Oklahoma,Noble,Naur,Yes,Naur
+Oklahoma,Nowata,Naur,Yes,Naur
+Oklahoma,Okfuskee,Naur,Yes,Naur
+Oklahoma,Oklahoma,Yes,Yes,Yes
+Oklahoma,Okmulgee,Naur,Yes,Naur
+Oklahoma,Osage,Yes,Yes,Naur
+Oklahoma,Ottawa,Naur,Yes,Naur
+Oklahoma,Pawnee,Naur,Yes,Naur
+Oklahoma,Payne,Naur,Yes,Naur
+Oklahoma,Pittsburg,Naur,Yes,Naur
+Oklahoma,Pontotoc,Naur,Yes,Naur
+Oklahoma,Pottawatomie,Naur,Yes,Naur
+Oklahoma,Pushmataha,Naur,Yes,Naur
+Oklahoma,Roger Mills,Naur,Yes,Naur
+Oklahoma,Rogers,Naur,Yes,Naur
+Oklahoma,Seminole,Naur,Yes,Naur
+Oklahoma,Sequoyah,Naur,Yes,Naur
+Oklahoma,Stephens,Naur,Yes,Naur
+Oklahoma,Texas,Naur,Yes,Naur
+Oklahoma,Tillman,Naur,Yes,Naur
+Oklahoma,Tulsa,Yes,Yes,Naur
+Oklahoma,Wagoner,Naur,Yes,Naur
+Oklahoma,Washington,Naur,Yes,Naur
+Oklahoma,Washita,Naur,Yes,Naur
+Oklahoma,Woods,Naur,Yes,Naur
+Oklahoma,Woodward,Naur,Yes,Naur
+Oregon,Baker,Naur,Yes,Naur
+Oregon,Benton,Naur,Yes,Naur
+Oregon,Clackamas,Yes,Yes,Naur
+Oregon,Clatsop,Naur,Yes,Naur
+Oregon,Columbia,Naur,Yes,Naur
+Oregon,Coos,Naur,Yes,Naur
+Oregon,Crook,Naur,Yes,Naur
+Oregon,Curry,Naur,Yes,Naur
+Oregon,Deschutes,Naur,Yes,Naur
+Oregon,Douglas,Naur,Yes,Naur
+Oregon,Gilliam,Naur,Yes,Naur
+Oregon,Grant,Naur,Yes,Naur
+Oregon,Harney,Naur,Yes,Naur
+Oregon,Hood River,Naur,Yes,Naur
+Oregon,Jackson,Naur,Yes,Naur
+Oregon,Jefferson,Naur,Yes,Naur
+Oregon,Josephine,Naur,Yes,Naur
+Oregon,Klamath,Naur,Yes,Naur
+Oregon,Lake,Naur,Yes,Naur
+Oregon,Lane,Naur,Yes,Naur
+Oregon,Lincoln,Naur,Yes,Naur
+Oregon,Linn,Naur,Yes,Naur
+Oregon,Malheur,Naur,Yes,Naur
+Oregon,Marion,Naur,Yes,Naur
+Oregon,Morrow,Naur,Yes,Naur
+Oregon,Multnomah,Naur,Yes,Naur
+Oregon,Polk,Naur,Yes,Naur
+Oregon,Sherman,Naur,Yes,Naur
+Oregon,Tillamook,Naur,Yes,Naur
+Oregon,Umatilla,Naur,Yes,Naur
+Oregon,Union,Naur,Yes,Naur
+Oregon,Wallowa,Naur,Yes,Naur
+Oregon,Wasco,Naur,Yes,Naur
+Oregon,Washington,Naur,Yes,Naur
+Oregon,Wheeler,Naur,Yes,Naur
+Oregon,Yamhill,Naur,Yes,Naur
+Pennsylvania,Adams,Naur,Yes,Yes
+Pennsylvania,Allegheny,Yes,Yes,Yes
+Pennsylvania,Armstrong,Naur,Naur,Yes
+Pennsylvania,Beaver,Yes,Naur,Yes
+Pennsylvania,Bedford,Naur,Naur,Yes
+Pennsylvania,Berks,Naur,Naur,Yes
+Pennsylvania,Blair,Yes,Naur,Yes
+Pennsylvania,Bradford,Naur,Yes,Yes
+Pennsylvania,Bucks,Yes,Naur,Yes
+Pennsylvania,Butler,Naur,Naur,Yes
+Pennsylvania,Cambria,Yes,Naur,Yes
+Pennsylvania,Cameron,Naur,Yes,Yes
+Pennsylvania,Carbon,Naur,Yes,Yes
+Pennsylvania,Centre,Naur,Yes,Yes
+Pennsylvania,Chester,Naur,Naur,Yes
+Pennsylvania,Clarion,Naur,Naur,Yes
+Pennsylvania,Clearfield,Naur,Naur,Yes
+Pennsylvania,Clinton,Naur,Yes,Yes
+Pennsylvania,Columbia,Naur,Yes,Yes
+Pennsylvania,Crawford,Naur,Naur,Yes
+Pennsylvania,Cumberland,Yes,Yes,Yes
+Pennsylvania,Dauphin,Yes,Yes,Yes
+Pennsylvania,Delaware,Yes,Naur,Yes
+Pennsylvania,Elk,Naur,Naur,Yes
+Pennsylvania,Erie,Yes,Yes,Yes
+Pennsylvania,Fayette,Naur,Naur,Yes
+Pennsylvania,Forest,Naur,Naur,Yes
+Pennsylvania,Franklin,Naur,Yes,Yes
+Pennsylvania,Fulton,Naur,Yes,Yes
+Pennsylvania,Greene,Naur,Naur,Yes
+Pennsylvania,Huntingdon,Naur,Yes,Yes
+Pennsylvania,Indiana,Naur,Naur,Yes
+Pennsylvania,Jefferson,Naur,Naur,Yes
+Pennsylvania,Juniata,Naur,Yes,Yes
+Pennsylvania,Lackawanna,Naur,Yes,Yes
+Pennsylvania,Lancaster,Yes,Naur,Yes
+Pennsylvania,Lawrence,Yes,Naur,Yes
+Pennsylvania,Lebanon,Naur,Yes,Yes
+Pennsylvania,Lehigh,Yes,Naur,Yes
+Pennsylvania,Luzerne,Yes,Yes,Yes
+Pennsylvania,Lycoming,Naur,Yes,Yes
+Pennsylvania,McKean,Naur,Naur,Yes
+Pennsylvania,Mercer,Naur,Naur,Yes
+Pennsylvania,Mifflin,Naur,Yes,Yes
+Pennsylvania,Monroe,Naur,Yes,Yes
+Pennsylvania,Montgomery,Yes,Naur,Yes
+Pennsylvania,Montour,Naur,Yes,Yes
+Pennsylvania,Northampton,Yes,Naur,Yes
+Pennsylvania,Northumberland,Naur,Yes,Yes
+Pennsylvania,Perry,Naur,Yes,Yes
+Pennsylvania,Philadelphia,Yes,Naur,Yes
+Pennsylvania,Pike,Naur,Yes,Yes
+Pennsylvania,Potter,Naur,Yes,Yes
+Pennsylvania,Schuylkill,Naur,Yes,Yes
+Pennsylvania,Snyder,Naur,Yes,Yes
+Pennsylvania,Somerset,Naur,Naur,Yes
+Pennsylvania,Sullivan,Naur,Yes,Yes
+Pennsylvania,Susquehanna,Naur,Yes,Yes
+Pennsylvania,Tioga,Naur,Yes,Yes
+Pennsylvania,Union,Naur,Yes,Yes
+Pennsylvania,Venango,Naur,Naur,Yes
+Pennsylvania,Warren,Naur,Naur,Yes
+Pennsylvania,Washington,Naur,Naur,Yes
+Pennsylvania,Wayne,Naur,Yes,Yes
+Pennsylvania,Westmoreland,Naur,Naur,Yes
+Pennsylvania,Wyoming,Naur,Yes,Yes
+Pennsylvania,York,Yes,Yes,Yes
+Puerto Rico,Adjuntas Municipio,Naur,Yes,Yes
+Puerto Rico,Aguada Municipio,Naur,Yes,Yes
+Puerto Rico,Aguadilla Municipio,Naur,Yes,Yes
+Puerto Rico,Aguas Buenas Municipio,Naur,Yes,Yes
+Puerto Rico,Aibonito Municipio,Naur,Yes,Yes
+Puerto Rico,Arecibo Municipio,Naur,Yes,Yes
+Puerto Rico,Arroyo Municipio,Naur,Yes,Yes
+Puerto Rico,Barceloneta Municipio,Naur,Yes,Yes
+Puerto Rico,Barranquitas Municipio,Naur,Yes,Yes
+Puerto Rico,Cabo Rojo Municipio,Naur,Yes,Yes
+Puerto Rico,Caguas Municipio,Naur,Yes,Yes
+Puerto Rico,Camuy Municipio,Naur,Yes,Yes
+Puerto Rico,Carolina Municipio,Naur,Yes,Yes
+Puerto Rico,Cayey Municipio,Naur,Yes,Yes
+Puerto Rico,Ceiba Municipio,Naur,Yes,Yes
+Puerto Rico,Ciales Municipio,Naur,Yes,Yes
+Puerto Rico,Cidra Municipio,Naur,Yes,Yes
+Puerto Rico,Coamo Municipio,Naur,Yes,Yes
+Puerto Rico,Corozal Municipio,Naur,Yes,Yes
+Puerto Rico,Culebra Municipio,Naur,Yes,Yes
+Puerto Rico,Dorado Municipio,Naur,Yes,Yes
+Puerto Rico,Fajardo Municipio,Naur,Yes,Yes
+Puerto Rico,Florida Municipio,Naur,Yes,Yes
+Puerto Rico,Guayama Municipio,Naur,Yes,Yes
+Puerto Rico,Guayanilla Municipio,Naur,Yes,Yes
+Puerto Rico,Guaynabo Municipio,Naur,Yes,Yes
+Puerto Rico,Gurabo Municipio,Naur,Yes,Yes
+Puerto Rico,Hatillo Municipio,Naur,Yes,Yes
+Puerto Rico,Hormigueros Municipio,Naur,Yes,Yes
+Puerto Rico,Humacao Municipio,Naur,Yes,Yes
+Puerto Rico,Isabela Municipio,Naur,Yes,Yes
+Puerto Rico,Jayuya Municipio,Naur,Yes,Yes
+Puerto Rico,Juncos Municipio,Naur,Yes,Yes
+Puerto Rico,Lajas Municipio,Naur,Yes,Yes
+Puerto Rico,Lares Municipio,Naur,Yes,Yes
+Puerto Rico,Las Piedras Municipio,Naur,Yes,Yes
+Puerto Rico,Luquillo Municipio,Naur,Yes,Yes
+Puerto Rico,Maricao Municipio,Naur,Yes,Yes
+Puerto Rico,Maunabo Municipio,Naur,Yes,Yes
+Puerto Rico,Moca Municipio,Naur,Yes,Yes
+Puerto Rico,Morovis Municipio,Naur,Yes,Yes
+Puerto Rico,Naguabo Municipio,Naur,Yes,Yes
+Puerto Rico,Naranjito Municipio,Naur,Yes,Yes
+Puerto Rico,Orocovis Municipio,Naur,Yes,Yes
+Puerto Rico,Patillas Municipio,Naur,Yes,Yes
+Puerto Rico,Ponce Municipio,Naur,Yes,Yes
+Puerto Rico,Quebradillas Municipio,Naur,Yes,Yes
+Puerto Rico,Sabana Grande Municipio,Naur,Yes,Yes
+Puerto Rico,Salinas Municipio,Naur,Yes,Yes
+Puerto Rico,San Juan Municipio,Naur,Yes,Yes
+Puerto Rico,San Lorenzo Municipio,Naur,Yes,Yes
+Puerto Rico,Santa Isabel Municipio,Naur,Yes,Yes
+Puerto Rico,Toa Alta Municipio,Naur,Yes,Yes
+Puerto Rico,Toa Baja Municipio,Naur,Yes,Yes
+Puerto Rico,Trujillo Alto Municipio,Naur,Yes,Yes
+Puerto Rico,Utuado Municipio,Naur,Yes,Yes
+Puerto Rico,Vega Alta Municipio,Naur,Yes,Yes
+Puerto Rico,Vega Baja Municipio,Naur,Yes,Yes
+Puerto Rico,Vieques Municipio,Naur,Yes,Yes
+Puerto Rico,Villalba Municipio,Naur,Yes,Yes
+Puerto Rico,Yabucoa Municipio,Naur,Yes,Yes
+Puerto Rico,Yauco Municipio,Naur,Yes,Yes
+Rhode Island,Bristol,Naur,Yes,Yes
+Rhode Island,Kent,Naur,Yes,Yes
+Rhode Island,Newport,Naur,Yes,Yes
+Rhode Island,Providence,Yes,Yes,Yes
+Rhode Island,Washington,Naur,Yes,Yes
+South Carolina,Abbeville,Naur,Naur,Yes
+South Carolina,Aiken,Yes,Yes,Yes
+South Carolina,Allendale,Naur,Naur,Yes
+South Carolina,Anderson,Naur,Naur,Yes
+South Carolina,Bamberg,Naur,Naur,Yes
+South Carolina,Barnwell,Naur,Naur,Yes
+South Carolina,Beaufort,Naur,Naur,Yes
+South Carolina,Berkeley,Naur,Naur,Yes
+South Carolina,Calhoun,Naur,Naur,Yes
+South Carolina,Charleston,Naur,Yes,Yes
+South Carolina,Cherokee,Naur,Yes,Yes
+South Carolina,Chester,Naur,Yes,Yes
+South Carolina,Chesterfield,Naur,Naur,Yes
+South Carolina,Clarendon,Naur,Naur,Yes
+South Carolina,Colleton,Naur,Naur,Yes
+South Carolina,Darlington,Naur,Naur,Yes
+South Carolina,Dillon,Naur,Naur,Yes
+South Carolina,Dorchester,Naur,Naur,Yes
+South Carolina,Edgefield,Naur,Naur,Yes
+South Carolina,Fairfield,Naur,Naur,Yes
+South Carolina,Florence,Naur,Yes,Yes
+South Carolina,Georgetown,Naur,Naur,Yes
+South Carolina,Greenville,Naur,Yes,Yes
+South Carolina,Greenwood,Naur,Naur,Yes
+South Carolina,Hampton,Naur,Naur,Yes
+South Carolina,Horry,Naur,Naur,Yes
+South Carolina,Jasper,Naur,Naur,Yes
+South Carolina,Kershaw,Naur,Naur,Yes
+South Carolina,Lancaster,Naur,Naur,Yes
+South Carolina,Laurens,Naur,Naur,Yes
+South Carolina,Lee,Naur,Naur,Yes
+South Carolina,Lexington,Naur,Naur,Yes
+South Carolina,Marion,Naur,Naur,Yes
+South Carolina,Marlboro,Naur,Naur,Yes
+South Carolina,McCormick,Naur,Naur,Yes
+South Carolina,Newberry,Naur,Naur,Yes
+South Carolina,Oconee,Naur,Naur,Yes
+South Carolina,Orangeburg,Naur,Naur,Yes
+South Carolina,Pickens,Naur,Naur,Yes
+South Carolina,Richland,Yes,Yes,Yes
+South Carolina,Saluda,Naur,Naur,Yes
+South Carolina,Spartanburg,Naur,Naur,Yes
+South Carolina,Sumter,Naur,Naur,Yes
+South Carolina,Union,Naur,Naur,Yes
+South Carolina,Williamsburg,Naur,Naur,Yes
+South Carolina,York,Naur,Yes,Yes
+South Dakota,Armstrong,Naur,Yes,Yes
+South Dakota,Aurora,Naur,Yes,Yes
+South Dakota,Beadle,Naur,Yes,Yes
+South Dakota,Bennett,Naur,Yes,Yes
+South Dakota,Bon Homme,Naur,Yes,Yes
+South Dakota,Brookings,Naur,Yes,Yes
+South Dakota,Brown,Naur,Yes,Yes
+South Dakota,Brule,Naur,Yes,Yes
+South Dakota,Buffalo,Naur,Yes,Yes
+South Dakota,Butte,Naur,Yes,Yes
+South Dakota,Campbell,Naur,Yes,Yes
+South Dakota,Charles Mix,Naur,Yes,Yes
+South Dakota,Clark,Naur,Yes,Yes
+South Dakota,Clay,Naur,Yes,Yes
+South Dakota,Codington,Naur,Yes,Yes
+South Dakota,Corson,Naur,Yes,Yes
+South Dakota,Custer,Naur,Yes,Yes
+South Dakota,Davison,Naur,Yes,Yes
+South Dakota,Day,Naur,Yes,Yes
+South Dakota,Deuel,Naur,Yes,Yes
+South Dakota,Dewey,Naur,Yes,Yes
+South Dakota,Douglas,Naur,Yes,Yes
+South Dakota,Edmunds,Naur,Yes,Yes
+South Dakota,Fall River,Naur,Yes,Yes
+South Dakota,Faulk,Naur,Yes,Yes
+South Dakota,Grant,Naur,Yes,Yes
+South Dakota,Gregory,Naur,Yes,Yes
+South Dakota,Haakon,Naur,Yes,Yes
+South Dakota,Hamlin,Naur,Yes,Yes
+South Dakota,Hand,Naur,Yes,Yes
+South Dakota,Hanson,Naur,Yes,Yes
+South Dakota,Harding,Naur,Yes,Yes
+South Dakota,Hughes,Naur,Yes,Yes
+South Dakota,Hutchinson,Naur,Yes,Yes
+South Dakota,Hyde,Naur,Yes,Yes
+South Dakota,Jackson,Naur,Yes,Yes
+South Dakota,Jerauld,Naur,Yes,Yes
+South Dakota,Jones,Naur,Yes,Yes
+South Dakota,Kingsbury,Naur,Yes,Yes
+South Dakota,Lake,Naur,Yes,Yes
+South Dakota,Lawrence,Naur,Yes,Yes
+South Dakota,Lincoln,Naur,Yes,Yes
+South Dakota,Lyman,Naur,Yes,Yes
+South Dakota,Marshall,Naur,Yes,Yes
+South Dakota,McCook,Naur,Yes,Yes
+South Dakota,McPherson,Naur,Yes,Yes
+South Dakota,Meade,Naur,Yes,Yes
+South Dakota,Mellette,Naur,Yes,Yes
+South Dakota,Miner,Naur,Yes,Yes
+South Dakota,Minnehaha,Naur,Yes,Yes
+South Dakota,Moody,Naur,Yes,Yes
+South Dakota,Oglala Lakota County,Naur,Yes,Yes
+South Dakota,Pennington,Naur,Yes,Yes
+South Dakota,Perkins,Naur,Yes,Yes
+South Dakota,Potter,Naur,Yes,Yes
+South Dakota,Roberts,Naur,Yes,Yes
+South Dakota,Sanborn,Naur,Yes,Yes
+South Dakota,Shannon,Naur,Yes,Yes
+South Dakota,Spink,Naur,Yes,Yes
+South Dakota,Stanley,Naur,Yes,Yes
+South Dakota,Sully,Naur,Yes,Yes
+South Dakota,Todd,Naur,Yes,Yes
+South Dakota,Tripp,Naur,Yes,Yes
+South Dakota,Turner,Naur,Yes,Yes
+South Dakota,Union,Yes,Yes,Yes
+South Dakota,Walworth,Naur,Yes,Yes
+South Dakota,Washabaugh,Naur,Yes,Yes
+South Dakota,Washington,Naur,Yes,Yes
+South Dakota,Yankton,Naur,Yes,Yes
+South Dakota,Ziebach,Naur,Yes,Yes
+Tennessee,Anderson,Naur,Yes,Yes
+Tennessee,Bedford,Naur,Yes,Yes
+Tennessee,Benton,Naur,Naur,Yes
+Tennessee,Bledsoe,Naur,Yes,Yes
+Tennessee,Blount,Naur,Yes,Yes
+Tennessee,Bradley,Naur,Yes,Yes
+Tennessee,Campbell,Naur,Yes,Yes
+Tennessee,Cannon,Naur,Yes,Yes
+Tennessee,Carroll,Naur,Naur,Yes
+Tennessee,Carter,Naur,Yes,Yes
+Tennessee,Cheatham,Naur,Yes,Yes
+Tennessee,Chester,Naur,Naur,Yes
+Tennessee,Claiborne,Naur,Yes,Yes
+Tennessee,Clay,Naur,Yes,Yes
+Tennessee,Cocke,Naur,Yes,Yes
+Tennessee,Coffee,Naur,Yes,Yes
+Tennessee,Crockett,Naur,Naur,Yes
+Tennessee,Cumberland,Naur,Yes,Yes
+Tennessee,Davidson,Yes,Yes,Yes
+Tennessee,Decatur,Naur,Naur,Yes
+Tennessee,DeKalb,Naur,Yes,Yes
+Tennessee,Dickson,Naur,Yes,Yes
+Tennessee,Dyer,Naur,Naur,Yes
+Tennessee,Fayette,Naur,Yes,Yes
+Tennessee,Fentress,Naur,Yes,Yes
+Tennessee,Franklin,Naur,Yes,Yes
+Tennessee,Gibson,Naur,Yes,Yes
+Tennessee,Giles,Naur,Yes,Yes
+Tennessee,Grainger,Naur,Yes,Yes
+Tennessee,Greene,Naur,Yes,Yes
+Tennessee,Grundy,Naur,Yes,Yes
+Tennessee,Hamblen,Naur,Yes,Yes
+Tennessee,Hamilton,Yes,Yes,Yes
+Tennessee,Hancock,Naur,Yes,Yes
+Tennessee,Hardeman,Naur,Yes,Yes
+Tennessee,Hardin,Naur,Naur,Yes
+Tennessee,Hawkins,Naur,Yes,Yes
+Tennessee,Haywood,Naur,Naur,Yes
+Tennessee,Henderson,Naur,Naur,Yes
+Tennessee,Henry,Naur,Naur,Yes
+Tennessee,Hickman,Naur,Yes,Yes
+Tennessee,Houston,Naur,Yes,Yes
+Tennessee,Humphreys,Naur,Yes,Yes
+Tennessee,Jackson,Naur,Yes,Yes
+Tennessee,Jefferson,Naur,Yes,Yes
+Tennessee,Johnson,Naur,Yes,Yes
+Tennessee,Knox,Naur,Yes,Yes
+Tennessee,Lake,Naur,Naur,Yes
+Tennessee,Lauderdale,Naur,Naur,Yes
+Tennessee,Lawrence,Naur,Yes,Yes
+Tennessee,Lewis,Naur,Yes,Yes
+Tennessee,Lincoln,Naur,Yes,Yes
+Tennessee,Loudon,Naur,Yes,Yes
+Tennessee,Macon,Naur,Yes,Yes
+Tennessee,Madison,Naur,Yes,Yes
+Tennessee,Marion,Naur,Yes,Yes
+Tennessee,Marshall,Naur,Yes,Yes
+Tennessee,Maury,Naur,Yes,Yes
+Tennessee,McMinn,Naur,Yes,Yes
+Tennessee,McNairy,Naur,Naur,Yes
+Tennessee,Meigs,Naur,Yes,Yes
+Tennessee,Monroe,Naur,Yes,Yes
+Tennessee,Montgomery,Naur,Yes,Yes
+Tennessee,Moore,Naur,Yes,Yes
+Tennessee,Morgan,Naur,Yes,Yes
+Tennessee,Obion,Naur,Naur,Yes
+Tennessee,Overton,Naur,Yes,Yes
+Tennessee,Perry,Naur,Naur,Yes
+Tennessee,Pickett,Naur,Yes,Yes
+Tennessee,Polk,Naur,Yes,Yes
+Tennessee,Putnam,Naur,Yes,Yes
+Tennessee,Rhea,Naur,Yes,Yes
+Tennessee,Roane,Naur,Yes,Yes
+Tennessee,Robertson,Naur,Yes,Yes
+Tennessee,Rutherford,Naur,Yes,Yes
+Tennessee,Scott,Naur,Yes,Yes
+Tennessee,Sequatchie,Naur,Yes,Yes
+Tennessee,Sevier,Naur,Yes,Yes
+Tennessee,Shelby,Yes,Yes,Yes
+Tennessee,Smith,Naur,Yes,Yes
+Tennessee,Stewart,Naur,Yes,Yes
+Tennessee,Sullivan,Naur,Yes,Yes
+Tennessee,Sumner,Naur,Yes,Yes
+Tennessee,Tipton,Naur,Naur,Yes
+Tennessee,Trousdale,Naur,Yes,Yes
+Tennessee,Unicoi,Naur,Yes,Yes
+Tennessee,Union,Naur,Yes,Yes
+Tennessee,Van Buren,Naur,Yes,Yes
+Tennessee,Warren,Naur,Yes,Yes
+Tennessee,Washington,Naur,Yes,Yes
+Tennessee,Wayne,Naur,Yes,Yes
+Tennessee,Weakley,Naur,Naur,Yes
+Tennessee,White,Naur,Yes,Yes
+Tennessee,Williamson,Naur,Yes,Yes
+Tennessee,Wilson,Naur,Yes,Yes
+Texas,Anderson,Naur,Yes,Yes
+Texas,Andrews,Naur,Yes,Yes
+Texas,Angelina,Naur,Yes,Yes
+Texas,Aransas,Naur,Naur,Yes
+Texas,Archer,Naur,Yes,Yes
+Texas,Armstrong,Naur,Yes,Yes
+Texas,Atascosa,Naur,Yes,Yes
+Texas,Austin,Naur,Naur,Yes
+Texas,Bailey,Naur,Yes,Yes
+Texas,Bandera,Naur,Yes,Yes
+Texas,Bastrop,Naur,Yes,Yes
+Texas,Baylor,Naur,Yes,Yes
+Texas,Bee,Naur,Naur,Yes
+Texas,Bell,Naur,Yes,Yes
+Texas,Bexar,Yes,Yes,Yes
+Texas,Blanco,Naur,Yes,Yes
+Texas,Borden,Naur,Yes,Yes
+Texas,Bosque,Naur,Yes,Yes
+Texas,Bowie,Naur,Yes,Yes
+Texas,Brazoria,Naur,Naur,Yes
+Texas,Brazos,Naur,Naur,Yes
+Texas,Brewster,Naur,Yes,Yes
+Texas,Briscoe,Naur,Yes,Yes
+Texas,Brooks,Naur,Naur,Yes
+Texas,Brown,Naur,Yes,Yes
+Texas,Burleson,Naur,Yes,Yes
+Texas,Burnet,Naur,Yes,Yes
+Texas,Caldwell,Naur,Yes,Yes
+Texas,Calhoun,Naur,Naur,Yes
+Texas,Callahan,Naur,Yes,Yes
+Texas,Cameron,Naur,Naur,Yes
+Texas,Camp,Naur,Yes,Yes
+Texas,Carson,Naur,Yes,Yes
+Texas,Cass,Naur,Yes,Yes
+Texas,Castro,Naur,Yes,Yes
+Texas,Chambers,Naur,Naur,Yes
+Texas,Cherokee,Naur,Yes,Yes
+Texas,Childress,Naur,Yes,Yes
+Texas,Clay,Naur,Yes,Yes
+Texas,Cochran,Naur,Yes,Yes
+Texas,Coke,Naur,Yes,Yes
+Texas,Coleman,Naur,Yes,Yes
+Texas,Collin,Naur,Yes,Yes
+Texas,Collingsworth,Naur,Yes,Yes
+Texas,Colorado,Naur,Naur,Yes
+Texas,Comal,Naur,Yes,Yes
+Texas,Comanche,Naur,Yes,Yes
+Texas,Concho,Naur,Yes,Yes
+Texas,Cooke,Naur,Yes,Yes
+Texas,Coryell,Naur,Yes,Yes
+Texas,Cottle,Naur,Yes,Yes
+Texas,Crane,Naur,Yes,Yes
+Texas,Crockett,Naur,Yes,Yes
+Texas,Crosby,Naur,Yes,Yes
+Texas,Culberson,Naur,Yes,Yes
+Texas,Dallam,Naur,Yes,Yes
+Texas,Dallas,Yes,Yes,Yes
+Texas,Dawson,Naur,Yes,Yes
+Texas,Deaf Smith,Naur,Yes,Yes
+Texas,Delta,Naur,Yes,Yes
+Texas,Denton,Naur,Yes,Yes
+Texas,DeWitt,Naur,Naur,Yes
+Texas,Dickens,Naur,Yes,Yes
+Texas,Dimmit,Naur,Yes,Yes
+Texas,Donley,Naur,Yes,Yes
+Texas,Duval,Naur,Naur,Yes
+Texas,Eastland,Naur,Yes,Yes
+Texas,Ector,Naur,Yes,Yes
+Texas,Edwards,Naur,Yes,Yes
+Texas,El Paso,Yes,Yes,Yes
+Texas,Ellis,Naur,Yes,Yes
+Texas,Erath,Naur,Yes,Yes
+Texas,Falls,Naur,Yes,Yes
+Texas,Fannin,Naur,Yes,Yes
+Texas,Fayette,Naur,Naur,Yes
+Texas,Fisher,Naur,Yes,Yes
+Texas,Floyd,Naur,Yes,Yes
+Texas,Foard,Naur,Yes,Yes
+Texas,Fort Bend,Naur,Naur,Yes
+Texas,Franklin,Naur,Yes,Yes
+Texas,Freestone,Naur,Yes,Yes
+Texas,Frio,Naur,Yes,Yes
+Texas,Gaines,Naur,Yes,Yes
+Texas,Galveston,Yes,Yes,Yes
+Texas,Garza,Naur,Yes,Yes
+Texas,Gillespie,Naur,Yes,Yes
+Texas,Glasscock,Naur,Yes,Yes
+Texas,Goliad,Naur,Naur,Yes
+Texas,Gonzales,Naur,Yes,Yes
+Texas,Gray,Naur,Yes,Yes
+Texas,Grayson,Naur,Yes,Yes
+Texas,Gregg,Naur,Yes,Yes
+Texas,Grimes,Naur,Naur,Yes
+Texas,Guadalupe,Naur,Yes,Yes
+Texas,Hale,Naur,Yes,Yes
+Texas,Hall,Naur,Yes,Yes
+Texas,Hamilton,Naur,Yes,Yes
+Texas,Hansford,Naur,Yes,Yes
+Texas,Hardeman,Naur,Yes,Yes
+Texas,Hardin,Naur,Yes,Yes
+Texas,Harris,Yes,Yes,Yes
+Texas,Harrison,Naur,Yes,Yes
+Texas,Hartley,Naur,Yes,Yes
+Texas,Haskell,Naur,Yes,Yes
+Texas,Hays,Naur,Yes,Yes
+Texas,Hemphill,Naur,Yes,Yes
+Texas,Henderson,Naur,Yes,Yes
+Texas,Hidalgo,Naur,Naur,Yes
+Texas,Hill,Naur,Yes,Yes
+Texas,Hockley,Naur,Yes,Yes
+Texas,Hood,Naur,Yes,Yes
+Texas,Hopkins,Naur,Yes,Yes
+Texas,Houston,Naur,Yes,Yes
+Texas,Howard,Naur,Yes,Yes
+Texas,Hudspeth,Naur,Yes,Yes
+Texas,Hunt,Naur,Yes,Yes
+Texas,Hutchinson,Naur,Yes,Yes
+Texas,Irion,Naur,Yes,Yes
+Texas,Jack,Naur,Yes,Yes
+Texas,Jackson,Naur,Naur,Yes
+Texas,Jasper,Naur,Yes,Yes
+Texas,Jeff Davis,Naur,Yes,Yes
+Texas,Jefferson,Yes,Yes,Yes
+Texas,Jim Hogg,Naur,Naur,Yes
+Texas,Jim Wells,Naur,Naur,Yes
+Texas,Johnson,Naur,Yes,Yes
+Texas,Jones,Naur,Yes,Yes
+Texas,Karnes,Naur,Yes,Yes
+Texas,Kaufman,Naur,Yes,Yes
+Texas,Kendall,Naur,Yes,Yes
+Texas,Kenedy,Naur,Naur,Yes
+Texas,Kent,Naur,Yes,Yes
+Texas,Kerr,Naur,Yes,Yes
+Texas,Kimble,Naur,Yes,Yes
+Texas,King,Naur,Yes,Yes
+Texas,Kinney,Naur,Yes,Yes
+Texas,Kleberg,Naur,Naur,Yes
+Texas,Knox,Naur,Yes,Yes
+Texas,La Salle,Naur,Naur,Yes
+Texas,Lamar,Naur,Yes,Yes
+Texas,Lamb,Naur,Yes,Yes
+Texas,Lampasas,Naur,Yes,Yes
+Texas,Lavaca,Naur,Naur,Yes
+Texas,Lee,Naur,Yes,Yes
+Texas,Leon,Naur,Yes,Yes
+Texas,Liberty,Naur,Yes,Yes
+Texas,Limestone,Naur,Yes,Yes
+Texas,Lipscomb,Naur,Yes,Yes
+Texas,Live Oak,Naur,Naur,Yes
+Texas,Llano,Naur,Yes,Yes
+Texas,Loving,Naur,Yes,Yes
+Texas,Lubbock,Naur,Yes,Yes
+Texas,Lynn,Naur,Yes,Yes
+Texas,Madison,Naur,Naur,Yes
+Texas,Marion,Naur,Yes,Yes
+Texas,Martin,Naur,Yes,Yes
+Texas,Mason,Naur,Yes,Yes
+Texas,Matagorda,Naur,Naur,Yes
+Texas,Maverick,Naur,Yes,Yes
+Texas,McCulloch,Naur,Yes,Yes
+Texas,McLennan,Yes,Yes,Yes
+Texas,McMullen,Naur,Naur,Yes
+Texas,Medina,Naur,Yes,Yes
+Texas,Menard,Naur,Yes,Yes
+Texas,Midland,Naur,Yes,Yes
+Texas,Milam,Naur,Yes,Yes
+Texas,Mills,Naur,Yes,Yes
+Texas,Mitchell,Naur,Yes,Yes
+Texas,Montague,Naur,Yes,Yes
+Texas,Montgomery,Naur,Naur,Yes
+Texas,Moore,Naur,Yes,Yes
+Texas,Morris,Naur,Yes,Yes
+Texas,Motley,Naur,Yes,Yes
+Texas,Nacogdoches,Naur,Yes,Yes
+Texas,Navarro,Naur,Yes,Yes
+Texas,Newton,Naur,Yes,Yes
+Texas,Nolan,Naur,Yes,Yes
+Texas,Nueces,Naur,Naur,Yes
+Texas,Ochiltree,Naur,Yes,Yes
+Texas,Oldham,Naur,Yes,Yes
+Texas,Orange,Naur,Yes,Yes
+Texas,Palo Pinto,Naur,Yes,Yes
+Texas,Panola,Naur,Yes,Yes
+Texas,Parker,Naur,Yes,Yes
+Texas,Parmer,Naur,Yes,Yes
+Texas,Pecos,Naur,Yes,Yes
+Texas,Polk,Naur,Yes,Yes
+Texas,Potter,Yes,Yes,Yes
+Texas,Presidio,Naur,Yes,Yes
+Texas,Rains,Naur,Yes,Yes
+Texas,Randall,Yes,Yes,Yes
+Texas,Reagan,Naur,Yes,Yes
+Texas,Real,Naur,Yes,Yes
+Texas,Red River,Naur,Yes,Yes
+Texas,Reeves,Naur,Yes,Yes
+Texas,Refugio,Naur,Naur,Yes
+Texas,Roberts,Naur,Yes,Yes
+Texas,Robertson,Naur,Yes,Yes
+Texas,Rockwall,Naur,Yes,Yes
+Texas,Runnels,Naur,Yes,Yes
+Texas,Rusk,Naur,Yes,Yes
+Texas,Sabine,Naur,Yes,Yes
+Texas,San Augustine,Naur,Yes,Yes
+Texas,San Jacinto,Naur,Naur,Yes
+Texas,San Patricio,Naur,Naur,Yes
+Texas,San Saba,Naur,Yes,Yes
+Texas,Schleicher,Naur,Yes,Yes
+Texas,Scurry,Naur,Yes,Yes
+Texas,Shackelford,Naur,Yes,Yes
+Texas,Shelby,Naur,Yes,Yes
+Texas,Sherman,Naur,Yes,Yes
+Texas,Smith,Naur,Yes,Yes
+Texas,Somervell,Naur,Yes,Yes
+Texas,Starr,Naur,Naur,Yes
+Texas,Stephens,Naur,Yes,Yes
+Texas,Sterling,Naur,Yes,Yes
+Texas,Stonewall,Naur,Yes,Yes
+Texas,Sutton,Naur,Yes,Yes
+Texas,Swisher,Naur,Yes,Yes
+Texas,Tarrant,Yes,Yes,Yes
+Texas,Taylor,Naur,Yes,Yes
+Texas,Terrell,Naur,Yes,Yes
+Texas,Terry,Naur,Yes,Yes
+Texas,Throckmorton,Naur,Yes,Yes
+Texas,Titus,Naur,Yes,Yes
+Texas,Tom Green,Naur,Yes,Yes
+Texas,Travis,Yes,Yes,Yes
+Texas,Trinity,Naur,Yes,Yes
+Texas,Tyler,Naur,Yes,Yes
+Texas,Upshur,Naur,Yes,Yes
+Texas,Upton,Naur,Yes,Yes
+Texas,Uvalde,Naur,Yes,Yes
+Texas,Val Verde,Naur,Yes,Yes
+Texas,Van Zandt,Naur,Yes,Yes
+Texas,Victoria,Naur,Naur,Yes
+Texas,Walker,Naur,Naur,Yes
+Texas,Waller,Naur,Naur,Yes
+Texas,Ward,Naur,Yes,Yes
+Texas,Washington,Naur,Yes,Yes
+Texas,Webb,Naur,Naur,Yes
+Texas,Wharton,Naur,Naur,Yes
+Texas,Wheeler,Naur,Yes,Yes
+Texas,Wichita,Naur,Yes,Yes
+Texas,Wilbarger,Naur,Yes,Yes
+Texas,Willacy,Naur,Naur,Yes
+Texas,Williamson,Naur,Yes,Yes
+Texas,Wilson,Naur,Yes,Yes
+Texas,Winkler,Naur,Yes,Yes
+Texas,Wise,Naur,Yes,Yes
+Texas,Wood,Naur,Yes,Yes
+Texas,Yoakum,Naur,Yes,Yes
+Texas,Young,Naur,Yes,Yes
+Texas,Zapata,Naur,Naur,Yes
+Texas,Zavala,Naur,Yes,Yes
+Utah,Beaver,Naur,Yes,Naur
+Utah,Box Elder,Naur,Yes,Naur
+Utah,Cache,Naur,Yes,Naur
+Utah,Carbon,Naur,Yes,Naur
+Utah,Daggett,Naur,Yes,Naur
+Utah,Davis,Naur,Yes,Naur
+Utah,Duchesne,Naur,Yes,Naur
+Utah,Emery,Naur,Yes,Naur
+Utah,Garfield,Naur,Yes,Naur
+Utah,Grand,Naur,Yes,Naur
+Utah,Iron,Naur,Yes,Naur
+Utah,Juab,Naur,Yes,Naur
+Utah,Kane,Naur,Yes,Naur
+Utah,Millard,Naur,Yes,Naur
+Utah,Morgan,Naur,Yes,Naur
+Utah,Piute,Naur,Yes,Naur
+Utah,Rich,Naur,Yes,Naur
+Utah,Salt Lake,Naur,Yes,Naur
+Utah,San Juan,Naur,Yes,Naur
+Utah,Sanpete,Naur,Yes,Naur
+Utah,Sevier,Naur,Yes,Naur
+Utah,Summit,Naur,Yes,Naur
+Utah,Tooele,Naur,Yes,Naur
+Utah,Uintah,Naur,Yes,Naur
+Utah,Utah,Naur,Yes,Naur
+Utah,Wasatch,Naur,Yes,Naur
+Utah,Washington,Naur,Yes,Naur
+Utah,Wayne,Naur,Yes,Naur
+Utah,Weber,Yes,Yes,Naur
+Vermont,Addison,Naur,Yes,Yes
+Vermont,Bennington,Naur,Yes,Yes
+Vermont,Caledonia,Naur,Yes,Yes
+Vermont,Chittenden,Naur,Yes,Yes
+Vermont,Essex,Naur,Yes,Yes
+Vermont,Franklin,Naur,Yes,Yes
+Vermont,Grand Isle,Naur,Yes,Yes
+Vermont,Lamoille,Naur,Yes,Yes
+Vermont,Orange,Naur,Yes,Yes
+Vermont,Orleans,Naur,Yes,Yes
+Vermont,Rutland,Naur,Yes,Yes
+Vermont,Washington,Naur,Yes,Yes
+Vermont,Windham,Naur,Yes,Yes
+Vermont,Windsor,Naur,Yes,Yes
+Virginia,Accomack,Naur,Yes,Yes
+Virginia,Albemarle,Naur,Yes,Yes
+Virginia,Alexandria city,Naur,Yes,Yes
+Virginia,Alleghany,Naur,Yes,Yes
+Virginia,Amelia,Naur,Yes,Yes
+Virginia,Amherst,Naur,Yes,Yes
+Virginia,Appomattox,Naur,Yes,Yes
+Virginia,Arlington,Naur,Yes,Yes
+Virginia,Augusta,Naur,Yes,Yes
+Virginia,Bath,Naur,Yes,Yes
+Virginia,Bedford,Naur,Yes,Yes
+Virginia,Bedford City,Naur,Yes,Yes
+Virginia,Bland,Naur,Yes,Yes
+Virginia,Botetourt,Naur,Yes,Yes
+Virginia,Bristol City,Naur,Yes,Yes
+Virginia,Brunswick,Naur,Yes,Yes
+Virginia,Buchanan,Naur,Yes,Yes
+Virginia,Buckingham,Naur,Yes,Yes
+Virginia,Buena Vista City,Naur,Yes,Yes
+Virginia,Campbell,Naur,Yes,Yes
+Virginia,Caroline,Naur,Yes,Yes
+Virginia,Carroll,Naur,Yes,Yes
+Virginia,Charles City,Naur,Yes,Yes
+Virginia,Charlotte,Naur,Yes,Yes
+Virginia,Charlottesville City,Naur,Yes,Yes
+Virginia,Chesapeake City,Yes,Yes,Yes
+Virginia,Chesterfield,Naur,Yes,Yes
+Virginia,Clarke,Naur,Yes,Yes
+Virginia,Clifton Forge City,Naur,Yes,Yes
+Virginia,Colonial Heights City,Naur,Yes,Yes
+Virginia,Covington City,Naur,Yes,Yes
+Virginia,Craig,Naur,Yes,Yes
+Virginia,Culpeper,Naur,Yes,Yes
+Virginia,Cumberland,Naur,Yes,Yes
+Virginia,Danville City,Naur,Yes,Yes
+Virginia,Dickenson,Naur,Yes,Yes
+Virginia,Dinwiddie,Naur,Yes,Yes
+Virginia,Elizabeth City,Naur,Yes,Yes
+Virginia,Emporia City,Naur,Yes,Yes
+Virginia,Essex,Naur,Yes,Yes
+Virginia,Fairfax,Naur,Yes,Yes
+Virginia,Fairfax City,Naur,Yes,Yes
+Virginia,Falls Church City,Naur,Yes,Yes
+Virginia,Fauquier,Naur,Yes,Yes
+Virginia,Floyd,Naur,Yes,Yes
+Virginia,Fluvanna,Naur,Yes,Yes
+Virginia,Franklin,Naur,Yes,Yes
+Virginia,Franklin City,Naur,Yes,Yes
+Virginia,Frederick,Naur,Yes,Yes
+Virginia,Fredericksburg City,Naur,Yes,Yes
+Virginia,Galax City,Naur,Yes,Yes
+Virginia,Giles,Naur,Yes,Yes
+Virginia,Gloucester,Naur,Yes,Yes
+Virginia,Goochland,Naur,Yes,Yes
+Virginia,Grayson,Naur,Yes,Yes
+Virginia,Greene,Naur,Yes,Yes
+Virginia,Greensville,Naur,Yes,Yes
+Virginia,Halifax,Naur,Yes,Yes
+Virginia,Hampton City,Yes,Yes,Yes
+Virginia,Hanover,Naur,Yes,Yes
+Virginia,Harrisonburg City,Naur,Yes,Yes
+Virginia,Henrico,Yes,Yes,Yes
+Virginia,Henry,Naur,Yes,Yes
+Virginia,Highland,Naur,Yes,Yes
+Virginia,Hopewell City,Naur,Yes,Yes
+Virginia,Isle Of Wight,Naur,Yes,Yes
+Virginia,James City,Naur,Yes,Yes
+Virginia,King And Queen,Naur,Yes,Yes
+Virginia,King George,Naur,Yes,Yes
+Virginia,King William,Naur,Yes,Yes
+Virginia,Lancaster,Naur,Yes,Yes
+Virginia,Lee,Naur,Yes,Yes
+Virginia,Lexington City,Naur,Yes,Yes
+Virginia,Loudoun,Naur,Yes,Yes
+Virginia,Louisa,Naur,Yes,Yes
+Virginia,Lunenburg,Naur,Yes,Yes
+Virginia,Lynchburg City,Yes,Yes,Yes
+Virginia,Madison,Naur,Yes,Yes
+Virginia,Manassas City,Naur,Yes,Yes
+Virginia,Manassas Park City,Naur,Yes,Yes
+Virginia,Martinsville City,Naur,Yes,Yes
+Virginia,Mathews,Naur,Yes,Yes
+Virginia,Mecklenburg,Naur,Yes,Yes
+Virginia,Middlesex,Naur,Yes,Yes
+Virginia,Montgomery,Naur,Yes,Yes
+Virginia,Nansemond,Naur,Yes,Yes
+Virginia,Nelson,Naur,Yes,Yes
+Virginia,New Kent,Naur,Yes,Yes
+Virginia,Newport News City,Yes,Yes,Yes
+Virginia,Norfolk City,Naur,Yes,Yes
+Virginia,Northampton,Naur,Yes,Yes
+Virginia,Northumberland,Naur,Yes,Yes
+Virginia,Norton City,Naur,Yes,Yes
+Virginia,Nottoway,Naur,Yes,Yes
+Virginia,Orange,Naur,Yes,Yes
+Virginia,Page,Naur,Yes,Yes
+Virginia,Patrick,Naur,Yes,Yes
+Virginia,Petersburg City,Naur,Yes,Yes
+Virginia,Pittsylvania,Naur,Yes,Yes
+Virginia,Poquoson City,Naur,Yes,Yes
+Virginia,Portsmouth City,Yes,Yes,Yes
+Virginia,Powhatan,Naur,Yes,Yes
+Virginia,Prince Edward,Naur,Yes,Yes
+Virginia,Prince George,Naur,Yes,Yes
+Virginia,Prince William,Naur,Yes,Yes
+Virginia,Pulaski,Naur,Yes,Yes
+Virginia,Radford City,Naur,Yes,Yes
+Virginia,Rappahannock,Naur,Yes,Yes
+Virginia,Richmond,Naur,Yes,Yes
+Virginia,Richmond City,Yes,Yes,Yes
+Virginia,Roanoke,Yes,Yes,Yes
+Virginia,Roanoke City,Yes,Yes,Yes
+Virginia,Rockbridge,Naur,Yes,Yes
+Virginia,Rockingham,Naur,Yes,Yes
+Virginia,Russell,Naur,Yes,Yes
+Virginia,Salem City,Yes,Yes,Yes
+Virginia,Scott,Naur,Yes,Yes
+Virginia,Shenandoah,Naur,Yes,Yes
+Virginia,Smyth,Naur,Yes,Yes
+Virginia,Southampton,Naur,Yes,Yes
+Virginia,Spotsylvania,Naur,Yes,Yes
+Virginia,Stafford,Naur,Yes,Yes
+Virginia,Staunton City,Naur,Yes,Yes
+Virginia,Suffolk City,Naur,Yes,Yes
+Virginia,Surry,Naur,Yes,Yes
+Virginia,Sussex,Naur,Yes,Yes
+Virginia,Tazewell,Naur,Yes,Yes
+Virginia,Virginia Beach City,Yes,Yes,Yes
+Virginia,Warren,Naur,Yes,Yes
+Virginia,Warwick,Naur,Yes,Yes
+Virginia,Washington,Naur,Yes,Yes
+Virginia,Waynesboro City,Naur,Yes,Yes
+Virginia,Westmoreland,Naur,Yes,Yes
+Virginia,Williamsburg City,Naur,Yes,Yes
+Virginia,Winchester City,Naur,Yes,Yes
+Virginia,Wise,Naur,Yes,Yes
+Virginia,Wythe,Naur,Yes,Yes
+Virginia,York,Naur,Yes,Yes
+Washington,Adams,Naur,Naur,Yes
+Washington,Asotin,Naur,Naur,Yes
+Washington,Benton,Naur,Naur,Yes
+Washington,Chelan,Naur,Naur,Yes
+Washington,Clallam,Naur,Naur,Yes
+Washington,Clark,Naur,Naur,Yes
+Washington,Columbia,Naur,Naur,Yes
+Washington,Cowlitz,Naur,Naur,Yes
+Washington,Douglas,Naur,Naur,Yes
+Washington,Ferry,Naur,Naur,Yes
+Washington,Franklin,Naur,Naur,Yes
+Washington,Garfield,Naur,Naur,Yes
+Washington,Grant,Naur,Naur,Yes
+Washington,Grays Harbor,Naur,Naur,Yes
+Washington,Island,Naur,Naur,Yes
+Washington,Jefferson,Naur,Naur,Yes
+Washington,King,Yes,Yes,Yes
+Washington,Kitsap,Naur,Naur,Yes
+Washington,Kittitas,Naur,Naur,Yes
+Washington,Klickitat,Naur,Naur,Yes
+Washington,Lewis,Naur,Naur,Yes
+Washington,Lincoln,Naur,Naur,Yes
+Washington,Mason,Naur,Naur,Yes
+Washington,Okanogan,Naur,Naur,Yes
+Washington,Pacific,Naur,Naur,Yes
+Washington,Pend Oreille,Naur,Naur,Yes
+Washington,Pierce,Yes,Naur,Yes
+Washington,San Juan,Naur,Naur,Yes
+Washington,Skagit,Naur,Naur,Yes
+Washington,Skamania,Naur,Naur,Yes
+Washington,Snohomish,Naur,Naur,Yes
+Washington,Spokane,Yes,Naur,Yes
+Washington,Stevens,Naur,Naur,Yes
+Washington,Thurston,Naur,Naur,Yes
+Washington,Wahkiakum,Naur,Naur,Yes
+Washington,Walla Walla,Naur,Naur,Yes
+Washington,Whatcom,Naur,Naur,Yes
+Washington,Whitman,Naur,Naur,Yes
+Washington,Yakima,Naur,Naur,Yes
+West Virginia,Barbour,Naur,Yes,Yes
+West Virginia,Berkeley,Naur,Yes,Yes
+West Virginia,Boone,Naur,Yes,Yes
+West Virginia,Braxton,Naur,Yes,Yes
+West Virginia,Brooke,Naur,Yes,Yes
+West Virginia,Cabell,Yes,Yes,Yes
+West Virginia,Calhoun,Naur,Yes,Yes
+West Virginia,Clay,Naur,Yes,Yes
+West Virginia,Doddridge,Naur,Yes,Yes
+West Virginia,Fayette,Naur,Yes,Yes
+West Virginia,Gilmer,Naur,Yes,Yes
+West Virginia,Grant,Naur,Yes,Yes
+West Virginia,Greenbrier,Naur,Yes,Yes
+West Virginia,Hampshire,Naur,Yes,Yes
+West Virginia,Hancock,Naur,Yes,Yes
+West Virginia,Hardy,Naur,Yes,Yes
+West Virginia,Harrison,Naur,Yes,Yes
+West Virginia,Jackson,Naur,Yes,Yes
+West Virginia,Jefferson,Naur,Yes,Yes
+West Virginia,Kanawha,Yes,Yes,Yes
+West Virginia,Lewis,Naur,Yes,Yes
+West Virginia,Lincoln,Naur,Yes,Yes
+West Virginia,Logan,Naur,Yes,Yes
+West Virginia,Marion,Naur,Yes,Yes
+West Virginia,Marshall,Yes,Yes,Yes
+West Virginia,Mason,Naur,Yes,Yes
+West Virginia,McDowell,Naur,Yes,Yes
+West Virginia,Mercer,Naur,Yes,Yes
+West Virginia,Mineral,Naur,Yes,Yes
+West Virginia,Mingo,Naur,Yes,Yes
+West Virginia,Monongalia,Naur,Yes,Yes
+West Virginia,Monroe,Naur,Yes,Yes
+West Virginia,Morgan,Naur,Yes,Yes
+West Virginia,Nicholas,Naur,Yes,Yes
+West Virginia,Ohio,Yes,Yes,Yes
+West Virginia,Pendleton,Naur,Yes,Yes
+West Virginia,Pleasants,Naur,Yes,Yes
+West Virginia,Pocahontas,Naur,Yes,Yes
+West Virginia,Preston,Naur,Yes,Yes
+West Virginia,Putnam,Naur,Yes,Yes
+West Virginia,Raleigh,Naur,Yes,Yes
+West Virginia,Randolph,Naur,Yes,Yes
+West Virginia,Ritchie,Naur,Yes,Yes
+West Virginia,Roane,Naur,Yes,Yes
+West Virginia,Summers,Naur,Yes,Yes
+West Virginia,Taylor,Naur,Yes,Yes
+West Virginia,Tucker,Naur,Yes,Yes
+West Virginia,Tyler,Naur,Yes,Yes
+West Virginia,Upshur,Naur,Yes,Yes
+West Virginia,Wayne,Yes,Yes,Yes
+West Virginia,Webster,Naur,Yes,Yes
+West Virginia,Wetzel,Naur,Yes,Yes
+West Virginia,Wirt,Naur,Yes,Yes
+West Virginia,Wood,Naur,Yes,Yes
+West Virginia,Wyoming,Naur,Yes,Yes
+Wisconsin,Adams,Naur,Yes,Yes
+Wisconsin,Ashland,Naur,Yes,Yes
+Wisconsin,Barron,Naur,Yes,Yes
+Wisconsin,Bayfield,Naur,Yes,Yes
+Wisconsin,Brown,Naur,Yes,Yes
+Wisconsin,Buffalo,Naur,Yes,Yes
+Wisconsin,Burnett,Naur,Yes,Yes
+Wisconsin,Calumet,Naur,Yes,Yes
+Wisconsin,Chippewa,Naur,Yes,Yes
+Wisconsin,Clark,Naur,Yes,Yes
+Wisconsin,Columbia,Naur,Yes,Yes
+Wisconsin,Crawford,Naur,Yes,Yes
+Wisconsin,Dane,Naur,Yes,Yes
+Wisconsin,Dodge,Naur,Yes,Yes
+Wisconsin,Door,Naur,Yes,Yes
+Wisconsin,Douglas,Yes,Yes,Yes
+Wisconsin,Dunn,Naur,Yes,Yes
+Wisconsin,Eau Claire,Naur,Yes,Yes
+Wisconsin,Florence,Naur,Yes,Yes
+Wisconsin,Fond du Lac,Naur,Yes,Yes
+Wisconsin,Forest,Naur,Yes,Yes
+Wisconsin,Grant,Yes,Yes,Yes
+Wisconsin,Green,Naur,Yes,Yes
+Wisconsin,Green Lake,Naur,Yes,Yes
+Wisconsin,Iowa,Naur,Yes,Yes
+Wisconsin,Iron,Naur,Yes,Yes
+Wisconsin,Jackson,Naur,Yes,Yes
+Wisconsin,Jefferson,Naur,Yes,Yes
+Wisconsin,Juneau,Naur,Yes,Yes
+Wisconsin,Kenosha,Yes,Yes,Yes
+Wisconsin,Kewaunee,Naur,Yes,Yes
+Wisconsin,La Crosse,Naur,Yes,Yes
+Wisconsin,Lafayette,Naur,Yes,Yes
+Wisconsin,Langlade,Naur,Yes,Yes
+Wisconsin,Lincoln,Naur,Yes,Yes
+Wisconsin,Manitowoc,Naur,Yes,Yes
+Wisconsin,Marathon,Naur,Yes,Yes
+Wisconsin,Marinette,Naur,Yes,Yes
+Wisconsin,Marquette,Naur,Yes,Yes
+Wisconsin,Menominee,Naur,Yes,Yes
+Wisconsin,Milwaukee,Yes,Yes,Yes
+Wisconsin,Monroe,Naur,Yes,Yes
+Wisconsin,Oconto,Naur,Yes,Yes
+Wisconsin,Oneida,Naur,Yes,Yes
+Wisconsin,Outagamie,Naur,Yes,Yes
+Wisconsin,Ozaukee,Naur,Yes,Yes
+Wisconsin,Pepin,Naur,Yes,Yes
+Wisconsin,Pierce,Naur,Yes,Yes
+Wisconsin,Polk,Naur,Yes,Yes
+Wisconsin,Portage,Naur,Yes,Yes
+Wisconsin,Price,Naur,Yes,Yes
+Wisconsin,Racine,Yes,Yes,Yes
+Wisconsin,Richland,Naur,Yes,Yes
+Wisconsin,Rock,Naur,Yes,Yes
+Wisconsin,Rusk,Naur,Yes,Yes
+Wisconsin,Sauk,Naur,Yes,Yes
+Wisconsin,Sawyer,Naur,Yes,Yes
+Wisconsin,Shawano,Naur,Yes,Yes
+Wisconsin,Sheboygan,Naur,Yes,Yes
+Wisconsin,St Croix,Naur,Yes,Yes
+Wisconsin,Taylor,Naur,Yes,Yes
+Wisconsin,Trempealeau,Naur,Yes,Yes
+Wisconsin,Vernon,Naur,Yes,Yes
+Wisconsin,Vilas,Naur,Yes,Yes
+Wisconsin,Walworth,Naur,Yes,Yes
+Wisconsin,Washburn,Naur,Yes,Yes
+Wisconsin,Washington,Naur,Yes,Yes
+Wisconsin,Waukesha,Yes,Yes,Yes
+Wisconsin,Waupaca,Naur,Yes,Yes
+Wisconsin,Waushara,Naur,Yes,Yes
+Wisconsin,Winnebago,Yes,Yes,Yes
+Wisconsin,Wood,Naur,Yes,Yes
+Wyoming,Albany,Naur,Yes,Yes
+Wyoming,Big Horn,Naur,Yes,Yes
+Wyoming,Campbell,Naur,Yes,Yes
+Wyoming,Carbon,Naur,Yes,Yes
+Wyoming,Converse,Naur,Yes,Yes
+Wyoming,Crook,Naur,Yes,Yes
+Wyoming,Fremont,Naur,Yes,Yes
+Wyoming,Goshen,Naur,Yes,Yes
+Wyoming,Hot Springs,Naur,Yes,Yes
+Wyoming,Johnson,Naur,Yes,Yes
+Wyoming,Laramie,Naur,Yes,Yes
+Wyoming,Lincoln,Naur,Yes,Yes
+Wyoming,Natrona,Naur,Yes,Yes
+Wyoming,Niobrara,Naur,Yes,Yes
+Wyoming,Park,Naur,Yes,Yes
+Wyoming,Platte,Naur,Yes,Yes
+Wyoming,Sheridan,Naur,Yes,Yes
+Wyoming,Sublette,Naur,Yes,Yes
+Wyoming,Sweetwater,Naur,Yes,Yes
+Wyoming,Teton,Naur,Yes,Yes
+Wyoming,Uinta,Naur,Yes,Yes
+Wyoming,Washakie,Naur,Yes,Yes
+Wyoming,Weston,Naur,Yes,Yes
+Wyoming,Yellowstone National Park,Naur,Yes,Yes

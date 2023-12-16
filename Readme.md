@@ -14,7 +14,7 @@ wm2474@columbia.edu
 
 Accenture mentor & co-mentors: Dr. Paris “AJ” Adkins-Jackson
 
-Instructor/CA: Prof. Sining Chen, Aayush Verma
+Instructor/CA: Prof. Sining Chen
 
 The Multifaceted Life Course Structural Racism (MLCSR) measure is a compilation of publicly available datasets that capture aspects of structural racism through two pathways, ten domains and three historic periods: before the Civil Rights Act of 1968, Desegregation/Integration (1969-1999) and Modern Times (2000-present). In our research, we examined life course structural racism via two pathways (structural violence and limited/restricted resource access) and three domains (government representation, environmental pollution and media & marketing) using public datasets to determine its effect on dementia in individuals racialized as Black. 
 

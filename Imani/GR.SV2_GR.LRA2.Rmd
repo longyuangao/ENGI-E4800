@@ -1,0 +1,1016 @@
+---
+title: "Coding the GR.SV2 and GR.LRA2 Variables"
+author: "Imani Oluwafumilayo Maliti"
+date: "2023-11-27"
+output:
+  html_document: 
+    code_download: true
+    toc: true
+    toc_float: true 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# loading necessary packages
+```{r, message=FALSE}
+library(tidyverse)
+library(readxl)
+```
+
+# loading & cleaning original tables 
+## the excel tables for districts (broken down by counties) for the distcrict courts in all 50 states, D.C., and Puerto Rico
+```{r}
+court_appeal_districts <- read_excel("Book4.xlsx", 
+                   sheet = "all circuits")
+```
+
+## the list of Black district court judges
+source for date values: https://www.statmethods.net/data-input/dates.html
+```{r}
+dist_judges <- read.csv("List_of_African_American_federal_judges_3.csv")
+dist_judges_69_99 <- dist_judges |>
+  mutate(Began.active.service = as.Date(dist_judges$Began.active.service, "%B %d, %Y"),
+         Ended.active.service = as.Date(dist_judges$Ended.active.service, "%B %d, %Y"),
+         began.year = as.numeric(format(Began.active.service, "%y")),
+         end.year = as.numeric(format(Ended.active.service, "%y"))) |>
+  filter(end.year >= 69 & began.year <= 99)
+```
+
+
+## the empty table that we need to code into [GSV2]
+```{r}
+empty_table <- read_excel("VARIABLE for coder X.xlsx")
+```
+
+# GR.SV2
+
+## The GV.SV2 Pseudocode
+1. make a column called GSV2 in the empty table </br>
+2. for every district in the subset of judges </br>
+3. in the empty table under the GSV2 variable, </br>
+4. for every county in that district, mark a 0 </br>
+5. at the end of going through every district, change all the NAs under GR.SV2 to a 1</br>
+
+## Creating the GR.SV2 Dataset
+```{r}
+GSV2 <- empty_table |>
+  mutate(gsv2.all = `VARIABLE NAME`) |>
+  subset(select = -c(`VARIABLE NAME`))
+
+dists <- unique(dist_judges_69_99$District)
+
+for (i in 1:length(dists)) {
+  counties <- court_appeal_districts |>
+    filter(state_district_abbrev == dists[i]) |>
+    select(county, state)
+  
+  state_of_focus <- unique(counties$state)
+  
+  GSV2 <- GSV2 |>
+    mutate(gsv2.all = case_when(ALLCOUNTIES %in% counties$county & STATE == state_of_focus ~ 0,
+                                gsv2.all == 0 ~ 0))
+}
+
+GSV2 <- GSV2 |>
+  mutate(gsv2.all = replace_na(gsv2.all, 1))
+
+anyNA(GSV2$gsv2.all)
+
+write.csv(GSV2, "GSV2.csv")
+```
+
+## Creating the GR.SV2 Dataset for Each Year from 1969 to 1999
+```{r}
+GSV2_overtime <- empty_table |>
+  subset(select = -c(`VARIABLE NAME`))
+yrs <- unique(dist_judges_69_99$began.year) 
+yrs
+
+judges.df <- dist_judges_69_99
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.69 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 69 & end.year >= 69) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.69 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.69 > 0 ~ gsv.69),
+           gsv.69 = replace_na(gsv.69, 0))
+  
+}
+```
+
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.70 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 70 & end.year >= 70) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.70 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.70 > 0 ~ gsv.70),
+           gsv.70 = replace_na(gsv.70, 0))
+  
+}
+```
+
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.71 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 71 & end.year >= 71) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.71 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.71 > 0 ~ gsv.71),
+           gsv.71 = replace_na(gsv.71, 0))
+  
+}
+```
+
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.72 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 72 & end.year >= 72) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.72 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.72 > 0 ~ gsv.72),
+           gsv.72 = replace_na(gsv.72, 0))
+  
+}
+```
+
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.73 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 73 & end.year >= 73) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.73 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.73 > 0 ~ gsv.73),
+           gsv.73 = replace_na(gsv.73, 0))
+  
+}
+```
+
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.74 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 74 & end.year >= 74) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.74 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.74 > 0 ~ gsv.74),
+           gsv.74 = replace_na(gsv.74, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.75 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 75 & end.year >= 75) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.75 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.75 > 0 ~ gsv.75),
+           gsv.75 = replace_na(gsv.75, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.76 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 76 & end.year >= 76) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.76 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.76 > 0 ~ gsv.76),
+           gsv.76 = replace_na(gsv.76, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.77 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 77 & end.year >= 77) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.77 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.77 > 0 ~ gsv.77),
+           gsv.77 = replace_na(gsv.77, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.78 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 78 & end.year >= 78) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.78 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.78 > 0 ~ gsv.78),
+           gsv.78 = replace_na(gsv.78, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.79 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 79 & end.year >= 79) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.79 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.79 > 0 ~ gsv.79),
+           gsv.79 = replace_na(gsv.79, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.80 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 80 & end.year >= 80) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.80 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.80 > 0 ~ gsv.80),
+           gsv.80 = replace_na(gsv.80, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.81 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 81 & end.year >= 81) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.81 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.81 > 0 ~ gsv.81),
+           gsv.81 = replace_na(gsv.81, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.82 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 82 & end.year >= 82) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.82 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.82 > 0 ~ gsv.82),
+           gsv.82 = replace_na(gsv.82, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.83 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 83 & end.year >= 83) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.83 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.83 > 0 ~ gsv.83),
+           gsv.83 = replace_na(gsv.83, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.84 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 84 & end.year >= 84) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.84 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.84 > 0 ~ gsv.84),
+           gsv.84 = replace_na(gsv.84, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.85 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 85 & end.year >= 85) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.85 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.85 > 0 ~ gsv.85),
+           gsv.85 = replace_na(gsv.85, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.86 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 86 & end.year >= 86) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.86 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.86 > 0 ~ gsv.86),
+           gsv.86 = replace_na(gsv.86, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.87 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 87 & end.year >= 87) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.87 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.87 > 0 ~ gsv.87),
+           gsv.87 = replace_na(gsv.87, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.88 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 88 & end.year >= 88) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.88 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.88 > 0 ~ gsv.88),
+           gsv.88 = replace_na(gsv.88, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.89 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 89 & end.year >= 89) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.89 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.89 > 0 ~ gsv.89),
+           gsv.89 = replace_na(gsv.89, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.90 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 90 & end.year >= 90) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.90 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.90 > 0 ~ gsv.90),
+           gsv.90 = replace_na(gsv.90, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.91 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 91 & end.year >= 91) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.91 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.91 > 0 ~ gsv.91),
+           gsv.91 = replace_na(gsv.91, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.92 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 92 & end.year >= 92) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.92 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.92 > 0 ~ gsv.92),
+           gsv.92 = replace_na(gsv.92, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.93 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 93 & end.year >= 93) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.93 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.93 > 0 ~ gsv.93),
+           gsv.93 = replace_na(gsv.93, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.94 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 94 & end.year >= 94) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.94 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.94 > 0 ~ gsv.94),
+           gsv.94 = replace_na(gsv.94, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.95 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 95 & end.year >= 95) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.95 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.95 > 0 ~ gsv.95),
+           gsv.95 = replace_na(gsv.95, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.96 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 96 & end.year >= 96) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.96 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.96 > 0 ~ gsv.96),
+           gsv.96 = replace_na(gsv.96, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.97 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 97 & end.year >= 97) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.97 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.97 > 0 ~ gsv.97),
+           gsv.97 = replace_na(gsv.97, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.98 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 98 & end.year >= 98) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.98 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.98 > 0 ~ gsv.98),
+           gsv.98 = replace_na(gsv.98, 0))
+  
+}
+```
+
+```{r}
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.99 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 99 & end.year >= 99) |>
+  select(District) |>
+  group_by(District) |>
+  summarise(n = n()) |>
+  ungroup()
+
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists_yr[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties_yr$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.99 = case_when(ALLCOUNTIES %in% counties_yr$county & STATE == state_of_focus_yr ~ current_yr_subeset$n[i],
+           gsv.99 > 0 ~ gsv.99),
+           gsv.99 = replace_na(gsv.99, 0))
+  
+}
+```
+
+```{r}
+write_csv(GSV2_overtime, "gsv2_count_over_yrs.csv")
+```
+
+## Creating the GR.LRA2 Dataset
+```{r}
+GRLRA2 <- empty_table |>
+  subset(select = -c(`VARIABLE NAME`)) |>
+  mutate(gr.lra.2 = NA)
+
+for (i in 1:nrow(GSV2_overtime)) {
+  for (j in 7:(ncol(GSV2_overtime)-1)) {
+    GRLRA2$gr.lra.2[i] <- case_when(GSV2_overtime[i,j] < GSV2_overtime[i,(j+1)] ~ 0,
+                                  GRLRA2$gr.lra.2[i] == 0 ~ 0)
+  }
+}
+
+GRLRA2 <- GRLRA2 |>
+  mutate(gr.lra.2 = replace_na(gr.lra.2, 1))
+
+write.csv(GRLRA2, "GRLRA2.csv")
+```
+
+
+
+```{r, echo=FALSE}
+## Code That DIDN'T WORK
+GSV2_overtime <- GSV2_overtime |>
+  mutate(gsv.70 = NA)
+
+current_yr_subeset <- judges.df |>
+  filter(began.year <= 70 & end.year >= 70) |>
+  select(District)
+  
+dists_yr <- unique(current_yr_subeset$District)
+  
+for (i in 1:length(dists_yr)) {
+  counties_yr <- court_appeal_districts |>
+    filter(state_district_abbrev == dists[i]) |>
+    select(county, state)
+  
+  state_of_focus_yr <- unique(counties$state)
+  
+  GSV2_overtime <- GSV2_overtime |>
+    mutate(gsv.70 = case_when(ALLCOUNTIES %in% counties$county & STATE == state_of_focus ~ 0,
+                              gsv.70 == 0 ~ 0))
+  
+}
+```
+

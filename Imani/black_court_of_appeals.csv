@@ -1,0 +1,61 @@
+#,Judge,Circuit,State,"Began active
+service","Ended active
+service","Ended senior
+status","Reason for
+termination",Appointed by
+1,William H. Hastie,Third,VI,"October 21, 1949","May 31, 1971","April 14, 1976",death,Truman
+2,Thurgood Marshall,Second,MD,"October 5, 1961","August 23, 1965",—,appointed Solicitor General,Kennedy
+3,Wade H. McCree,Sixth,MI,"September 7, 1966","March 28, 1977",—,appointed Solicitor General,Johnson
+4,Spottswood W. Robinson III,D.C.,DC,"November 3, 1966","September 1, 1989","October 11, 1998",death,Johnson
+5,A. Leon Higginbotham Jr.,Third,PA,"October 11, 1977","January 31, 1991","March 5, 1993",retirement,Carter
+6,Damon Keith,Sixth,MI,"October 21, 1977","May 1, 1995","April 28, 2019",death,Carter
+7,Theodore McMillian,Eighth,MO,"September 23, 1978","July 1, 2003","January 18, 2006",death,Carter
+8,Amalya Lyle Kearse,Second,NY,"June 21, 1979","June 11, 2002",Incumbent,—,Carter
+9,Joseph W. Hatchett,Fifth,FL,"July 13, 1979","October 1, 1981",—,reassigned to Eleventh Cir.,Carter
+9,Joseph W. Hatchett,Eleventh,FL,"October 1, 1981","May 14, 1999",—,retirement,Carter
+10,J. Jerome Farris,Ninth,WA,"September 27, 1979","March 4, 1995","July 23, 2020",death,Carter
+11,Nathaniel R. Jones,Sixth,OH,"October 5, 1979","May 13, 1995","March 30, 2002",retirement,Carter
+12,Cecil F. Poole,Ninth,CA,"November 27, 1979","January 15, 1996","November 12, 1997",death,Carter
+13,Harry T. Edwards,D.C.,DC,"February 20, 1980","November 3, 2005",Incumbent,—,Carter
+14,Lawrence W. Pierce,Second,NY,"November 18, 1981","January 1, 1990","March 31, 1995",retirement,Reagan
+15,Clarence Thomas,D.C.,DC,"March 12, 1990","October 23, 1991",—,elevation to Supreme Court,G.H.W. Bush
+16,Timothy K. Lewis,Third,PA,"October 9, 1992","June 30, 1999",—,resignation,G.H.W. Bush
+17,Judith W. Rogers,D.C.,DC,"March 11, 1994","September 1, 2022",Incumbent,—,Clinton
+18,Carl E. Stewart,Fifth,LA,"May 9, 1994",Incumbent,—,—,Clinton
+19,Theodore McKee,Third,PA,"June 9, 1994","October 20, 2022",Incumbent,—,Clinton
+20,R. Guy Cole Jr.,Sixth,OH,"December 26, 1995",Incumbent,—,—,Clinton
+21,Eric L. Clay,Sixth,MI,"August 1, 1997",Incumbent,—,—,Clinton
+22,Charles R. Wilson,Eleventh,FL,"August 9, 1999",Incumbent,—,—,Clinton
+23,Ann Claire Williams,Seventh,IL,"November 15, 1999","June 5, 2017","January 16, 2018",retirement,Clinton
+24,Johnnie B. Rawlinson,Ninth,NV,"July 26, 2000",Incumbent,—,—,Clinton
+25,Roger Gregory,Fourth,VA,"December 27, 2000",Incumbent,—,—,"Clinton
+G.W. Bush"
+26,Barrington D. Parker Jr.,Second,NY,"October 16, 2001","October 10, 2009",Incumbent,—,G.W. Bush
+27,Lavenski Smith,Eighth,AR,"July 19, 2002",Incumbent,—,—,G.W. Bush
+28,Allyson K. Duncan,Fourth,NC,"August 15, 2003","March 21, 2019","July 31, 2019",retirement,G.W. Bush
+29,Janice Rogers Brown,D.C.,DC,"June 10, 2005","August 31, 2017",—,retirement,G.W. Bush
+30,Jerome Holmes,Tenth,OK,"August 9, 2006",Incumbent,—,—,G.W. Bush
+31,Andre M. Davis,Fourth,MD,"November 10, 2009","February 28, 2014","August 31, 2017",retirement,Obama
+32,Joseph A. Greenaway Jr.,Third,NJ,"February 12, 2010","June 15, 2023",—,retirement,Obama
+33,O. Rogeriee Thompson,First,RI,"March 30, 2010","September 21, 2022",Incumbent,—,Obama
+34,James Andrew Wynn,Fourth,NC,"August 10, 2010",Incumbent,—,—,Obama
+35,Raymond Lohier,Second,NY,"December 20, 2010",Incumbent,—,—,Obama
+36,James E. Graves Jr.,Fifth,MS,"February 15, 2011",Incumbent,—,—,Obama
+37,Bernice B. Donald,Sixth,TN,"September 8, 2011","September 27, 2022","January 20, 2023",retirement,Obama
+38,Paul J. Watford,Ninth,CA,"May 22, 2012","May 31, 2023",—,resignation,Obama
+39,Robert L. Wilkins,D.C.,DC,"January 15, 2014",Incumbent,—,—,Obama
+40,Ketanji Brown Jackson,D.C.,DC,"June 17, 2021","June 29, 2022",—,elevation to Supreme Court,Biden
+41,Candace Jackson-Akiwumi,Seventh,IL,"July 1, 2021",Incumbent,—,—,Biden
+42,Tiffany P. Cunningham,Federal,DC,"August 6, 2021",Incumbent,—,—,Biden
+43,Eunice C. Lee,Second,NY,"August 16, 2021",Incumbent,—,—,Biden
+44,Holly A. Thomas,Ninth,CA,"January 24, 2022",Incumbent,—,—,Biden
+45,Stephanie D. Davis,Sixth,MI,"June 14, 2022",Incumbent,—,—,Biden
+46,J. Michelle Childs,D.C.,DC,"July 25, 2022",Incumbent,—,—,Biden
+47,Andre Mathis,Sixth,TN,"September 27, 2022",Incumbent,—,—,Biden
+48,Arianna J. Freeman,Third,PA,"October 20, 2022",Incumbent,—,—,Biden
+49,Doris Pryor,Seventh,IN,"December 9, 2022",Incumbent,—,—,Biden
+50,Tamika Montgomery-Reeves,Third,DE,"February 7, 2023",Incumbent,—,—,Biden
+51,Dana Douglas,Fifth,LA,"December 16, 2022",Incumbent,—,—,Biden
+52,DeAndrea G. Benjamin,Fourth,SC,"February 21, 2023",Incumbent,—,—,Biden
+53,Maria Araújo Kahn,Second,CT,"March 10, 2023",Incumbent,—,—,Biden
+54,Nancy Abudu,Eleventh,GA,"May 26, 2023",Incumbent,—,—,Biden
